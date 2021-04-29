@@ -1,5 +1,6 @@
 $(window).on('load', function() {
 
+var markers =  L.markerClusterGroup()
 
     /** Get data from Google Sheet and add markers to map
      */
@@ -20,9 +21,41 @@ $(window).on('load', function() {
           // if needed, call this function to include all data as a table
             // createTable(parsedData)
 
-          getListOfDates(parsedData)
+          var dates = getListOfDates(parsedData)
 
-          clusterDataIntoLocations(parsedData)
+          // create timeline
+          var sliderElement = document.createElement("input");
+          sliderElement.type = 'text'
+          sliderElement.setAttribute('id', 'timeline')
+          var divContainer = document.getElementById("timelineSection");
+          divContainer.innerHTML = "";
+          divContainer.appendChild(sliderElement);
+          var mySlider = new rSlider({
+              target: '#timeline',
+              values: dates,
+              range: false,
+              tooltip: true,
+              scale: true,
+              labels: false,
+              set: dates[0],
+              disabled: false,
+              onChange: function(value) {
+                  console.log(value)
+                  // remove existing markers
+                  // todo this doesn't work
+                  if (map.hasLayer(this.markers)) {
+                      map.removeLayer(this.markers)
+                  }
+
+
+                  // show data for the selected date
+                  showDataForDate(value, parsedData);
+              }
+          });
+
+
+
+          // clusterDataIntoLocations(parsedData)
 
           $('#map').css('visibility', 'visible');
           $('.loader').hide();
@@ -32,6 +65,17 @@ $(window).on('load', function() {
     })
 
     //--------------------- Utility methods
+    function showDataForDate(date, data) {
+        // limit data to that date
+        var selectedData = []
+        for (var j = 0; j < data.length; j++) {
+           if (data[j]["Year of Publication"] === date) {
+               selectedData.push(data[j])
+           }
+        }
+        console.log(selectedData)
+        clusterDataIntoLocations(selectedData)
+    }
 
     // Get list of all dates in data
     function getListOfDates(data) {
@@ -56,7 +100,7 @@ $(window).on('load', function() {
         dates = [...new Set(dates)]
         // convert to array to sort numerically
        dates = Array.from(dates).sort();
-        console.log(dates)
+       return dates
     }
 
     // cluster data into locations
@@ -147,7 +191,7 @@ $(window).on('load', function() {
         });
 
         // create cluster for this location
-        var markers = L.markerClusterGroup();
+       this.markers = L.markerClusterGroup();
 
         for (var i = 0; i < entries.length; i++) {
             if (entries[i]["Type of Text"] === 'translation') {
