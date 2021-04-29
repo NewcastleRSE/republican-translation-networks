@@ -17,28 +17,13 @@ $(window).on('load', function() {
           var parsedData = Papa.parse(Papa.unparse(data['values']), {header: true} ).data
           // todo check for errors
 
-            createTable(parsedData)
+          // if needed, call this function to include all data as a table
+            // createTable(parsedData)
 
-          // get unique list of all locations
-          var countries = []
-          for (var j = 0; j < parsedData.length; j++) {
-              var country = parsedData[j]["Place of Publication"]
-              countries.push(country)
-          }
-          countries = [...new Set(countries)]
+          getListOfDates(parsedData)
 
-          // group data into clusters per country
-          for (var k = 0; k < countries.length; k++) {
-              var country = countries[k]
-              var entries = _.filter(parsedData, function(o) {return o["Place of Publication"] === country})
+          clusterDataIntoLocations(parsedData)
 
-              // for each group of entries, create a cluster on the map
-              createCluster(entries)
-          }
-
-        // for (var i = 0; i < parsedData.length; i++) {
-        //     L.marker([parsedData[i]["Latitude"], parsedData[i]["Longitude"]]).addTo(map)
-        // }
           $('#map').css('visibility', 'visible');
           $('.loader').hide();
       }
@@ -47,6 +32,52 @@ $(window).on('load', function() {
     })
 
     //--------------------- Utility methods
+
+    // Get list of all dates in data
+    function getListOfDates(data) {
+        var dates = []
+        for (var j = 0; j < data.length; j++) {
+            var date = data[j]["Year of Publication"]
+
+            // strip starting c if present
+            date = date.replace("c","")
+
+            // convert to number - if can't then move on to next entry
+            try {
+                date = parseInt(date, 10)
+            }
+            catch {
+                continue;
+            }
+
+           dates.push(date)
+        }
+        // use set to ensure unique
+        dates = [...new Set(dates)]
+        // convert to array to sort numerically
+       dates = Array.from(dates).sort();
+        console.log(dates)
+    }
+
+    // cluster data into locations
+    function clusterDataIntoLocations(data) {
+        // get unique list of all locations
+        var locations = []
+        for (var j = 0; j < data.length; j++) {
+            var location = data[j]["Place of Publication"]
+           locations.push(location)
+        }
+        locations = [...new Set(locations)]
+
+        // group data into clusters per country
+        for (var k = 0; k < locations.length; k++) {
+            var location = locations[k]
+            var entries = _.filter(data, function(o) {return o["Place of Publication"] === location})
+
+            // for each group of entries, create a cluster on the map
+            createCluster(entries)
+        }
+    }
 
     // create table
     function createTable(jsonData) {
