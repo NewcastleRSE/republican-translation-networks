@@ -1,0 +1,6 @@
+google-doc-url.js
+.DS_Store
+.idea
+/.jekyll-cache/
+/_site/
+Gemfile.lock
