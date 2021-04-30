@@ -2,12 +2,23 @@ $(window).on('load', function() {
 
 
 
+
     /** Get data from Google Sheet and add markers to map
      */
     $.ajax({
         url:"https://republicantranslationsfunction.azurewebsites.net/api/servesheetskey",
         headers:{ "Access-Control-Allow-Origin": "*" },
-        success: function(key) {
+        success: function(response) {
+            var key = JSON.parse(response).sheets
+
+            // Set tile layer
+            var mapKey =  JSON.parse(response).thunder
+          L.tileLayer('https://{s}.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png?apikey={apikey}', {
+              attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+              apikey: mapKey
+            }).addTo(map);
+
+
         //    Get data from sheets
         $.getJSON(
       "https://sheets.googleapis.com/v4/spreadsheets/10hoBLjIu0_qothMvChC8mkiI_QyEh7KCwOs4TFxq0kk/values/Sheet1?key=" + key,
