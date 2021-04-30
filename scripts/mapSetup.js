@@ -1,6 +1,6 @@
 $(window).on('load', function() {
 
-var markers =  L.markerClusterGroup()
+
 
     /** Get data from Google Sheet and add markers to map
      */
@@ -43,10 +43,16 @@ var markers =  L.markerClusterGroup()
                   console.log(value)
                   // remove existing markers
                   // todo this doesn't work
-                  if (map.hasLayer(this.markers)) {
-                      map.removeLayer(this.markers)
-                  }
+                  map.eachLayer((layer) => {
+                      // don't remove baselayer
+                      if (layer instanceof L.TileLayer) {
 
+                      } else {
+                          console.log('remove layer')
+                          map.removeLayer(layer)
+                      }
+
+                  })
 
                   // show data for the selected date
                   showDataForDate(value, parsedData);
@@ -73,7 +79,6 @@ var markers =  L.markerClusterGroup()
                selectedData.push(data[j])
            }
         }
-        console.log(selectedData)
         clusterDataIntoLocations(selectedData)
     }
 
@@ -191,7 +196,7 @@ var markers =  L.markerClusterGroup()
         });
 
         // create cluster for this location
-       this.markers = L.markerClusterGroup();
+        var markers = L.markerClusterGroup();
 
         for (var i = 0; i < entries.length; i++) {
             if (entries[i]["Type of Text"] === 'translation') {
