@@ -42,27 +42,30 @@ $(window).on('load', function() {
               onChange: function(value) {
                   console.log(value)
                   // remove existing markers
-                  // todo this doesn't work
-                  map.eachLayer((layer) => {
-                      // don't remove baselayer
-                      if (layer instanceof L.TileLayer) {
-
-                      } else {
-                          console.log('remove layer')
-                          map.removeLayer(layer)
-                      }
-
-                  })
+                 clearAllButBaseLayer();
 
                   // show data for the selected date
                   showDataForDate(value, parsedData);
               }
           });
 
+          // create controls
+          var allBtn = document.createElement("button");
+          var controlsContainer = document.getElementById("controls");
+          allBtn.innerHTML = "View all";
+          controlsContainer.appendChild(allBtn);
+          allBtn.addEventListener('click', () => {
+              // show data for all years
+
+              // clear any markers already visible to avoid duplicates
+              clearAllButBaseLayer();
+
+              clusterDataIntoLocations(parsedData);
+          })
 
 
-          // clusterDataIntoLocations(parsedData)
-
+          // make controls and map visible
+          $('#controls').css('visibility', 'visible');
           $('#map').css('visibility', 'visible');
           $('.loader').hide();
       }
@@ -71,6 +74,18 @@ $(window).on('load', function() {
     })
 
     //--------------------- Utility methods
+    function clearAllButBaseLayer() {
+        map.eachLayer((layer) => {
+            // don't remove baselayer
+            if (layer instanceof L.TileLayer) {
+
+            } else {
+                console.log('remove layer')
+                map.removeLayer(layer)
+            }
+        })
+    }
+
     function showDataForDate(date, data) {
         // limit data to that date
         var selectedData = []
