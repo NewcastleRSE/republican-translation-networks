@@ -16,7 +16,10 @@ body {
 
 /* TODO possibly indent title on smaller screens*/
 
+#allBtn {
+    margin: 20px 0;
 
+}
 
 
 #map {

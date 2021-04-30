@@ -64,6 +64,7 @@ $(window).on('load', function() {
           var allBtn = document.createElement("button");
           var controlsContainer = document.getElementById("controls");
           allBtn.innerHTML = "View all";
+          allBtn.id = "allBtn"
           controlsContainer.appendChild(allBtn);
           allBtn.addEventListener('click', () => {
               // show data for all years
@@ -214,11 +215,11 @@ $(window).on('load', function() {
       // create markers
         var originalMarker = L.AwesomeMarkers.icon({
             icon: 'fa-file',
-            markerColor: 'blue'
+            markerColor: '#29328C'
         });
         var transcriptionMarker = L.AwesomeMarkers.icon({
             icon: 'fa-copy',
-            markerColor: 'orange'
+            markerColor: '#F4A76B'
         });
 
         // create cluster for this location
