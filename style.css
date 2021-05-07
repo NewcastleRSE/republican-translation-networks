@@ -21,6 +21,17 @@ body {
 
 }
 
+nav ul li {
+    display: inline;
+}
+
+a {
+    color: #0078A8;
+}
+
+a:hover {
+    color: #8f5536;
+}
 
 #map {
     width: 100%;
