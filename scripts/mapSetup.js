@@ -27,7 +27,6 @@ $(window).on('load', function() {
         $.getJSON(
       "https://sheets.googleapis.com/v4/spreadsheets/10hoBLjIu0_qothMvChC8mkiI_QyEh7KCwOs4TFxq0kk/values/Sheet1?key=" + key,
       (data) => {
-        console.log('test5')
 
           // parse data from Sheets API into JSON
           var parsedData = Papa.parse(Papa.unparse(data['values']), {header: true} ).data
@@ -72,11 +71,9 @@ $(window).on('load', function() {
           allBtn.id = "allBtn"
           controlsContainer.appendChild(allBtn);
           allBtn.addEventListener('click', () => {
-              // show data for all years
-
               // clear any markers already visible to avoid duplicates
               clearAllButBaseLayer();
-
+              // show data for all years
               clusterDataIntoLocations(parsedData);
           })
             // animate timeline button
@@ -118,7 +115,7 @@ $(window).on('load', function() {
         //     mySlider.setValues(dates[index])
         //     await timer(3000)
         // }
-
+console.log('playClicked')
         // start at index of starting date and start from next date
         var index = dates.indexOf(parseInt(startingDate))+1
 
