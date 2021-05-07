@@ -32,6 +32,20 @@ $(window).on('load', function() {
           var parsedData = Papa.parse(Papa.unparse(data['values']), {header: true} ).data
           // todo check for errors
 
+          // sort datat with and without a location
+          // var dataWithoutLocation = [];
+          // var dataWithLocation = [];
+          //
+          // for ( var i = 0; i < parsedData.length; i++) {
+          //     if (parsedData[i]["Latitude"] === ""  || parsedData[i]["Longitude"] === "") {
+          //         dataWithoutLocation.push(parsedData[i]);
+          //     } else {
+          //           dataWithLocation.push(parsedData[i]);
+          //     }
+          // }
+
+
+
           // if needed, call this function to include all data as a table
             // createTable(parsedData)
 
@@ -57,6 +71,9 @@ $(window).on('load', function() {
                   console.log(value)
                   // remove existing markers
                  clearAllButBaseLayer();
+
+                  // clear data outside map
+                  clearDataOutsideMap()
 
                   // show data for the selected date
                   showDataForDate(value, parsedData);
@@ -98,6 +115,9 @@ $(window).on('load', function() {
           allBtn.addEventListener('click', () => {
               // clear any markers already visible to avoid duplicates
               clearAllButBaseLayer();
+
+              // todo clear and display beahviour for area outside map
+
               // show data for all years
               clusterDataIntoLocations(parsedData);
           })
@@ -120,7 +140,7 @@ $(window).on('load', function() {
         //     mySlider.setValues(dates[index])
         //     await timer(3000)
         // }
-console.log('playClicked')
+        console.log('playClicked')
         // start at index of starting date and start from next date
         var index = dates.indexOf(parseInt(startingDate))+1
 
@@ -165,7 +185,34 @@ console.log('playClicked')
                selectedData.push(data[j])
            }
         }
-        clusterDataIntoLocations(selectedData)
+
+        var withLocation = [];
+        var withoutLocation = [];
+
+        // put markers on map for data with location and add to list outside map for data without location
+        for ( var i = 0; i < selectedData.length; i++) {
+            if (selectedData[i]["Latitude"] === ""  || selectedData[i]["Longitude"] === "") {
+                withoutLocation.push(selectedData[i])
+            } else {
+                withLocation.push(selectedData[i])
+            }
+        }
+        clusterDataIntoLocations(withLocation)
+        displayDataOutsideMap(withoutLocation)
+    }
+
+    function displayDataOutsideMap(data) {
+        var container  = document.getElementById('dataOutsideMap')
+        data.forEach((entry) => {
+            var element = document.createElement('p')
+            // todo add proper data here
+            element.innerHTML = entry["Author Surname"]
+            container.appendChild(element);
+        })
+    }
+
+    function clearDataOutsideMap() {
+        $('#dataOutsideMap').empty();
     }
 
     // Get list of all dates in data
