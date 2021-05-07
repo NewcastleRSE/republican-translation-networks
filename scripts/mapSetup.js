@@ -64,6 +64,31 @@ $(window).on('load', function() {
           });
 
           // create controls
+
+            // animate timeline button
+          var playBtn = document.createElement("button");
+          var controlsContainer = document.getElementById("controls");
+          var playIcon = document.createElement("i")
+          playIcon.className = 'fa fa-play'
+          playBtn.appendChild(playIcon)
+          playBtn.id = "playBtn"
+          controlsContainer.appendChild(playBtn);
+          playBtn.addEventListener('click', () => {
+              var currentDate = mySlider.getValue()
+              stepThroughTimeline(currentDate, dates);
+          })
+          // stop animate timeline button
+          var stopBtn = document.createElement("button");
+          var controlsContainer = document.getElementById("controls");
+          var stopIcon = document.createElement("i")
+          stopIcon.className = 'fa fa-pause'
+          stopBtn.appendChild(stopIcon)
+          stopBtn.id = "stopBtn"
+          controlsContainer.appendChild(stopBtn);
+          stopBtn.addEventListener('click', () => {
+              stopSteppingThroughTimeline();
+          })
+
           // view all button
           var allBtn = document.createElement("button");
           var controlsContainer = document.getElementById("controls");
@@ -76,26 +101,6 @@ $(window).on('load', function() {
               // show data for all years
               clusterDataIntoLocations(parsedData);
           })
-            // animate timeline button
-          var playBtn = document.createElement("button");
-          var controlsContainer = document.getElementById("controls");
-          playBtn.innerHTML = "Play";
-          playBtn.id = "playBtn"
-          controlsContainer.appendChild(playBtn);
-          playBtn.addEventListener('click', () => {
-              var currentDate = mySlider.getValue()
-              stepThroughTimeline(currentDate, dates);
-          })
-          // stop animate timeline button
-          var stopBtn = document.createElement("button");
-          var controlsContainer = document.getElementById("controls");
-          stopBtn.innerHTML = "stop";
-          stopBtn.id = "stopBtn"
-          controlsContainer.appendChild(stopBtn);
-          stopBtn.addEventListener('click', () => {
-              stopSteppingThroughTimeline();
-          })
-
 
           // make controls and map visible
           $('#controls').css('visibility', 'visible');
