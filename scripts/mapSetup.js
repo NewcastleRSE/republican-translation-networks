@@ -1,7 +1,11 @@
 $(window).on('load', function() {
 
+    var mySlider;
 
+    // // Returns a Promise that resolves after "ms" Milliseconds - to pause for loop
+    // const timer = ms => new Promise(res => setTimeout(res, ms))
 
+    var playTimer;
 
     /** Get data from Google Sheet and add markers to map
      */
@@ -41,7 +45,7 @@ $(window).on('load', function() {
           var divContainer = document.getElementById("timelineSection");
           divContainer.innerHTML = "";
           divContainer.appendChild(sliderElement);
-          var mySlider = new rSlider({
+          mySlider = new rSlider({
               target: '#timeline',
               values: dates,
               range: false,
@@ -61,6 +65,7 @@ $(window).on('load', function() {
           });
 
           // create controls
+          // view all button
           var allBtn = document.createElement("button");
           var controlsContainer = document.getElementById("controls");
           allBtn.innerHTML = "View all";
@@ -74,6 +79,25 @@ $(window).on('load', function() {
 
               clusterDataIntoLocations(parsedData);
           })
+            // animate timeline button
+          var playBtn = document.createElement("button");
+          var controlsContainer = document.getElementById("controls");
+          playBtn.innerHTML = "Play";
+          playBtn.id = "playBtn"
+          controlsContainer.appendChild(playBtn);
+          playBtn.addEventListener('click', () => {
+              var currentDate = mySlider.getValue()
+              stepThroughTimeline(currentDate, dates);
+          })
+          // stop animate timeline button
+          var stopBtn = document.createElement("button");
+          var controlsContainer = document.getElementById("controls");
+          stopBtn.innerHTML = "stop";
+          stopBtn.id = "stopBtn"
+          controlsContainer.appendChild(stopBtn);
+          stopBtn.addEventListener('click', () => {
+              stopSteppingThroughTimeline();
+          })
 
 
           // make controls and map visible
@@ -86,6 +110,39 @@ $(window).on('load', function() {
     })
 
     //--------------------- Utility methods
+
+    async function stepThroughTimeline(startingDate, dates) {
+        // for (var index = 0; index < dates.length; index++) {
+        //     console.log(dates[index])
+        //     // for each date, set date on slider
+        //     mySlider.setValues(dates[index])
+        //     await timer(3000)
+        // }
+
+        // start at index of starting date and start from next date
+        var index = dates.indexOf(parseInt(startingDate))+1
+
+        if (index < 0) {
+            console.log('Unable to get index of date')
+        } else {
+            playTimer = setInterval(() => {
+                console.log(dates[index])
+                mySlider.setValues(dates[index])
+
+                // stop at last date
+                if (index === dates.length) {
+                    clearInterval(playTimer)
+                }
+
+                index++
+            }, 3000)
+        }
+    }
+
+    function stopSteppingThroughTimeline() {
+        clearInterval(playTimer)
+    }
+
     function clearAllButBaseLayer() {
         map.eachLayer((layer) => {
             // don't remove baselayer
@@ -128,12 +185,13 @@ $(window).on('load', function() {
 
            dates.push(date)
         }
+        // add 1640 and 1848 as bounds of project
+        dates.push(1640);
+        dates.push(1848);
+
         // use set to ensure unique
         dates = [...new Set(dates)]
 
-        // if 1640 and 1848 are not present, add to list so slider has them
-        dates.indexOf(1640) === -1 ? dates.push(1640) : console.log("This item already exists");
-        dates.indexOf(1848) === -1 ? dates.push(1848) : console.log("This item already exists");
 
         // convert to array to sort numerically
        dates = Array.from(dates).sort();
