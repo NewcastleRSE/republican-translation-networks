@@ -289,21 +289,20 @@ console.log('playClicked')
 
         // create cluster for this location
         var markers = L.markerClusterGroup();
-
+        // author surname, short title, language, publisher, year of publication
         for (var i = 0; i < entries.length; i++) {
+            var content = "<h6>" + entries[i]["Author Surname"] + ", " + entries[i]["Short Title"] + "</h6><p>" + entries[i]["Language"] + "</p> <p>" + entries[i]["Printer/Publisher"] + ", " + entries[i]["Place of Publication"] + "</p> <p>" + entries[i]["Year of Publication"] + "</p";
+
             if (entries[i]["Type of Text"] === 'translation') {
                 var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: transcriptionMarker});
-                var content = "<h6>" + entries[i]["Short Title"] + "</h6> <p>" + entries[i]["Year of Publication"] + "</p";
                 marker.bindPopup(content);
                 markers.addLayer(marker);
             } else if (entries[i]["Type of Text"] === 'original') {
                 var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: originalMarker});
-                var content = "<h6>" + entries[i]["Short Title"] + "</h6> <p>" + entries[i]["Year of Publication"] + "</p";
                 marker.bindPopup(content);
                 markers.addLayer(marker);
             } else {
                 var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]]);
-                var content = "<h6>" + entries[i]["Short Title"] + "</h6> <p>" + entries[i]["Year of Publication"] + "</p";
                 marker.bindPopup(content);
                 markers.addLayer(marker);
             }
