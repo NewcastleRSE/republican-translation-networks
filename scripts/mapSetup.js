@@ -130,6 +130,11 @@ $(window).on('load', function() {
         }
         // use set to ensure unique
         dates = [...new Set(dates)]
+
+        // if 1640 and 1848 are not present, add to list so slider has them
+        dates.indexOf(1640) === -1 ? dates.push(1640) : console.log("This item already exists");
+        dates.indexOf(1848) === -1 ? dates.push(1848) : console.log("This item already exists");
+
         // convert to array to sort numerically
        dates = Array.from(dates).sort();
        return dates
