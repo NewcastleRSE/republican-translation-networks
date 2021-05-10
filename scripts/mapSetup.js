@@ -38,6 +38,9 @@ $(window).on('load', function() {
 
           var dates = getListOfDates(parsedData)
 
+          // create legend
+          // createLegend()
+
           // create timeline
           var sliderElement = document.createElement("input");
           sliderElement.type = 'text'
@@ -112,6 +115,7 @@ $(window).on('load', function() {
           // make controls and map visible
           $('#controls').css('visibility', 'visible');
           $('#map').css('visibility', 'visible');
+          $('#legend').css('visibility', 'visible');
           $('.loader').hide();
       }
       )
@@ -119,6 +123,40 @@ $(window).on('load', function() {
     })
 
     //--------------------- Utility methods
+
+    function createLegend() {
+        var legendList = [
+            {name: 'Imprint', icon: 'fa fa-italic', colour: ''},
+            {name: 'Not imprint', icon: 'fa fa-times', colour: ''},
+            {name: 'Original', icon: 'fa fa-italic', colour: '#29328C'},
+            {name: 'Transcription', icon: 'fa fa-italic', colour: '#F4A76B'}
+
+            // {name: 'Unknown imprint', icon: '', colour: ''},
+
+        ]
+
+        var container = document.getElementById('legend');
+
+        legendList.forEach((entry) => {
+            var boxContainer = document.createElement("DIV");
+            var box = document.createElement("DIV");
+            var label = document.createElement("SPAN");
+
+            label.innerHTML = entry.name;
+            box.className = "box";
+            box.style.backgroundColor = entry.colour;
+
+            var icon = document.createElement("i")
+            icon.className = entry.icon
+            box.appendChild(icon)
+
+            boxContainer.appendChild(box);
+            boxContainer.appendChild(label);
+
+            container.appendChild(boxContainer);
+        })
+
+    }
 
     async function stepThroughTimeline(startingDate, dates) {
         // for (var index = 0; index < dates.length; index++) {
@@ -307,27 +345,32 @@ $(window).on('load', function() {
     }
 
 
-  // Returns an Awesome marker with specified parameters
-    function createMarkerIcon(icon, prefix, markerColor, iconColor) {
-        return L.AwesomeMarkers.icon({
-            icon: icon,
-            prefix: prefix,
-            markerColor: markerColor,
-            iconColor: iconColor
-        });
-    }
-
-
 
     // create cluster on map for list of points
     function createCluster(entries) {
-      // create markers
-        var originalMarker = L.AwesomeMarkers.icon({
-            icon: 'fa-file',
+        // create markers
+        var originalImprint = L.AwesomeMarkers.icon({
+            icon: 'fa-italic',
             markerColor: '#29328C'
         });
-        var transcriptionMarker = L.AwesomeMarkers.icon({
-            icon: 'fa-copy',
+        var transcriptionImprint = L.AwesomeMarkers.icon({
+            icon: 'fa-italic',
+            markerColor: '#F4A76B'
+        });
+        var originalNotImprint = L.AwesomeMarkers.icon({
+            icon: 'fa-times',
+            markerColor: '#29328C'
+        });
+        var transcriptionNotImprint = L.AwesomeMarkers.icon({
+            icon: 'fa-times',
+            markerColor: '#F4A76B'
+        });
+        var originalMaybeImprint = L.AwesomeMarkers.icon({
+            icon: '',
+            markerColor: '#29328C'
+        });
+        var transcriptionMaybeImprint = L.AwesomeMarkers.icon({
+            icon: '',
             markerColor: '#F4A76B'
         });
 
@@ -337,20 +380,46 @@ $(window).on('load', function() {
         for (var i = 0; i < entries.length; i++) {
             var content = "<h6>" + entries[i]["Author Surname"] + ", " + entries[i]["Short Title"] + "</h6><p>" + entries[i]["Language"] + "</p> <p>" + entries[i]["Printer/Publisher"] + ", " + entries[i]["Place of Publication"] + "</p> <p>" + entries[i]["Year of Publication"] + "</p";
 
+            // translations
             if (entries[i]["Type of Text"] === 'translation') {
-                var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: transcriptionMarker});
-                marker.bindPopup(content);
-                markers.addLayer(marker);
+                // imprints
+                if (entries[i]["Imprint"] === 't') {
+                    var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: transcriptionImprint});
+                    marker.bindPopup(content);
+                    markers.addLayer(marker);
+                }
+                // not imprints
+                if (entries[i]["Imprint"] === 'f') {
+                    var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: transcriptionNotImprint});
+                    marker.bindPopup(content);
+                    markers.addLayer(marker);
+                    // maybe imprints
+                } else {
+                    var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: transcriptionMaybeImprint});
+                    marker.bindPopup(content);
+                    markers.addLayer(marker);
+                }
+                // originals
             } else if (entries[i]["Type of Text"] === 'original') {
-                var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: originalMarker});
-                marker.bindPopup(content);
-                markers.addLayer(marker);
-            } else {
-                var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]]);
-                marker.bindPopup(content);
-                markers.addLayer(marker);
+                // imprints
+                if (entries[i]["Imprint"] === 't') {
+                    var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: originalImprint});
+                    marker.bindPopup(content);
+                    markers.addLayer(marker);
+                }
+                // not imprints
+                if (entries[i]["Imprint"] === 'f') {
+                    var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: originalNotImprint});
+                    marker.bindPopup(content);
+                    markers.addLayer(marker);
+                    // maybe imprints
+                } else {
+                    var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: originalMaybeImprint});
+                    marker.bindPopup(content);
+                    markers.addLayer(marker);
+                }
             }
+            map.addLayer(markers);
         }
-        map.addLayer(markers);
     }
 })
