@@ -8,12 +8,12 @@ body {
 
 /*override some theme styles*/
 .innerFullWidth {
-    width: 1000px;
+    width: 1400px;
     margin: auto;
 
 }
 
-@media(max-width: 1200px){
+@media(max-width: 1500px){
     .innerFullWidth {
         width: 80%;
         margin: auto;
@@ -32,11 +32,11 @@ body {
 }
 
 .columnL {
-   width: 70%;
+   width: 80%;
 }
 
 .columnR {
-    width: 28%;
+    width: 18%;
     padding-left: 10px;
 }
 

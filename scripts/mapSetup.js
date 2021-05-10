@@ -106,12 +106,26 @@ $(window).on('load', function() {
               // clear any markers already visible to avoid duplicates
               clearAllButBaseLayer();
 
-              // todo clear and display beahviour for area outside map
+              // clear and display data without years
+              clearDataOutsideMap()
 
-              // show data for all years
-              clusterDataIntoLocations(parsedData);
+              var withLocation = [];
+              var withoutLocation = [];
+
+              // put markers on map for data with location and add to list outside map for data without location
+              for ( var i = 0; i < parsedData.length; i++) {
+                  if (parsedData[i]["Latitude"] === ""  || parsedData[i]["Longitude"] === "") {
+                      withoutLocation.push(parsedData[i])
+                  } else {
+                      withLocation.push(parsedData[i])
+                  }
+              }
+              clusterDataIntoLocations(withLocation)
+              displayDataOutsideMap(withoutLocation)
+
           })
 
+          // make controls and map visible
           // make controls and map visible
           $('#controls').css('visibility', 'visible');
           $('#map').css('visibility', 'visible');
