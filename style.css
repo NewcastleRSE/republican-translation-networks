@@ -47,10 +47,10 @@ body {
         flex-direction: column;
     }
 
-   .container__col-1{
+   .columnL{
        width: 100%;
    }
-    .container__col-2{
+    .columnR{
         width: 100%;
     }
 }
