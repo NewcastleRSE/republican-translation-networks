@@ -32,19 +32,6 @@ $(window).on('load', function() {
           var parsedData = Papa.parse(Papa.unparse(data['values']), {header: true} ).data
           // todo check for errors
 
-          // sort datat with and without a location
-          // var dataWithoutLocation = [];
-          // var dataWithLocation = [];
-          //
-          // for ( var i = 0; i < parsedData.length; i++) {
-          //     if (parsedData[i]["Latitude"] === ""  || parsedData[i]["Longitude"] === "") {
-          //         dataWithoutLocation.push(parsedData[i]);
-          //     } else {
-          //           dataWithLocation.push(parsedData[i]);
-          //     }
-          // }
-
-
 
           // if needed, call this function to include all data as a table
             // createTable(parsedData)
@@ -203,10 +190,20 @@ $(window).on('load', function() {
 
     function displayDataOutsideMap(data) {
         var container  = document.getElementById('dataOutsideMap')
+
+        // add title
+        if (data.length > 0) {
+            var element = document.createElement('p')
+            element.style.fontWeight = 'bold'
+            element.innerHTML = "Works with unknown location:"
+            container.appendChild(element)
+        }
+
         data.forEach((entry) => {
             var element = document.createElement('p')
-            // todo add proper data here
-            element.innerHTML = entry["Author Surname"]
+            var content = "<p>" + entry["Author Surname"] + ", " + entry["Short Title"] + ", " + entry["Language"] + ", " + entry["Printer/Publisher"] + ", " + entry["Year of Publication"] + "</p";
+            element.innerHTML = content
+
             container.appendChild(element);
         })
     }
