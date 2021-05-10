@@ -8,13 +8,52 @@ body {
 
 /*override some theme styles*/
 .innerFullWidth {
-    /*TODO change for different screen sizes*/
     width: 1000px;
     margin: auto;
-    display: block;;
+
+}
+
+@media(max-width: 1200px){
+    .innerFullWidth {
+        width: 80%;
+        margin: auto;
+        display: block;
+    }
+
 }
 
 /* TODO possibly indent title on smaller screens*/
+
+
+/*Columns - horizontal on larger screens*/
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.columnL {
+   width: 70%;
+}
+
+.columnR {
+    width: 28%;
+    padding-left: 10px;
+}
+
+
+
+@media(max-width: 768px){
+    .row{
+        flex-direction: column;
+    }
+
+   .container__col-1{
+       width: 100%;
+   }
+    .container__col-2{
+        width: 100%;
+    }
+}
 
 #allBtn {
     float:right;
