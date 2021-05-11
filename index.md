@@ -8,3 +8,4 @@ title: {{site.title}}
 Some description or introduction here written in **markdown**.
 
 
+[a relative link](pages/about.md)
