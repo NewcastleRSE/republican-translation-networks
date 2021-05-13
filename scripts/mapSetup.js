@@ -403,7 +403,7 @@ $(window).on('load', function() {
                     markers.addLayer(marker);
                 }
                 // not imprints
-                if (entries[i]["Imprint"] === 'f') {
+                if (entries[i]["Imprint"] === 'n') {
                     var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: transcriptionNotImprint});
                     marker.bindPopup(content);
                     markers.addLayer(marker);
@@ -422,7 +422,7 @@ $(window).on('load', function() {
                     markers.addLayer(marker);
                 }
                 // not imprints
-                if (entries[i]["Imprint"] === 'f') {
+                if (entries[i]["Imprint"] === 'n') {
                     var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: originalNotImprint});
                     marker.bindPopup(content);
                     markers.addLayer(marker);
