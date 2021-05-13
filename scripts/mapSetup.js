@@ -7,6 +7,8 @@ $(window).on('load', function() {
 
     var playTimer;
 
+
+
     /** Get data from Google Sheet and add markers to map
      */
     $.ajax({
@@ -371,20 +373,21 @@ $(window).on('load', function() {
             icon: 'fa-italic',
             markerColor: '#F4A76B'
         });
-        var originalNotImprint = L.AwesomeMarkers.icon({
-            icon: 'fa-times',
+        var originalFalseImprint = L.AwesomeMarkers.icon({
+            icon: 'fa-exclamation',
             markerColor: '#29328C'
         });
-        var transcriptionNotImprint = L.AwesomeMarkers.icon({
-            icon: 'fa-times',
+        var transcriptionFalseImprint = L.AwesomeMarkers.icon({
+            icon: 'fa-exclamation',
             markerColor: '#F4A76B'
         });
-        var originalMaybeImprint = L.AwesomeMarkers.icon({
-            icon: '',
+        var originalNoImprint = L.AwesomeMarkers.icon({
+            icon: 'fa-times',
             markerColor: '#29328C'
         });
-        var transcriptionMaybeImprint = L.AwesomeMarkers.icon({
-            icon: '',
+        var transcriptionNoImprint = L.AwesomeMarkers.icon({
+            icon: 'fa-times',
+
             markerColor: '#F4A76B'
         });
 
@@ -403,13 +406,13 @@ $(window).on('load', function() {
                     markers.addLayer(marker);
                 }
                 // not imprints
-                if (entries[i]["Imprint"] === 'n') {
-                    var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: transcriptionNotImprint});
+                if (entries[i]["Imprint"] === 'f') {
+                    var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: transcriptionFalseImprint});
                     marker.bindPopup(content);
                     markers.addLayer(marker);
                     // maybe imprints
                 } else {
-                    var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: transcriptionMaybeImprint});
+                    var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: transcriptionNoImprint});
                     marker.bindPopup(content);
                     markers.addLayer(marker);
                 }
@@ -422,13 +425,13 @@ $(window).on('load', function() {
                     markers.addLayer(marker);
                 }
                 // not imprints
-                if (entries[i]["Imprint"] === 'n') {
-                    var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: originalNotImprint});
+                if (entries[i]["Imprint"] === 'f') {
+                    var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: originalFalseImprint});
                     marker.bindPopup(content);
                     markers.addLayer(marker);
                     // maybe imprints
                 } else {
-                    var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: originalMaybeImprint});
+                    var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: originalNoImprint});
                     marker.bindPopup(content);
                     markers.addLayer(marker);
                 }
