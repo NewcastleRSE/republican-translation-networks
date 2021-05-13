@@ -406,7 +406,7 @@ $(window).on('load', function() {
                     markers.addLayer(marker);
                 }
                 // not imprints
-                if (entries[i]["Imprint"] === 'f') {
+                else if (entries[i]["Imprint"] === 'f') {
                     var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: transcriptionFalseImprint});
                     marker.bindPopup(content);
                     markers.addLayer(marker);
@@ -418,6 +418,7 @@ $(window).on('load', function() {
                 }
                 // originals
             } else if (entries[i]["Type of Text"] === 'original') {
+
                 // imprints
                 if (entries[i]["Imprint"] === 't') {
                     var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: originalImprint});
@@ -425,7 +426,7 @@ $(window).on('load', function() {
                     markers.addLayer(marker);
                 }
                 // not imprints
-                if (entries[i]["Imprint"] === 'f') {
+                else if (entries[i]["Imprint"] === 'f') {
                     var marker = L.marker([entries[i]["Latitude"], entries[i]["Longitude"]], {icon: originalFalseImprint});
                     marker.bindPopup(content);
                     markers.addLayer(marker);
