@@ -7,7 +7,9 @@ Dr Kate Court
 Dr Gaby Mahlberg
 
 ## Site details
-The site uses GitHub Pages and will automatically update when changes are commited to the main branch. The site is available at: https://newcastlerse.github.io/republican-translation-networks). The map is built using [Leaflet](https://leafletjs.com/).
+The site uses GitHub Pages and will automatically update when changes are commited to the main branch. The site is available at: http://republican-translations.ncldata.dev/
+
+https://newcastlerse.github.io/republican-translation-networks). The map is built using [Leaflet](https://leafletjs.com/).
 
 ## Useful links:
 * Instructions for adding and editing content are [here](HowToAddContent.md).
