@@ -14,13 +14,13 @@ In the instructions below I refer to creating, editing and 'commiting' files. Yo
 
 
 To add a new page:
-1. Open `pages/template.md` and copy text.
+1. Open `template.md` n the `pages` folder and copy the text.
 2. Create a new file in the pages directory and call this your page's title (e.g. `about`). This will be a markdown file so use the file type `.md` (e.g. `about.md`). In this file paste the contents of template.md. The content between the 2 `---` lines won't show on the page, but tells GitHub pages what your page is called and what layout to use. You can leave the layout line as it is. Add your page title to replace the text `insert page title here`.
 3. Add any page content, deleting the placeholder text from the template. Save the file by commiting.
 
 Once you are ready to make your page available to site visitors, add it to the navigation menu:
 
-4. Open `_data/navigation.yml`.
+4. Open `navigation.yml` in the `_data` folder. This is a list of all the pages that you want to display in the navbar.
 5. You will see some existing pages, with each page having a title and url, and marked using a dash. In this file it is vital that the spacing stays as it is so make sure to take notice of any spaces! Copy one of the pages and paste wherever in the list you would like to add your page. Change the page title to your new page's title. You have created a page within the `pages` directory, so you will include this in the url. Change it to `/pages/` followed by your page's title. Instead of the markdown filetype (`.md`), use .html.
 
 To add an image:
@@ -29,4 +29,22 @@ To add an image:
 ```![Describe the picture for screen readers](../assets/filename.filetype)``` e.g. for the `flower.jpg` file: ```![Flowers on a table](../assets/flower.jpg)```.
 
 To add a link to an external website:
-1. An example link is in the `template.md` file. You can include the text you want to hyperlink in square brackets followed by the URL in normal brackets. Note, there is no space between the brackets, e.g. ``` Click [here](https://goodsite.com) for a good site.```
+An example link is in the `template.md` file. You can include the text you want to hyperlink in square brackets followed by the URL in normal brackets. Note, there is no space between the brackets, e.g. ``` Click [here](https://goodsite.com) for a good site.```
+
+To hide/reveal the map page on the navbar:
+1. Open `navigation.yml` in the `_data` folder.
+2. In this file a hastag at the start of a line means that line is 'commented out', and this means the line won't get shown on the navbar. You can see I've included an About page commented out and as example. If you want to hide the map page from the navbar then add a hashtag at the start of lines 4 and 5. If you want to include the map page on the navbar, remove the hashtags. 
+
+Show map on navbar:
+```
+- title: Map
+  url: /pages/map.html
+```
+
+Don't show map on navbar:
+```
+#- title: Map
+#  url: /pages/map.html
+```
+
+To view the map page when no link is showing on the navbar, go straight to this address: https://republican-translations.ncldata.dev/pages/map.html
