@@ -19,6 +19,7 @@ To add a new page:
 3. Add any page content, deleting the placeholder text from the template. Save the file by commiting.
 
 Once you are ready to make your page available to site visitors, add it to the navigation menu:
+
 4. Open `_data/navigation.yml`.
 5. You will see some existing pages, with each page having a title and url, and marked using a dash. In this file it is vital that the spacing stays as it is so make sure to take notice of any spaces! Copy one of the pages and paste wherever in the list you would like to add your page. Change the page title to your new page's title. You have created a page within the `pages` directory, so you will include this in the url. Change it to `/pages/` followed by your page's title. Instead of the markdown filetype (`.md`), use .html.
 
