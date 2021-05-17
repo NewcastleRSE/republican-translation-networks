@@ -23,6 +23,13 @@ body {
 }
 
 
+button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 2px;
+    cursor: pointer;
+}
+
 /*Columns - horizontal on larger screens*/
 .row {
     display: flex;
@@ -30,15 +37,29 @@ body {
 }
 
 .columnL {
-   width: 80%;
+   width: 70%;
 }
 
 .columnR {
-    width: 18%;
+    width: 28%;
     padding-left: 10px;
 }
 
-/* legend boxes*/
+/*small devices*/
+@media(max-width: 768px){
+    .row{
+        flex-direction: column;
+    }
+
+    .columnL{
+        width: 100%;
+    }
+    .columnR{
+        width: 100%;
+    }
+}
+
+/* legend*/
 .box {
     display: inline-block;
     height: 20px;
@@ -53,46 +74,28 @@ body {
     visibility: hidden;
 }
 
+/* side data panel*/
+.noLocEntry {
+    font-size: small;
+}
+
 span {
     margin-bottom: 5px;
 }
 
-/*small devices*/
-@media(max-width: 768px){
-    .row{
-        flex-direction: column;
-    }
-
-   .columnL{
-       width: 100%;
-   }
-    .columnR{
-        width: 100%;
-    }
-}
 
 /* marker popup formatting*/
 .leaflet-popup-content p {
     margin: 0;
 }
 
-/* side data panel*/
-.noLocEntry {
-    font-size: small;
-}
-
 #allBtn {
     float:right;
 }
 
+/* navbar */
 nav ul li {
     display: inline;
-}
-
-button {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 2px;
 }
 
 a {
@@ -129,57 +132,14 @@ h6 {
     font-size: 1.2em;
 }
 
-.intro-popup .leaflet-popup-tip-container {
-    width: 0;
-    height: 0;
-}
 
 .pointer {
     cursor: pointer;
 }
 
-.leaflet-control-custom {
-    padding: 6px 8px;
-    background: white;
-    box-shadow: 0 1px 5px rgba(0,0,0,0.4);
-    color: #333;
-    border-radius: 5px;
-}
 
-.leaflet-control-geocoder {
-    z-index: 9999;
-}
 
-form {
-    margin-top: 2px;
-}
-
-.polygons-legend-scale {
-    margin-top: 4px;
-    padding-top: 7px;
-    border-top: dotted 3px #eee;
-}
-
-.polygons-legend-scale i {
-    width: 18px;
-    height: 18px;
-    float: left;
-    margin-right: 8px;
-}
-
-.leaflet-popup-content {
-    min-width: 150px;
-}
-
-.leaflet-popup-content img {
-    width: 100%;
-    margin: 5px 0 5px 0;
-}
-
-.geojson-point-marker {
-    radius: 3;
-}
-
+/*loader*/
 .loader,
 .loader:before,
 .loader:after {
