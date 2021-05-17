@@ -257,6 +257,8 @@ $(window).on('load', function() {
         data.forEach((entry) => {
             var element = document.createElement('p')
             var content = "<p class='noLocEntry'>" + entry["Author Surname"] + ", " + entry["Short Title"] + ", " + entry["Language"] + ", " + entry["Printer/Publisher"] + ", " + entry["Place of Publication"] + ", " + entry["Year of Publication"] + "</p";
+            // todo switch to format for Gaby's sheet
+            // var content = "<p class='noLocEntry'>" + entry["Author Surname"] + ", " + entry["Short Title"] + ", " + entry["Language"] + ", " + entry["Publisher"] + ", " + entry["Printer"] + entry["Place of Publication"] + entry["Year of Publication"] + "</p";
             element.innerHTML = content
 
             container.appendChild(element);
@@ -397,7 +399,8 @@ $(window).on('load', function() {
         // author surname, short title, language, publisher, year of publication
         for (var i = 0; i < entries.length; i++) {
             var content = "<h6>" + entries[i]["Author Surname"] + ", " + entries[i]["Short Title"] + "</h6><p>" + entries[i]["Language"] + "</p> <p>" + entries[i]["Printer/Publisher"] + ", " + entries[i]["Place of Publication"] + "</p> <p>" + entries[i]["Year of Publication"] + "</p";
-
+            // todo change to new format for Gaby's sheet
+            // var content = "<h6>" + entries[i]["Author Surname"] + ", " + entries[i]["Short Title"] + "</h6><p>" + entries[i]["Language"] + "</p> <p>" + entries[i]["Printer"] + entries[i]["Publisher"] + ", " + entries[i]["Place of Publication"] + "</p> <p>" + entries[i]["Year of Publication"] + "</p";
             // translations
             if (entries[i]["Type of Text"] === 'translation') {
                 // imprints
