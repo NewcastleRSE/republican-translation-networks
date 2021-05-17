@@ -71,6 +71,16 @@ span {
     }
 }
 
+/* marker popup formatting*/
+.leaflet-popup-content p {
+    margin: 0;
+}
+
+/* side data panel*/
+.noLocEntry {
+    font-size: small;
+}
+
 #allBtn {
     float:right;
 }

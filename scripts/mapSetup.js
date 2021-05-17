@@ -122,6 +122,7 @@ $(window).on('load', function() {
                       withLocation.push(parsedData[i])
                   }
               }
+              console.log(withoutLocation)
               clusterDataIntoLocations(withLocation)
               displayDataOutsideMap(withoutLocation)
 
@@ -255,7 +256,7 @@ $(window).on('load', function() {
 
         data.forEach((entry) => {
             var element = document.createElement('p')
-            var content = "<p>" + entry["Author Surname"] + ", " + entry["Short Title"] + ", " + entry["Language"] + ", " + entry["Printer/Publisher"] + ", " + entry["Year of Publication"] + "</p";
+            var content = "<p class='noLocEntry'>" + entry["Author Surname"] + ", " + entry["Short Title"] + ", " + entry["Language"] + ", " + entry["Printer/Publisher"] + ", " + entry["Place of Publication"] + ", " + entry["Year of Publication"] + "</p";
             element.innerHTML = content
 
             container.appendChild(element);
