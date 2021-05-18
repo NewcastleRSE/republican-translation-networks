@@ -23,6 +23,8 @@ Once you are ready to make your page available to site visitors, add it to the n
 4. Open `navigation.yml` in the `_data` folder. This is a list of all the pages that you want to display in the navbar.
 5. You will see some existing pages, with each page having a title and url, and marked using a dash. In this file it is vital that the spacing stays as it is so make sure to take notice of any spaces! Copy one of the pages and paste wherever in the list you would like to add your page. Change the page title to your new page's title. You have created a page within the `pages` directory, so you will include this in the url. Change it to `/pages/` followed by your page's title. Instead of the markdown filetype (`.md`), use .html.
 
+Note: To edit the home page, you do not need to add a new file. Instead, open `index.md`  and replace the line 'Some description or introduction here...'. Then commit.
+
 To add an image:
 1. Save your image in the assets directory.
 2. There is an example of adding a picture in the template.md file. You need to include a description of the image within square brackets and then a path to the image in brackets The path will begin with two full stops as this tells the compiler to take a step up through the directory structure before it looks for the assets directory. So your code will look something like this:
