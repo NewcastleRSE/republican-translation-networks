@@ -2,3 +2,4 @@ theme: jekyll-theme-tactile
 baseurl: 
 title: English Republican Ideas and Translation Networks in Early Modern Germany, c1640-1848
 description: [A short description of your site's purpose]
+markdown: CommonMarkGhPages
