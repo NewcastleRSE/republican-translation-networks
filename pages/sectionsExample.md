@@ -14,9 +14,8 @@ title: insert page title here
 </details>
 
 <details>
-  <summary><h2>A title about another update</h2><h3>A date or subtitle</h3>
+  <summary class="postTitle">Another title
   </summary>
   
-  The body of the post here... written in **markdown**
-  
+  The body of the post here... Make sure to leave an empty line before starting the blog post body ( e.g. line 13). And make sure to leave another empty line after the complete post (e.g. line 15)
 </details>
