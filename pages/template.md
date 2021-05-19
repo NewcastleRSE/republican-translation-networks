@@ -3,8 +3,10 @@ layout: default
 title: insert page title here
 ---
 
+<!-- Custom style sheet -->
+<link rel="stylesheet" type="text/css" href="../style.css">
 
-Leave lines 1-4 for all pages. They won't show on the web page, but determine what layout template to use (we only have default at the moment), and the page title. 
+Leave lines 1-7 for all pages. They won't show on the web page, but determine what layout template to use (we only have default at the moment), the page title and the stylesheet to use. 
 
 # Using markdown to format text into title
 
