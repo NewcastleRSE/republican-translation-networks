@@ -20,6 +20,8 @@ However, the re-reading of any work after a long time also lets you see its flaw
 
 Reading Robbins now makes me question her assessment of Neville as someone who ‘definitely accepted a part at least of the Restoration Settlement’, wonder why she considered Sidney a moderate in 1649, and why she decided not to include authors like Henry Vane the younger, who moved in the same circles as Neville, Sidney and Milton, and who had many admirers in the seventeenth century, but was more interested in the rule of the saints than in constitutional structures. 
 
+![Robbins cover](../assets/IMG_4851.jpg)
+
 The focus on classical republicanism at the expense of religious republicanism has been a noted feature of much of the historiography of seventeenth-century English political thought and perhaps skewed the picture of what political thinkers were engaging with at the time because a present-focused, teleological or Whig approach to history made us look for the things we could relate to and make use of in our present-day lives. 
 
 Also absent from both Robbins and Pocock as well as from much of the literature coming out of the Cambridge School of the History of Political thought was an interest in non-canonical authors, or even ephemeral works whose authors we might never know, but whose output might have found much wider distribution at the time than that of a Harrington or a Neville.
