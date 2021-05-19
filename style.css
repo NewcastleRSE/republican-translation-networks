@@ -6,6 +6,13 @@ body {
     width: 100%;
 }
 
+.postTitle {
+    font-weight: bold;
+    color: black;
+    font-size: large;
+    
+}
+
 /*override some theme styles*/
 .innerFullWidth {
     width: 1400px;
