@@ -3,6 +3,9 @@ layout: default
 title: Research Updates
 ---
 
+<!-- Custom style sheet -->
+<link rel="stylesheet" type="text/css" href="../style.css">
+
 ## Re-reading old history books
 
 Part of the joy of starting a new research project is that you get the chance to read a lot of new literature. I am currently reading about translation and conceptual history, book history and the history of English republicanism. But I am also actively re-reading a lot of older historiography I first came across when I got my teeth stuck into seventeenth-century English republican thought for my MA and PhD theses. One of the books I have recently re-visited is Caroline Robbins’ Eighteenth-Century Commonwealthman (1959), now a classic in its own right.
