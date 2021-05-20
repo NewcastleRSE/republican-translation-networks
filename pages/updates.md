@@ -23,7 +23,7 @@ In the early modern period, translations were rarely ever just a straightforward
 
 By unravelling their work we might therefore learn something both about the original text and about the purpose for which it was intended, its original context and the target culture, and the cultural gap it was trying to bridge. As I am dealing first and foremost with political texts, I am particularly interested in the way in which political language was translated and how individual concepts describing political and legal entities, constitutional forms, or the political nation travelled between languages and cultures.
 
-###Approaches and Methods
+**Approaches and Methods**
 
 Interesting work over the past decades has come from comparative literature, translation studies, book history, the history of reading and reader reception theory as well as other fields and sub-disciplines which have shifted the focus from the author and their perceived intention to the audience and the reader. My own interest in translation has probably been shaped most by cultural historians studying reading practices, marginalia, note taking as well as the significance of paratexts, including Kevin Sharpe, Anthony Grafton and Peter Burke.
 
@@ -31,7 +31,7 @@ The History of Political Thought more narrowly defined, meanwhile, has its own t
 
 While both Pocock and Skinner have worked with translated texts, either from ancient Greek or Roman or from Renaissance Italian authors, and engaged extensively with terms and concepts such as ‘virtue’ or ‘liberty’ – both across languages and over time - translation has only played a peripheral or implicit role in the theoretical frameworks they employed to understand the ways in which the conceptual universe of classical republicanism, for instance, was adopted in seventeenth-century England. Some of their followers, meanwhile, have extended their approaches and addressed translation issues more explicitly. 
 
-###Translations as Speech Acts
+**Translations as Speech Acts**
 
 As with any political text that is part of a wider political discourse, it is possible to see a translation as performing a speech act in the Skinnerian sense. We can ask the question: what was a person doing in producing any given translation?
 
@@ -47,7 +47,7 @@ We might also consider the quality of a translation and how it might be measured
 
 There might also come a point at which the adaptation process takes over a translation, and the translator becomes the author of something new and very different. An example might be Mirabeau’s 1788 French version of Milton’s Areopagitica in defence of freedom of the press produced on the eve of the French Revolution. As its translator, Mirabeau took the original work, but radically reduced it in size, edited out many of the religious and cultural references which located it firmly in mid-seventeenth-century England and added his own spin for an eighteenth-century French audience – thus using the authority of an existing text to create something that is dependent on a source, but no longer a mere translation of it.
 
-###Translating Political Languages
+**Translating Political Languages**
 
 A slightly different, but related question is how well political languages translate. Pocock’s political languages are units in themselves describing different conceptual worlds, e.g. the languages of Renaissance humanism and classical republicanism, the language of the ancient constitution and of the common law etc. If texts employing these languages are translated, the languages themselves need to remain recognisable. This might involve making considered linguistic choices and consistently using the same recognisable terminology or a political language might get lost in translation.
 
@@ -57,7 +57,7 @@ The challenge of my current research project on the translation of English repub
 
 The question then is not just how well words, but the concepts and conceptual worlds they describe translate from one language and one culture into another. And this is where German Begriffsgeschichte or conceptual history comes in.
 
-###Begriffsgeschichte
+**Begriffsgeschichte**
 
 Begriffsgeschichte as represented by the volumes of the Geschichtliche Grundbegriffe, edited by Otto Brunner, Werner Conze and Reinhardt Koselleck has focused on individual concepts within their broader semantic fields and explored their meaning in their social context over an extended period of time. Koselleck and his colleagues focused their investigations on what they considered the German Sattelzeit (or saddle period) between 1750 and 1850 – a period of accelerated social and political change which was crucial for the making of modernity, and in which many concepts relating to the state and its institutions came to develop their modern meaning. Their working assumption was that social and political change were reflected in semantic change, and that, conversely, by studying these key concepts we would better understand socio-political change.
 
