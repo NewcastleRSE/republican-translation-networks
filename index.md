@@ -27,6 +27,8 @@ This does not mean that Germans aimed to emulate their English neighbours, but t
 
 gm
 
+This project is funded by the European Union as part of the Horizon 2020 scheme. The project page can be found [here](https://cordis.europa.eu/project/id/891056)
+
 An earlier version of this text was first published [here](https://thehistorywoman.com/2020/12/09/what-germans-made-of-the-english-revolution/) 
 
 
