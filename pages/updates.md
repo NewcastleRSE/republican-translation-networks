@@ -6,8 +6,11 @@ title: Research Updates
 <!-- Custom style sheet -->
 <link rel="stylesheet" type="text/css" href="../style.css">
 
-## Re-reading old history books
-
+<details>
+  <summary class="postTitle">Re-reading old history books <br>
+    <span class="postSubtitle">Caroline Robbins’ Eighteenth-Century Commonwealthman (1959) is a real classic</span>
+  </summary>
+  
 Part of the joy of starting a new research project is that you get the chance to read a lot of new literature. I am currently reading about translation and conceptual history, book history and the history of English republicanism. But I am also actively re-reading a lot of older historiography I first came across when I got my teeth stuck into seventeenth-century English republican thought for my MA and PhD theses. One of the books I have recently re-visited is Caroline Robbins’ Eighteenth-Century Commonwealthman (1959), now a classic in its own right.
 
 Of course, a lot of it was still familiar in a reassuring way. The authors it covers, John Milton, James Harrington, Henry Neville, Algernon Sidney, John Toland and Robert Molesworth, among many others - back then virtual strangers I was only slowly getting to know - have by now become old friends. 
@@ -41,3 +44,4 @@ So often do I find myself looking back to happier times, before the marketisatio
 gm
 
 An earlier version of this text was first published [here](https://thehistorywoman.com/2021/01/22/re-reading-old-history-books/) 
+</details>
