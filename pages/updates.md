@@ -7,6 +7,77 @@ title: Research Updates
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
+  <summary class="postTitle">Working with Translations in the History of Political Thought<br>
+    <span class="postSubtitle">Translations were crucial for the transmission of ideas and cultural transfer</span>
+  </summary>
+  
+As part of my project on ‘English republican ideas and translation networks in early modern Germany’, I look at the ways in which ideas from the English Revolution spread and were received in the German-speaking areas of Europe through the means of translation, and what potential impact they might have had on the constitutional debates before the revolutions of 1848-49.
+
+###Translation Matters
+
+One reason why translations matter is that they were crucial for the transmission of ideas and cultural transfer between countries and cultures. Consequently, studying translations – how they were produced, how they travelled as physical objects, how they transported content, and how they were read and used – should give us some insight into these transfers. As our scholarly interests are becoming increasingly transnational, European and sometimes global, translation too is growing in importance for a more connected intellectual and cultural history.
+
+While in the past historians of political thought might have read their Machiavelli or Bodin or Grotius in English as a fairly static text which was part of a canon of early modern political works, we are now much more likely to probe the quality of a translation, investigate how it came about, or how the translation process might have shaped the text itself and how it contributed to the way in which it might have been read and received. We are now much more aware of active readers as well as of translators as active intervenors into texts.
+
+In the early modern period, translations were rarely ever just a straightforward transfer of a text from one language into another – if such objective or unmediated translations are possible at all. However, in a world in which authors had comparatively little control over the use of their works, translators were prone to take much greater liberties with a text than they might in the present day. They were both critical readers and editors of a text who might rework it for new audiences and contexts in a process which Peter Burke has called ‘cultural translation’. Translators might cut and rearrange a text, add explanations and footnotes as well as prefaces and commentaries.
+
+By unravelling their work we might therefore learn something both about the original text and about the purpose for which it was intended, its original context and the target culture, and the cultural gap it was trying to bridge. As I am dealing first and foremost with political texts, I am particularly interested in the way in which political language was translated and how individual concepts describing political and legal entities, constitutional forms, or the political nation travelled between languages and cultures.
+
+###Approaches and Methods
+
+Interesting work over the past decades has come from comparative literature, translation studies, book history, the history of reading and reader reception theory as well as other fields and sub-disciplines which have shifted the focus from the author and their perceived intention to the audience and the reader. My own interest in translation has probably been shaped most by cultural historians studying reading practices, marginalia, note taking as well as the significance of paratexts, including Kevin Sharpe, Anthony Grafton and Peter Burke.
+
+The History of Political Thought more narrowly defined, meanwhile, has its own tools for this type of study, but still rarely applies them to translations as such. Among the approaches which have displayed a remarkable longevity for their usability are those of the Cambridge School and historical discourse analysis which arose from the linguistic turn, notably John Pocock’s identification of ‘political languages’ as ways of talking about politics with their own specific patterns and vocabularies, and Quentin Skinner’s focus on the speech acts an author was performing in writing a text and on the illocutionary force of these speech acts – whether intentional or non-intentional.
+
+While both Pocock and Skinner have worked with translated texts, either from ancient Greek or Roman or from Renaissance Italian authors, and engaged extensively with terms and concepts such as ‘virtue’ or ‘liberty’ – both across languages and over time - translation has only played a peripheral or implicit role in the theoretical frameworks they employed to understand the ways in which the conceptual universe of classical republicanism, for instance, was adopted in seventeenth-century England. Some of their followers, meanwhile, have extended their approaches and addressed translation issues more explicitly. 
+
+###Translations as Speech Acts
+
+As with any political text that is part of a wider political discourse, it is possible to see a translation as performing a speech act in the Skinnerian sense. We can ask the question: what was a person doing in producing any given translation?
+
+However, then the story becomes more complex, as we need to find out who the actual agent making the speech act is here. Unlike a text published in its original language which ideally has an identifiable author (though early modern authorship itself is complex), a translated text has an original author and a translator who both have a stake in the text. In addition, in many cases the initiative for the translation does not come from the translators themselves, but the work is commissioned by a patron or a publisher.
+
+An example for such a case is the German translation of Marchamont Nedham’s A True State of the Case of the Commonwealth of England, Scotland, and Ireland (1654), which appeared as Gründtliche Beschreibung Der Neuen Regiments-Verfassung in dem gemeinen Wesen Engelland, Schott- und Irrland (1657). It was published by Johann Kaspar Suter in the Swiss town of Schaffhausen and dedicated to the mathematician John Pell, who at the time was the English envoy to Switzerland, charged with winning the Protestant cantons for a protestant alliance headed by Cromwellian England. The translation was made in collaboration with Pell, who provided the original English text.
+
+The pamphlet comes with a publisher’s dedication, a preface to the text, likely written by the translator, and the translation itself which needs to be read against an original text (which might also exist in different versions). They all they flag up the importance of the text, and they steer the reading process in a particular direction - in this case to recognise the shared identity and common bond of England and Switzerland as independent sovereign republics in the mid-seventeenth century.
+
+The question, however, becomes: who is actually speaking? Is the speech act being made by Nedham as the original author of the work, or has it become the speech act of the anonymous translator. Or is it the speech act of the individual commissioning the work, in this case Pell or the English government? 
+
+We might also consider the quality of a translation and how it might be measured. Should the quality, or rather the success of a translation be measured by how faithful the translator rendered the original text into its target language, or by how well the translated work was adapted for its purpose? 
+
+There might also come a point at which the adaptation process takes over a translation, and the translator becomes the author of something new and very different. An example might be Mirabeau’s 1788 French version of Milton’s Areopagitica in defence of freedom of the press produced on the eve of the French Revolution. As its translator, Mirabeau took the original work, but radically reduced it in size, edited out many of the religious and cultural references which located it firmly in mid-seventeenth-century England and added his own spin for an eighteenth-century French audience – thus using the authority of an existing text to create something that is dependent on a source, but no longer a mere translation of it.
+
+###Translating Political Languages
+
+A slightly different, but related question is how well political languages translate. Pocock’s political languages are units in themselves describing different conceptual worlds, e.g. the languages of Renaissance humanism and classical republicanism, the language of the ancient constitution and of the common law etc. If texts employing these languages are translated, the languages themselves need to remain recognisable. This might involve making considered linguistic choices and consistently using the same recognisable terminology or a political language might get lost in translation.
+
+For a translation of a political language to be successful, however, the conceptual world they describe also need to make sense in both the original culture and the target culture. Within Western Europe with its shared cultural heritage and frame of reference, it might be possible to translate the language of classical republicanism from one vernacular into another. But it might be difficult to translate the same conceptual language into a non-European language and into a context which does not share the same cultural frame of reference.
+
+The challenge of my current research project on the translation of English republican and Commonwealth works into German is to find out to what extent an identifiable English republican/ Commonwealth language was translated into German, or if indeed the translation of this distinct body of English works made it less distinguishable or recognisable as it was taken out of its original context and employed in another.
+
+The question then is not just how well words, but the concepts and conceptual worlds they describe translate from one language and one culture into another. And this is where German Begriffsgeschichte or conceptual history comes in.
+
+###Begriffsgeschichte
+
+Begriffsgeschichte as represented by the volumes of the Geschichtliche Grundbegriffe, edited by Otto Brunner, Werner Conze and Reinhardt Koselleck has focused on individual concepts within their broader semantic fields and explored their meaning in their social context over an extended period of time. Koselleck and his colleagues focused their investigations on what they considered the German Sattelzeit (or saddle period) between 1750 and 1850 – a period of accelerated social and political change which was crucial for the making of modernity, and in which many concepts relating to the state and its institutions came to develop their modern meaning. Their working assumption was that social and political change were reflected in semantic change, and that, conversely, by studying these key concepts we would better understand socio-political change.
+
+However, like Pocock and Skinner, Koselleck and his colleagues did not pay much attention to translation from one contemporary vernacular language into another, while some of their followers do. Thus, in recent years, attempts have not only been made to apply Begriffsgeschichte to different historical periods, but also to extend it geographically into a transnational Begriffsgeschichte which looks at concepts across borders and languages, which comes with a whole lot of new problems and traps we should not fall into. 
+
+In his work on liberalism, for instance, Jörn Leonhard has pointed out that semantic change did not necessarily happen at the same time and in the same way in different countries. Terms such as ‘liberal’ might look the same, but not actually mean the same in different contexts. While the French ‘idées libérales had become a universal concept for continental authors’ by the end of the Napoleonic Wars, for instance, and were used in Germany and Italy ‘to articulate new constitutional, social and national expectations’, in Britain the shift from ‘Whig’ to ‘liberal’ was slow – partly because of ‘the existence of pre-modern party names’, and partly because ‘liberal’ was long conceived as foreign and un-English.
+
+Anthony Pym has pointed to a similar problem with the concept ‘democracy’ which ‘can mean radically different things in Pericles’ Greece, Real Socialism and consumer capitalism, even despite apparent equivalence on the level of translingual morphology.’ This is important to bear in mind when studying early modern democratising processes, for instance, because the danger is always that we project something back into the past that was never there. 
+
+However, one can also turn this absence of exact equivalents into a positive and argue that translation is interesting exactly because of the little cultural differences between concepts, the not-quite-equivalent translations, which might point us exactly to that which is unique and distinctive in one context as opposed to another. And this is maybe where linguistic analysis and an approach via translation can be the most productive.
+
+(This blog post was adapted from my introduction at the workshop on ‘Ideas and Translation in Early Modern Europe’ at Newcastle University on 22 April 2021.)
+
+gm
+
+  
+An earlier version of this text was first published [here](https://thehistorywoman.com/2021/05/04/working-with-translations-in-the-history-of-political-thought/) 
+</details>
+
+<details>
   <summary class="postTitle">Defending the English Revolution in the German Lands <br>
     <span class="postSubtitle">Most published pamphlets were biased towards monarchy - but not all of them</span>
   </summary>
