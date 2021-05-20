@@ -19,8 +19,10 @@ In practical terms, I will be looking at the legacy of key authors emerging from
 Only after the Glorious Revolution of 1688-9 which was – however misleadingly – presented as peaceful and bloodless did a concept of ‘English liberty’ emerge that was considered worthy of praise and emulation among the thinkers of early Enlightenment Europe.
 
 In their view, the English had managed to combine the three classical forms of government - monarchy, aristocracy and democracy - in a unique way to balance the interests of the one, the few and the many in a parliamentary monarchy that was held up as a model to the rulers of Europe. By that time, radical republican ideas had been moderated and tamed. They were no longer considered as being in opposition to monarchy, but seen as supporting the rule of a sovereign bound by Parliament and subject to England’s unwritten constitution. 
+
 In contrast, early modern Germany found both democratic government and its own national identity relatively late. It was divided into many smaller states and independent cities, and the territories ruled by the Holy Roman emperors in the seventeenth and eighteenth century were held together only by a loose bond. 
 The dissolution of the Empire in 1806, meanwhile, led to the search for a new German identity, first in opposition to the Napoleonic forces and later during the pre-revolutionary period of the Vormärz (c1830-1848/9) against the conservative powers of the Restoration. Besides, many territories still struggled against outdated feudal structures. In this process of state formation and active state building, English republican ideas could offer a model for a parliamentary monarchy and clear constitutional order within the framework of a nation state. 
+
 This does not mean that Germans aimed to emulate their English neighbours, but their identity was shaped through comparison and contrast with other European powers, notably France and England. This project hopes to capture part of this discourse and to contextualise it to gain a better understanding of contemporary constitutional discourse and the formation of national identities in Europe.
 
 gm
