@@ -13,7 +13,7 @@ title: Research Updates
   
 As part of my project on ‘English republican ideas and translation networks in early modern Germany’, I look at the ways in which ideas from the English Revolution spread and were received in the German-speaking areas of Europe through the means of translation, and what potential impact they might have had on the constitutional debates before the revolutions of 1848-49.
 
-###Translation Matters
+**Translation Matters**
 
 One reason why translations matter is that they were crucial for the transmission of ideas and cultural transfer between countries and cultures. Consequently, studying translations – how they were produced, how they travelled as physical objects, how they transported content, and how they were read and used – should give us some insight into these transfers. As our scholarly interests are becoming increasingly transnational, European and sometimes global, translation too is growing in importance for a more connected intellectual and cultural history.
 
