@@ -16,6 +16,7 @@ I have also worked for various German media, including dpa International, the Ca
 Between April 2015 and November 2020, I worked as an editor for the German Press Agency dpa in Berlin.
 
 Twitter: @TheHistoryWoman
+
 Blog: https://thehistorywoman.com 
 
 
