@@ -3,6 +3,9 @@ layout: default
 title: About Gaby Mahlberg
 ---
 
+<!-- Custom style sheet -->
+<link rel="stylesheet" type="text/css" href="../style.css">
+
 I am a historian and journalist with a special interest in the intellectual and cultural history of the English Civil War and its legacy in the British Isles and Europe. 
 
 I completed my BA, MA and PhD at the University of East Anglia in Norwich working with J.C. Davis and Mark Knights (now Warwick) for my thesis on the republican thinker Henry Neville (1619-1694).
