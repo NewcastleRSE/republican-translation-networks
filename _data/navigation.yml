@@ -1,14 +1,14 @@
 - title: Home
   url: /
 
+- title: Research Updates
+  url: /pages/updates.html
+  
 - title: Map
   url: /pages/map.html
 
 #- title: About me
 #  url: /pages/about.html
-
-- title: Research Updates
-  url: /pages/updates.html
   
 #- title: Example
 #  url: /pages/sectionsExample.html
