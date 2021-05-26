@@ -88,7 +88,7 @@ Needless to say, John Milton’s Pro Populo Anglicano Defensio (1651), written i
 
 However, there are at least two notable German translations of well-known English pamphlets in defence of the regicide and of the Protectorate which were circulating in the Empire regardless. Both are associated with political figures who participated in the events surrounding the English Revolution, and both were published in the cantons of the Old Swiss Confederacy which had separated from the Empire in 1648.
   
-  ![Nedham cover](../assets/Nedham_cover copy.jpg)
+![Nedham cover](../assets/Nedham_cover copy.jpg)
 
 The first is a translation of Marchamont Nedham’s A true state of the case of the Commonwealth of England, Scotland, and Ireland (1654) published by Johann Kaspar Suter in Schaffhausen in 1657 as Gründliche Beschreibung der neuen Regiments-Verfassung in dem gemeinen Wesen Engelland, Schott- und Irrland. The second is Der hingerichteten Richtern Rechtfertigung (1663) based on The Speeches and Prayers (1660) ascribed to the regicides executed soon after the Restoration of the Stuart monarchy in England.
 
