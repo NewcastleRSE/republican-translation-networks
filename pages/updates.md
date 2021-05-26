@@ -19,7 +19,7 @@ One reason why translations matter is that they were crucial for the transmissio
 
 While in the past historians of political thought might have read their Machiavelli or Bodin or Grotius in English as a fairly static text which was part of a canon of early modern political works, we are now much more likely to probe the quality of a translation, investigate how it came about, or how the translation process might have shaped the text itself and how it contributed to the way in which it might have been read and received. We are now much more aware of active readers as well as of translators as active intervenors into texts.
 
-![Pile of books on translation](../assets/Translation books.jpg)
+![Pile of books on translation](../assets/Translation_books.jpg)
 
 In the early modern period, translations were rarely ever just a straightforward transfer of a text from one language into another – if such objective or unmediated translations are possible at all. However, in a world in which authors had comparatively little control over the use of their works, translators were prone to take much greater liberties with a text than they might in the present day. They were both critical readers and editors of a text who might rework it for new audiences and contexts in a process which Peter Burke has called ‘cultural translation’. Translators might cut and rearrange a text, add explanations and footnotes as well as prefaces and commentaries.
 
