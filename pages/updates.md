@@ -103,6 +103,8 @@ However, the 1657 translation makes no allowances for this update, notably still
 It is also possible, though less likely, that Pell was aware of the adjustments to the Protectoral constitution, but decided that they were insignificant for his purposes. There is also a chance that he was aware of the constitutional change and still had the pamphlet translated in its original form in protest at Cromwell’s assumption of new powers, especially the nomination of a successor. However, it would be strange to register such a protest in German rather than in English.
 
 In any case, it was – for obvious reasons - easier to publish a republican pamphlet in the Swiss cantons than in the Empire, while the text could still circulate across the border too. 
+  
+![Cover of the German Speeches and Prayers](../assets/Speeches_and_Prayers_DE.png)
 
 Another pamphlet to travel from the Swiss Confederacy to the Empire was the French-language Les juges jugez, se justifiants (1663) containing scaffold speeches as well as miscellaneous letters and prayers ascribed to the first ten regicides executed under the Restoration government in 1660. It also contained material on the regicides John Barkstead, Miles Corbet and John Okey, who had been extradited from the United Provinces and were executed in 1662, and on the trials of Major General John Lambert and the Commonwealth politician Henry Vane the Younger. Vane had been sentenced to death, although he was not a regicide, while Lambert’s sentence was commuted to life imprisonment.
 
