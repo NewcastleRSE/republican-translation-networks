@@ -41,12 +41,12 @@ It is however possible to get a rough overview and visualise patterns, e.g. to s
 
 Even though I am still in the process of adding works to my database, it is already possible to see certain pattern emerging:
 
-..*most English republican texts obviously originated in London
-..*we find clusters of translations in the Netherlands, often associated with English exile networks and/or Huguenot publishers
-..*a smaller, but still significant number of translations originated in France, mainly around the time of the French Revolution
-..*significantly fewer translations were published in Germany (but German audiences might be able to read Latin, French as well as sometimes Dutch and Danish,   especially in the North and West)
-..*some translations, both French and German, also originated in Switzerland
-..*we are largely dealing with a reception history biased towards the Protestant regions of Europe
+..* most English republican texts obviously originated in London
+..* we find clusters of translations in the Netherlands, often associated with English exile networks and/or Huguenot publishers
+..* a smaller, but still significant number of translations originated in France, mainly around the time of the French Revolution
+..* significantly fewer translations were published in Germany (but German audiences might be able to read Latin, French as well as sometimes Dutch and Danish,   especially in the North and West)
+..* some translations, both French and German, also originated in Switzerland
+..* we are largely dealing with a reception history biased towards the Protestant regions of Europe
 
 Of course, we could only map translations with a full imprint or which give at least a place of publication, or works whose place of publication could be identified separately. This means, the map still excludes some works which were printed clandestinely. But the database also keeps track of the works which do not show on the map, and I hope to write more about these in due course.
 
