@@ -158,3 +158,48 @@ gm
 
 An earlier version of this text was first published [here](https://thehistorywoman.com/2021/01/22/re-reading-old-history-books/) 
 </details>
+
+<details>
+  <summary class="postTitle">Mapping Translations of English Republican Texts<br>
+    <span class="postSubtitle">A first attempt at creating a bigger picture</span>
+  </summary>
+
+  
+As part of my project, I have been working with our Research Software Engineer Kate Court at Newcastle University on a map of European translations of English republican texts between c1640 and 1848. While the focus of my research is on the dissemination and reception of English republican ideas in early modern Germany and their contribution to contemporary constitutional debates, the map has to cover a wider geographical area for a number of reasons.
+
+Firstly, what constitutes Germany in the early modern period is in itself a problem because there was no stable legal entity called ‘Germany’. Instead ‘Germany’ was used as shorthand for the Holy Roman Empire which itself changed shape numerous times over the period that I am looking at – and this very lack of unity or common identity was itself increasingly becoming part of the constitutional debates I am following.
+
+There was, however, a German-language sphere in which those debates took place, and in which the idea of a culturally and geographically more unified Germany was gaining traction over the course of the eighteenth and early nineteenth centuries. And it is this German-language complex that I am looking at and how English republican ideas were received and discussed there. In this context, I am looking at how ideas travel - mainly by means of translation and the circulation of print.
+
+I take the existence of translations of political works as a measure of their relative significance, assuming that a work which was considered worthy of translation had something which made it stand out and something which spoke to a potential target audience.
+
+But, of course, we also need to remember that for a work to be read in early modern Germany it did not have to be translated into German, and sometimes it did not have to be translated at all. (I would actually argue that some of the works that were not translated into German, but still circulated in Germany in some way, shape or form, had potentially a more interesting and complex reception history than those that were.) In any case, the linguistic variety is interesting in itself.
+
+John Milton’s famous Defence of the regicide, written on behalf of the Commonwealth government when he was secretary for foreign tongues, for instance, was originally published in Latin in 1651 for a European audience and distributed widely across the Continent. Contemporary copies of it have survived in numerous German libraries to this day. And up to the mid to late seventeenth century, Latin still was the scholarly language people used to communicate. 
+
+In the later seventeenth and eighteenth century, when Latin came to be replaced by French as the European lingua franca, we also find French translations of English republican works in Germany, like Edmund Ludlow’s exile Memoirs of the Civil War or Algernon Sidney’s Discourses concerning government, copies of which sometimes survive in interesting places, e.g. libraries in the North of Germany associated with groups of displaced protestants. But some works, like Sidney’s Discourses, were later also translated into German, which shows that there was some more specific interest in them. 
+
+It is also significant that translations were not always made directly from English into German, but (at least until the late eighteenth century) often via relay languages such as Dutch or French which Germans were more familiar with. So we can sometimes trace the entire path or genealogy of a text from its first publication in English, via a Dutch or a French translation into German.
+
+To get an overview over the English republican works which were available in Europe in languages that were commonly read in Germany, I am putting together a database on which this map is based. Once I have gathered a more representative amount of data, I hope to publish a fully interactive map here which will also show change over time.
+
+What I have gathered so far is of course both flawed and incomplete, because I can only record what has survived, and because I am relying on public libraries which I can easily get access to. But it is a start, even though it would take a much bigger project to be even close to comprehensive. 
+
+MAP
+
+It is however possible to get a rough overview and visualise patterns, e.g. to see if the distribution of English republican works can be associated with certain locations – for now ignoring the shifting borders I mentioned earlier.
+
+Even though I am still in the process of adding works to my database, it is already possible to see certain pattern emerging:
+
+•	most English republican texts obviously originated in London
+•	we find clusters of translations in the Netherlands, often associated with English exile networks and/or Huguenot publishers
+•	a smaller, but still significant number of translations originated in France, mainly around the time of the French Revolution
+•	significantly fewer translations were published in Germany (but German audiences might be able to read Latin, French as well as sometimes Dutch and Danish,   especially in the North and West)
+•	some translations, both French and German, also originated in Switzerland
+•	we are largely dealing with a reception history biased towards the Protestant regions of Europe
+
+Of course, we could only map translations with a full imprint or which give at least a place of publication, or works whose place of publication could be identified separately. This means, the map still excludes some works which were printed clandestinely. But the database also keeps track of the works which do not show on the map, and I hope to write more about these in due course.
+
+gm
+  
+</details>
