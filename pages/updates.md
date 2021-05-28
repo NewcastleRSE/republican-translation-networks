@@ -161,10 +161,9 @@ An earlier version of this text was first published [here](https://thehistorywom
 
 <details>
   <summary class="postTitle">Mapping Translations of English Republican Texts<br>
-    <span class="postSubtitle">A first attempt at creating a bigger picture</span>
+    <span class="postSubtitle">A first attempt at creating a bigger picture with the help of a map</span>
   </summary>
 
-  
 As part of my project, I have been working with our Research Software Engineer Kate Court at Newcastle University on a map of European translations of English republican texts between c1640 and 1848. While the focus of my research is on the dissemination and reception of English republican ideas in early modern Germany and their contribution to contemporary constitutional debates, the map has to cover a wider geographical area for a number of reasons.
 
 Firstly, what constitutes Germany in the early modern period is in itself a problem because there was no stable legal entity called ‘Germany’. Instead ‘Germany’ was used as shorthand for the Holy Roman Empire which itself changed shape numerous times over the period that I am looking at – and this very lack of unity or common identity was itself increasingly becoming part of the constitutional debates I am following.
@@ -185,7 +184,7 @@ To get an overview over the English republican works which were available in Eur
 
 What I have gathered so far is of course both flawed and incomplete, because I can only record what has survived, and because I am relying on public libraries which I can easily get access to. But it is a start, even though it would take a much bigger project to be even close to comprehensive. 
 
-MAP
+![Map of Europe showing location of translations](../assets/Map.png)
 
 It is however possible to get a rough overview and visualise patterns, e.g. to see if the distribution of English republican works can be associated with certain locations – for now ignoring the shifting borders I mentioned earlier.
 
