@@ -31,7 +31,7 @@ It is also significant that translations were not always made directly from Engl
   
 **A First Attempt at a Map**  
 
-To get an overview over the English republican works which were available in Europe in languages that were commonly read in Germany, I am putting together a database on which this map is based. Once I have gathered a more representative amount of data, I hope to publish a fully interactive map here which will also show change over time.
+To get an overview over the English republican works which were available in Europe in languages that were commonly read in Germany, I am putting together a database to create a map. Once I have gathered a more representative amount of data, I hope to publish a fully interactive map here which will also show change over time.
 
 What I have gathered so far is of course both flawed and incomplete, because I can only record what has survived, and because I am relying on public libraries which I can easily get access to. But it is a start, even though it would take a much bigger project to be even close to comprehensive. 
 
@@ -51,6 +51,8 @@ Even though I am still in the process of adding works to my database, it is alre
 Of course, we could only map translations with a full imprint or which give at least a place of publication, or works whose place of publication could be identified separately. This means, the map still excludes some works which were printed clandestinely. But the database also keeps track of the works which do not show on the map, and I hope to write more about these in due course.
 
 gm
+  
+01/06/2021  
   
 </details>
 
