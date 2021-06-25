@@ -6,7 +6,9 @@ title: Events
 <!-- Custom style sheet -->
 <link rel="stylesheet" type="text/css" href="../style.css">
 
-**16 September 2021, Workshop: ‘Commonwealthmen & Women: The Legacy of English Republicanism in Britain and Europe’, Newcastle University**
+<details>
+  <summary class="postTitle">16 September 2021, Workshop: ‘Commonwealthmen & Women: The Legacy of English Republicanism in Britain and Europe’, Newcastle University<br>
+  </summary>
 
 English republican ideas which had taken shape during the Civil War period did not suddenly vanish with the Restoration of the Stuart monarchy in 1660. They lived on in many different ways, either in the later political thought of the men and women who had still experienced the upheavals of the 1640s and 1650s themselves or in the writings of new generations of Commonwealthmen and women who took the principles of popular sovereignty, the rule of law and religious liberty and adapted them for new political contexts and debates.
 
