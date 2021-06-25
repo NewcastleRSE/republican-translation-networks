@@ -24,7 +24,7 @@ This workshop sets out to explore the afterlife of English republican ideas in t
 
 Speakers tbc
 
-
+*
 
 **Past Events**
 
