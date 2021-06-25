@@ -26,6 +26,7 @@ This workshop sets out to explore the afterlife of English republican ideas in t
 
 Speakers tbc
 
+</details>
 
 <details>
   <summary class="postTitle">22 April 2021, Workshop: 'Ideas and Translation in Early Modern Europe', Newcastle University<br>
