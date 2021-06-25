@@ -10,6 +10,7 @@ title: Events
   <summary class="postTitle">16 September 2021, Workshop: ‘Commonwealthmen & Women: The Legacy of English Republicanism in Britain and Europe’, Newcastle University<br>
   </summary>
 
+  
 English republican ideas which had taken shape during the Civil War period did not suddenly vanish with the Restoration of the Stuart monarchy in 1660. They lived on in many different ways, either in the later political thought of the men and women who had still experienced the upheavals of the 1640s and 1650s themselves or in the writings of new generations of Commonwealthmen and women who took the principles of popular sovereignty, the rule of law and religious liberty and adapted them for new political contexts and debates.
 
 Republican ideas can be found in the exile writings of Edmund Ludlow, Henry Neville and Algernon Sidney as well as in Neville and Sidney’s political polemics from the time of the Exclusion Crisis and the Rye House Plot. But they are also present in the authors contributing to the Standing Army Debate of the 1690s who followed in their footsteps, such as John Toland, Robert Molesworth and Walter Moyle, identified by Caroline Robbins as the first generation of Commonwealthmen.
@@ -32,9 +33,10 @@ Speakers tbc
   <summary class="postTitle">22 April 2021, Workshop: 'Ideas and Translation in Early Modern Europe', Newcastle University<br>
   </summary>  
 
-This workshop addresses the significance of translation in the history of early modern political thought. Why were some texts translated while others were not? How did early modern translators go about their work? And what impact did translations have on the dissemination of ideas across physical and linguistic boundaries as well as over time?
+  
+This workshop addressed the significance of translation in the history of early modern political thought. Why were some texts translated while others were not? How did early modern translators go about their work? And what impact did translations have on the dissemination of ideas across physical and linguistic boundaries as well as over time?
 
-In addition to those broader questions, a particular focus will be on the specific issues that arise from the nature of political language itself. As political terminology is often deeply rooted in a particular political culture and a specific context, how well do ideas and concepts travel and to what extent might they change as they do so? For example, how was the conceptual language of classical Greek and Roman republicanism adapted to suit the political culture of mid-seventeenth-century England? How might sixteenth-century Huguenot resistance theories fit in? And how were ideas from the English Revolution in turn imported into late eighteenth-century France?
+In addition to those broader questions, a particular focus was on the specific issues that arise from the nature of political language itself. As political terminology is often deeply rooted in a particular political culture and a specific context, how well do ideas and concepts travel and to what extent might they change as they do so? For example, how was the conceptual language of classical Greek and Roman republicanism adapted to suit the political culture of mid-seventeenth-century England? How might sixteenth-century Huguenot resistance theories fit in? And how were ideas from the English Revolution in turn imported into late eighteenth-century France?
 
 Some terms might have been difficult to translate because the concepts they described in one language did not necessarily exist in another, or because superficially equivalent terms had very different connotations in different contexts. Thus, a concept like ‘democracy’ might be problematic despite its morphological similarity across languages.
 
@@ -42,6 +44,6 @@ A typical problem might be the translation of a political text from one language
 
 Would terms like ‘royalist’ and ‘parliamentarian’, ‘conservative’ or ‘liberal’ mean the same things to different people in early modern Europe, and why might they not? Are there terms that were simply ‘untranslatable’? And, if so, what might these ‘untranslatables’ reveal about either the culture of origin or the target culture?
 
-In order to tackle these questions, this workshop will look closely at early modern printed texts in a variety of European languages as well as engaging with different theoretical and methodological approaches in the history of political thought which might be useful in this context, including the literature of the linguistic turn and of German conceptual history.
+In order to tackle these questions, this workshop looked closely at early modern printed texts in a variety of European languages as well as engaging with different theoretical and methodological approaches in the history of political thought which might be useful in this context, including the literature of the linguistic turn and of German conceptual history.
 
 Speakers included Thomas Munck (Glasgow), Nick Mithen (Newcastle), André Krischer (Münster), Laura Kirkley (Newcastle) and Tom Ashby (EUI, Florence).
