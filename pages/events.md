@@ -26,11 +26,10 @@ This workshop sets out to explore the afterlife of English republican ideas in t
 
 Speakers tbc
 
-*
 
-**Past Events**
-
-**22 April 2021, Workshop: 'Ideas and Translation in Early Modern Europe', Newcastle University**
+<details>
+  <summary class="postTitle">22 April 2021, Workshop: 'Ideas and Translation in Early Modern Europe', Newcastle University<br>
+  </summary>  
 
 This workshop addresses the significance of translation in the history of early modern political thought. Why were some texts translated while others were not? How did early modern translators go about their work? And what impact did translations have on the dissemination of ideas across physical and linguistic boundaries as well as over time?
 
