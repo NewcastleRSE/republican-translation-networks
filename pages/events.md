@@ -46,7 +46,7 @@ Would terms like ‘royalist’ and ‘parliamentarian’, ‘conservative’ or
 
 In order to tackle these questions, this workshop looked closely at early modern printed texts in a variety of European languages as well as engaging with different theoretical and methodological approaches in the history of political thought which might be useful in this context, including the literature of the linguistic turn and of German conceptual history.
 
-Presentations included:
+**Presentations included:**
   
 Gaby Mahlberg (Newcastle), ‘Working with Translations in the History of Political Thought’
 
