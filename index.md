@@ -14,6 +14,8 @@ Proceeding from my work on the English republican exiles on the Continent, this 
 
 It is also timely as the UK is renegotiating its relationship with the EU following the 2016 referendum and the degree to which the UK is part of a shared European culture and value system has once again come under close scrutiny both from backers and opponents of Brexit. Then as now, the debates in Europe were about what we share and what divides us.
 
+![Map of Europe showing location of translations](../assets/Map.png)
+
 In practical terms, I will be looking at the legacy of key authors emerging from the English Revolution, such as John Milton, Marchamont Nedham, James Harrington and Algernon Sidney, whose ideas were key for the development of modern representative democracy. Tainted as they were by the regicide, however, the ideas of popular sovereignty, religious liberty and the rule of law promoted by radicals during the first English revolution did not spread widely beyond the British Isles until after the second. 
 
 Only after the Glorious Revolution of 1688-9 which was – however misleadingly – presented as peaceful and bloodless did a concept of ‘English liberty’ emerge that was considered worthy of praise and emulation among the thinkers of early Enlightenment Europe.
