@@ -46,4 +46,16 @@ Would terms like ‘royalist’ and ‘parliamentarian’, ‘conservative’ or
 
 In order to tackle these questions, this workshop looked closely at early modern printed texts in a variety of European languages as well as engaging with different theoretical and methodological approaches in the history of political thought which might be useful in this context, including the literature of the linguistic turn and of German conceptual history.
 
-Speakers included Thomas Munck (Glasgow), Nick Mithen (Newcastle), André Krischer (Münster), Laura Kirkley (Newcastle) and Tom Ashby (EUI, Florence).
+Presentations included:
+  
+Gaby Mahlberg (Newcastle), ‘Working with Translations in the History of Political Thought’
+
+Thomas Munck (Glasgow), 'Understanding what you read: dictionaries and encyclopedias as works of reference in early modern Europe.'
+
+Nick Mithen (Newcastle), ‘Translating the well-ordered mind: English, Latin, and Italian editions of the Port Royal Logique, ou l'art de penser (1662)’
+
+André Krischer (Münster), ‘“Entdeckte Engeländische Verrätherey“. English State Trials in German prints of the later 17th century’
+
+Laura Kirkley (Newcastle), ‘How Feminism Travels: Mary Wollstonecraft's Translational Afterlife’
+
+Tom Ashby (EUI, Florence), ‘Giuseppa Barbapiccola, I principi della filosofia (1722), and the 18th Century Translators Dictionary’  
