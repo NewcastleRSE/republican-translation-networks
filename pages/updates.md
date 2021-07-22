@@ -20,10 +20,10 @@ Ideally, a review should include a short summary of the content, a discussion of
 The most difficult thing about writing a review, however, is to be fair to the author. When you like the book, that is not a problem. When you don’t, however, and you are frustrated with the argument and composition on every page, you might need to take a step back to stop yourself from falling into an angry rant about what you have just read. 
 
 The journalists writing for the earliest European review journals in the late seventeenth and early eighteenth century seem to have mastered the art of restraint by saying generally very little about the quality of a work – frustratingly little one might say.
+  
+![Title page of the Acta Eruditorum](../assets/Title_Acta_Eruditorum.png)
 
 Trailing through the volumes of the *Acta Eruditorum*, edited by Otto Mencke in Leipzig from 1682, to see how English republican authors were read in early modern Germany, one finds mainly summaries of the works of John Milton, James Harrington, Edmund Ludlow, Algernon Sidney and others, but very little commentary. This was due both to editorial policy and, I suspect, to contemporary censorship legislation which would have influenced this policy. It was also intended to avoid scholarly disputes being fought out within reviews.
-
-![Title page of the Acta Eruditorum](../assets/Title_Acta_Eruditorum.png)
 
 The *Acta*, published in Latin for a wider European audience, was the first comprehensive review journal on German territory covering a broad range of disciplines (the first was a medical journal), including Theology and Ecclesiastical History, Law, Medicine, Mathematics, History and Geography, Philology and other miscellaneous subject. Its purpose was first of all to acquaint a broad scholarly audience of the content of recently published books from across Europe. Hence, the journal’s reviewers produced – often rather lengthy – summaries of the works they had been sent.
 
