@@ -7,6 +7,45 @@ title: Research Updates
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
+  <summary class="postTitle">Writing Book Reviews at the Turn of the Eighteenth Century<br>
+    <span class="postSubtitle">A good book review gives the reader an idea of the work’s content and its quality. The reviewers for the Acta Eruditorum in Germany at the turn of the eighteenth century followed a different strategy.</span>
+  </summary>
+
+I enjoy writing book reviews, especially when I like the book I’ve just read. Analysing the structure and argument of someone else’s work helps you learn about what works and what doesn’t. Ideally, it will help you improve your own writing.
+
+Academic book reviews can be a minefield though. If you want your review to be useful to other readers, it should be as clear and informative as possible, and this means addressing the book’s merits as well as its shortcomings. After all, potential readers might decide on the basis or your review if they consider the book in question worthwhile reading. 
+
+Ideally, a review should include a short summary of the content, a discussion of the argument and an assessment of how effectively the author has presented their material. It might also address who the book is targeted at. If you are looking for a work for your undergraduate module reading list, you might want to avoid a highly-specialised monograph which is likely to put off newcomers to the field, while seasoned specialists might find they are wasting their time with an introductory-level work.
+
+The most difficult thing about writing a review, however, is to be fair to the author. When you like the book, that is not a problem. When you don’t, however, and you are frustrated with the argument and composition on every page, you might need to take a step back to stop yourself from falling into an angry rant about what you have just read. 
+
+The journalists writing for the earliest European review journals in the late seventeenth and early eighteenth century seem to have mastered the art of restraint by saying generally very little about the quality of a work – frustratingly little one might say.
+
+Trailing through the volumes of the Acta Eruditorum, edited by Otto Mencke in Leipzig from 1682, to see how English republican authors were read in early modern Germany, one finds mainly summaries of the works of John Milton, James Harrington, Edmund Ludlow, Algernon Sidney and others, but very little commentary. This was due both to editorial policy and, I suspect, to contemporary censorship legislation which would have influenced this policy. It was also intended to avoid scholarly disputes being fought out within reviews.
+
+The Acta, published in Latin for a wider European audience, was the first comprehensive review journal on German territory covering a wide range of disciplines (the first was a medical journal), including Theology and Ecclesiastical History, Law, Medicine, Mathematics, History and Geography, Philology and other miscellaneous subject. Its purpose was first of all to acquaint a broad scholarly audience of the content of recently published books from across Europe. Hence, the journal’s reviewers produced – often rather lengthy – summaries of the works they had been sent.
+
+Unlike today, it was not necessarily assumed that the journal’s readers would subsequently go and read the reviewed books for themselves. It was more of a way to acquaint the readers with their content, almost to give them an abstract or a digest to use in the absence of the real book. 
+
+Sometimes, of course, readers did seek out the original books, and sometimes the review of a foreign-language work was the first step towards its translation, although vernacular translations of foreign-language works where still rare around the turn of the eighteenth century.
+
+The frustration with summary-style reviews is that it is hard to gauge what the reviewer actually thought about the work. So we are invited to think about why a book was considered worth reviewing in the first place, to pay attention to the parts of the book the reviewer considered notable, to read more between the lines, and to draw on circumstantial evidence, such as personal connections between authors and the journalists who reviewed them. We might also be able to judge the impact of a review by the later references made to it, and by the attention the book subsequently received, although we cannot assume a causal link.
+
+These early reviews are nevertheless useful because they show what was read and discussed in the Republic of Letters and what mattered to contemporary scholars. Very much like today, the reviews can be a good indicator of a work’s impact in the scholarly community – with or without the footnote wars.
+
+gm
+
+22/07/2021  
+
+**
+
+Further Reading: 
+
+H. Laeven, The “Acta Eruditorum” under the editorship of Otto Mencke: The History of an International Learned Journal between 1682 and 1707 (Amsterdam & Maarssen: APA-Holland University Press, 1990).
+  
+</details>  
+
+<details>
   <summary class="postTitle">Mapping Translations of English Republican Texts<br>
     <span class="postSubtitle">A first attempt at creating a bigger picture with the help of a map</span>
   </summary>
