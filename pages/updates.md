@@ -8,7 +8,7 @@ title: Research Updates
 
 <details>
   <summary class="postTitle">Writing Book Reviews at the Turn of the Eighteenth Century<br>
-    <span class="postSubtitle">A good book review gives the reader an idea of the work’s content and its quality. The reviewers for the Acta Eruditorum in Germany at the turn of the eighteenth century followed a different strategy.</span>
+    <span class="postSubtitle">A review gives the reader an idea of the work’s content and its quality. The *Acta Eruditorum* followed a different strategy.</span>
   </summary>
 
 I enjoy writing book reviews, especially when I like the book I’ve just read. Analysing the structure and argument of someone else’s work helps you learn about what works and what doesn’t. Ideally, it will help you improve your own writing.
