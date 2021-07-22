@@ -8,7 +8,7 @@ title: Research Updates
 
 <details>
   <summary class="postTitle">Writing Book Reviews at the Turn of the Eighteenth Century<br>
-    <span class="postSubtitle">A review gives the reader an idea of the work’s content and its quality. The **Acta Eruditorum** followed a different strategy.</span>
+    <span class="postSubtitle">A review gives the reader an idea of the work’s content and its quality. The Acta Eruditorum followed a different strategy.</span>
   </summary>
 
 I enjoy writing book reviews, especially when I like the book I’ve just read. Analysing the structure and argument of someone else’s work helps you learn about what works and what doesn’t. Ideally, it will help you improve your own writing.
@@ -21,9 +21,9 @@ The most difficult thing about writing a review, however, is to be fair to the a
 
 The journalists writing for the earliest European review journals in the late seventeenth and early eighteenth century seem to have mastered the art of restraint by saying generally very little about the quality of a work – frustratingly little one might say.
 
-Trailing through the volumes of the Acta Eruditorum, edited by Otto Mencke in Leipzig from 1682, to see how English republican authors were read in early modern Germany, one finds mainly summaries of the works of John Milton, James Harrington, Edmund Ludlow, Algernon Sidney and others, but very little commentary. This was due both to editorial policy and, I suspect, to contemporary censorship legislation which would have influenced this policy. It was also intended to avoid scholarly disputes being fought out within reviews.
+Trailing through the volumes of the *Acta Eruditorum*, edited by Otto Mencke in Leipzig from 1682, to see how English republican authors were read in early modern Germany, one finds mainly summaries of the works of John Milton, James Harrington, Edmund Ludlow, Algernon Sidney and others, but very little commentary. This was due both to editorial policy and, I suspect, to contemporary censorship legislation which would have influenced this policy. It was also intended to avoid scholarly disputes being fought out within reviews.
 
-The Acta, published in Latin for a wider European audience, was the first comprehensive review journal on German territory covering a wide range of disciplines (the first was a medical journal), including Theology and Ecclesiastical History, Law, Medicine, Mathematics, History and Geography, Philology and other miscellaneous subject. Its purpose was first of all to acquaint a broad scholarly audience of the content of recently published books from across Europe. Hence, the journal’s reviewers produced – often rather lengthy – summaries of the works they had been sent.
+The *Acta*, published in Latin for a wider European audience, was the first comprehensive review journal on German territory covering a wide range of disciplines (the first was a medical journal), including Theology and Ecclesiastical History, Law, Medicine, Mathematics, History and Geography, Philology and other miscellaneous subject. Its purpose was first of all to acquaint a broad scholarly audience of the content of recently published books from across Europe. Hence, the journal’s reviewers produced – often rather lengthy – summaries of the works they had been sent.
 
 Unlike today, it was not necessarily assumed that the journal’s readers would subsequently go and read the reviewed books for themselves. It was more of a way to acquaint the readers with their content, almost to give them an abstract or a digest to use in the absence of the real book. 
 
