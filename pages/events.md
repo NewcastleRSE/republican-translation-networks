@@ -25,23 +25,41 @@ Notable figures for the continental European dissemination of English republican
 
 This workshop sets out to explore the afterlife of English republican ideas in the British Isles and Europe by looking at the manifold ways in which they were transmitted, reshaped and employed in new contexts for new audiences to take a fresh look at their wider reach. 
 
-Confirmed speakers:
+**Draft Programme**
 
-Christopher Hamel (Rouen)
+*Thursday, 16 September 2021 – via Zoom*
 
-Rachel Hammersley (Newcastle)
+10.00 Welcome and Introduction: Gaby Mahlberg
 
-Joseph Hone (Newcastle)
+10.15-11.45 Panel 1, English Republicanism on the Continent, Chair: Katie East
 
-Gaby Mahlberg (Newcastle)
+Esther van Raamsdonk (Warwick), “John Milton in the United Provinces” 
 
-Ester van Raamsdonk (Warwick)
+Thomas Munck (Glasgow), "Spinoza, English republicanism and the origins of visionary democracy:  revisiting a long-running debate in the light of self-censored texts" 
 
-Allen Reddick (Zurich)
+Gaby Mahlberg (Newcastle), “John Toland, the Acta Eruditorum and the reception of English Republican Ideas in Early Modern Germany”
 
-Max Skjönsberg (Liverpool)
-  
-Ashley Walsh (Cardiff)
+11.45-12.45 Panel 2, Building the Commonwealth Tradition I, Chair: Katie East
+
+Joseph Hone (Newcastle), “John Tutchin and Commonwealth Poetics”
+
+Ashley Walsh (Cardiff), “The Eighteenth-Century Standing Army Debate in Britain”
+
+12.45-14.00 Lunch break
+
+14.00-1500 Panel 3, Building the Commonwealth Tradition II, Chair: Gaby Mahlberg
+
+Rachel Hammersley (Newcastle), “The Persistence of English Republicanism: Land and Citizenship, 1656-1900” 
+
+Christopher Hamel (Rouen), “Liberty as self-government. Richard Price's republicanism”
+
+15.00-16.00 Panel 4, Preserving the Commonwealth Tradition, Chair: Gaby Mahlberg
+
+Max Skjönsberg (Liverpool), "Editing Catharine Macaulay's Political Writings" 
+
+Allen Reddick (Zurich), “The Hollis Collections in Europe” 
+
+16.00-17.00 Roundtable, Chairs: Katie East and Gaby Mahlberg
 
 </details>
 
