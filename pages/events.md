@@ -31,7 +31,7 @@ This workshop sets out to explore the afterlife of English republican ideas in t
 
 10.00 Welcome and Introduction: Gaby Mahlberg
 
-10.15-11.45 Panel 1, English Republicanism on the Continent, Chair: Katie East
+**10.15-11.45 Panel 1, English Republicanism on the Continent, Chair: Katie East**
 
 Esther van Raamsdonk (Warwick), “John Milton in the United Provinces” 
 
@@ -39,27 +39,27 @@ Thomas Munck (Glasgow), "Spinoza, English republicanism and the origins of visio
 
 Gaby Mahlberg (Newcastle), “John Toland, the Acta Eruditorum and the reception of English Republican Ideas in Early Modern Germany”
 
-11.45-12.45 Panel 2, Building the Commonwealth Tradition I, Chair: Katie East
+**11.45-12.45 Panel 2, Building the Commonwealth Tradition I, Chair: Katie East**
 
 Joseph Hone (Newcastle), “John Tutchin and Commonwealth Poetics”
 
 Ashley Walsh (Cardiff), “The Eighteenth-Century Standing Army Debate in Britain”
 
-12.45-14.00 Lunch break
+**12.45-14.00 Lunch break**
 
-14.00-1500 Panel 3, Building the Commonwealth Tradition II, Chair: Gaby Mahlberg
+**14.00-1500 Panel 3, Building the Commonwealth Tradition II, Chair: Gaby Mahlberg**
 
 Rachel Hammersley (Newcastle), “The Persistence of English Republicanism: Land and Citizenship, 1656-1900” 
 
 Christopher Hamel (Rouen), “Liberty as self-government. Richard Price's republicanism”
 
-15.00-16.00 Panel 4, Preserving the Commonwealth Tradition, Chair: Gaby Mahlberg
+**15.00-16.00 Panel 4, Preserving the Commonwealth Tradition, Chair: Gaby Mahlberg**
 
 Max Skjönsberg (Liverpool), "Editing Catharine Macaulay's Political Writings" 
 
 Allen Reddick (Zurich), “The Hollis Collections in Europe” 
 
-16.00-17.00 Roundtable, Chairs: Katie East and Gaby Mahlberg
+**16.00-17.00 Roundtable, Chairs: Katie East and Gaby Mahlberg**
 
 </details>
 
