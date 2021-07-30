@@ -25,6 +25,8 @@ Notable figures for the continental European dissemination of English republican
 
 This workshop sets out to explore the afterlife of English republican ideas in the British Isles and Europe by looking at the manifold ways in which they were transmitted, reshaped and employed in new contexts for new audiences to take a fresh look at their wider reach. 
 
+For more information and to receive a Zoom link, please email: gaby.mahlberg@newcastle.ac.uk   
+
 **Draft Programme**
 
 *Thursday, 16 September 2021 – via Zoom*
