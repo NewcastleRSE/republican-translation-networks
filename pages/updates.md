@@ -8,7 +8,7 @@ title: Research Updates
 
 
 <details>
-  <summary class="postTitle">Selling Milton’s *Defensio* in early modern Leipzig<br>
+  <summary class="postTitle">Selling Milton’s Defensio in early modern Leipzig<br>
     <span class="postSubtitle">A printer or bookseller's economic activity does not necessarily allow for conclusions about their politics.</span>
   </summary>
  
