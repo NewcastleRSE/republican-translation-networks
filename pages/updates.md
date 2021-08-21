@@ -19,8 +19,6 @@ Milton’s *Defensio* was written in response to Claudius Salmasius’ *Defensio
 Milton had written the pamphlet in Latin on behalf of the Commonwealth government, and numerous editions of it, most of them printed in the United Provinces, were distributed across the Continent. Public reactions to it were almost exclusively negative, and copies of the pamphlet were publicly burnt in Paris and Toulouse. Given how many copies still survive in libraries across Europe to this day, however, this public outrage must rather have increased than diminished interest in the work, so much so that booksellers might have seen good business in stocking it.
 
 My most recent research trip took me to the City Archive in Leipzig, which holds censorship documents relating to the case of the bookseller Tobias Riese, who was caught selling copies of Milton’s *Defensio* ahead of the city’s Easter book fair 1652 - to the dismay of the Elector of Saxony.
-
-![The entrance of the Leipzig City Archive](../assets/Leipzig_City_Archive.jpg)
   
 Günter Berghaus first drew attention to the case in the early 1980s because the edition sold by Riese had not been known before. It must have been a pirated version, reprinted locally by Johannes Bauer for Riese. 
 
