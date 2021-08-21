@@ -20,6 +20,8 @@ Milton had written the pamphlet in Latin on behalf of the Commonwealth governmen
 
 My most recent research trip took me to the City Archive in Leipzig, which holds censorship documents relating to the case of the bookseller Tobias Riese, who was caught selling copies of Milton’s *Defensio* ahead of the city’s Easter book fair 1652 - to the dismay of the Elector of Saxony.
   
+![The entrance of the Leipzig City Archive](../assets/Leipzig_City_Archive.jpg)
+  
 Günter Berghaus first drew attention to the case in the early 1980s because the edition sold by Riese had not been known before. It must have been a pirated version, reprinted locally by Johannes Bauer for Riese. 
 
 While Berghaus was mainly interested in the existence of this previously unknown edition of the *Defensio* and in the way in which the authorities attempted to suppress it, I wanted to know if the documents in Leipzig might also tell us a bit more about Bauer and Riese’s motivation for producing and selling it. While I was perhaps hoping to find out something about their politics, the evidence points rather to economic considerations. Here were two businessmen trying to make profit from an international bestseller, as can be seen from Riese’s subsequent dispute with the Saxon authorities as documented by Berghaus.
