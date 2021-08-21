@@ -6,6 +6,52 @@ title: Research Updates
 <!-- Custom style sheet -->
 <link rel="stylesheet" type="text/css" href="../style.css">
 
+
+<details>
+  <summary class="postTitle">Selling Milton’s *Defensio* in early modern Leipzig<br>
+    <span class="postSubtitle">A printer or bookseller's economic activity does not necessarily allow for conclusions about their politics.</span>
+  </summary>
+ 
+John Milton’s Pro Populo Anglicano Defensio (1651) was one of the most controversial publications of its time. It defended the trial and execution of Charles I carried out by the Rump Parliament on behalf of the English people. The regicide had sent shockwaves through Europe. The rebellion of a people against a monarch, who claimed his position by divine right, in the name of popular sovereignty overturned the established order and might set a dangerous precedent for other countries.
+
+Milton’s Defensio was written in response to Claudius Salmasius’ Defensio Regia pro Carolo I (1649), which had made the case for the King and condemning the actions of his English subjects. But Milton’s text was also a powerful manifesto for popular sovereignty, the right of rebellion against tyrants and religious liberty.
+
+Milton had written the pamphlet in Latin on behalf of the Commonwealth government, and numerous editions of it, most of them printed in the United Provinces, were distributed across the Continent. Public reactions to it were almost exclusively negative, and copies of the pamphlet were publicly burnt in Paris and Toulouse. Given how many copies still survive in libraries across Europe to this day, however, this public outrage must rather have increased than diminished interest in the work, so much so that booksellers might have seen good business in stocking it.
+
+My most recent research trip took me to the City Archive in Leipzig, which holds censorship documents relating to the case of the bookseller Tobias Riese, who was caught selling copies of Milton’s Defensio ahead of the city’s Easter book fair 1652 - to the dismay of the Elector of Saxony.
+
+![The entrance of the Leipzig City Archive](../assets/Leipzig_City_Archive.jpg)
+  
+Günter Berghaus first drew attention to the case in the early 1980s because the edition sold by Riese had not been known before. It must have been a pirated version, reprinted locally by Johannes Bauer for Riese. 
+
+While Berghaus was mainly interested in the existence of this previously unknown edition of the Defeniso and in the way in which the authorities attempted to suppress it, I wanted to know if the documents in Leipzig might also tell us a bit more about Bauer and Riese’s motivation for producing and selling it. While I was perhaps hoping to find out something about their politics, the evidence points rather to economic considerations. Here were two businessmen trying to make profit from an international bestseller, as can be seen from Riese’s subsequent dispute with the Saxon authorities as documented by Berghaus.
+
+The Elector wrote to the Council of Leipzig on 3 May ordering the officials ‘to confiscate every copy of this book that you can possibly obtain and send them ... to our High Consistory.’ On 22 May, the Council responded reporting about the book fair, saying they had not been able to trace any copies of the Defensio and that Bauer and Riese denied having published the book.
+
+Disregarding their denial, Bauer and Riese were fined 100 Reichstaler – a fine which Riese was unwilling and, according to his own words, unable to pay. In October, the bookseller paid 12 Reichstaler and petitioned the Elector for a reduction of the fine. Although the Elector was not pleased, because Riese should have known better than to offer for sale ‘books which oppose the lawful authorities’, he did eventually agree to reduce the fine to 50 Reichstaler. However, Riese responded with another petition, asking that the remainder of the fine should be lifted, since the Elector’s sanctions against him had already put him at a business disadvantage against foreign and other booksellers in the city.
+
+‘Milton’s tract is being brought here and stocked by foreign booksellers in large amounts, even after the book fair, and is sold to resident and other booksellers.’ This was unfair, Riese argued, for ‘They have never been forbidden to sell this tract, only I alone.’ Out of respect for the Elector, he had put his copies aside and was now keeping most of them in storage, while other competitors were free to sell their copies and make a profit from them. However, Riese was ‘left with mine to my personal disadvantage.’
+
+It is probably not surprising that Riese would argue from an economic point of view rather than trying to defend the sale of a politically sensitive work. But it is also interesting that Riese points out that he was at a disadvantage compared to foreign booksellers who were not subjected to the same control as him. He therefore pleaded with the Elector to treat him this time as he would a foreigner (‘mir aus gnaden für dieses mahl fremdlings recht Wiederfahren Lasen’).
+
+The Council, possibly out of a wider concern for the city’s flourishing book trade, in December also interceded on behalf of Riese, whom they considered ‘a quiet and obedient citizen’, arguing that the Elector’s sworn subjects should be given ‘the same licence as foreign and other booksellers, who were everywhere able to offer Milton’s tract for sale, particularly since the book was never confiscated and is to be found in every censored and approved fair catalogue.’ 
+
+Even more interestingly, the Council argued that it was unusual for the Elector to intervene in the sale of Milton’s tract, when ‘traditionally, there had rarely been any restrictions on the sale of such books, likewise those of Papists, Calvinists and other heretics’, adding that the publication of such tracts gave scholars the opportunity to engage with them and refute them, thus ‘allowing the profound truth to emerge more clearly.’
+
+As Berghaus points out, we do not know what the outcome was, and if Riese ever had to pay the remainder of his fine. However, we learn a lot about the economic reasons for publishing Milton’s Defensio aside from any political motivations which might or might not have existed. We should therefore be careful – in the absence of any other corroborating evidence – to jump from a printer or publisher’s economic activity to conclusions about their political views. While links between the two might exist, this is not always a given.
+
+gm
+
+*
+
+All quotes are taken from Günter Berghaus, ‘A Case of Censorship of Milton in Germany: On an Unknown Edition of the Pro Populo Anglican Defensio’, Milton Quarterly, 17 (1983), pp. 61-70.
+
+The original documents of the case can be found in the Leipzig City Archive, Bücherzensurakten, I, 1600-1690, XLVI, vol. 152, fols 9-20.
+
+21/08/2021
+  
+</details>  
+
 <details>
   <summary class="postTitle">Writing Book Reviews at the Turn of the Eighteenth Century<br>
     <span class="postSubtitle">A review gives the reader an idea of the work’s content and its quality. The Acta Eruditorum followed a different strategy.</span>
