@@ -8,6 +8,67 @@ title: Research Updates
 
 
 <details>
+  <summary class="postTitle">The legacies of English republicanism – a workshop report
+<br>
+    <span class="postSubtitle">English republican ideas could re-emerge in new forms and in unexpected places.
+</span>
+  </summary>
+ 
+At our workshop on ‘Commonwealthmen & Women: The Legacy of English Republicanism in Britain and Europe’ at Newcastle University we walked in the footsteps of Caroline Robbins – and yet we did not. Where Robbins had traced the long-term legacies of English republican ideas in a Commonwealth tradition which crossed the Atlantic from Britain to the American colonies, we explored primarily their British and continental European afterlife.
+
+The day went off to a good start with a paper by Esther van Raamsdonk (Warwick) on ‘John Milton in the United Provinces’, exploring the transnational reception of Milton’s work. The regicide of Charles I in England in 1649 was widely condemned across Europe, and the reaction in the United Provinces was no different, despite the country’s republican constitution. It was therefore less surprising than one might think that the King’s defence, the Defensio Regia (1649), was published in Amsterdam, albeit written by the Frenchman Claude Saumaise, better known by his Latin name as Claudius Salmasius. 
+
+To this royalist tract, John Milton responded on behalf of the English Commonwealth with his famous Pro Populo Anglicano Defensio (1651), which contained not just a powerful defence of the English people and their actions but also a scathing attack on both the arguments and the character of Salmasius. Its reception meanwhile was ambiguous.
+
+The Heinsius and Vossius families, for instance, as Esther van Raamsdonk showed, were delighted with Milton’s attack despite their rejection of the regicide. This was mainly due to their dislike of Salmasius as well as their admiration for Milton’s Latin skills. Like many other scholars of the European Republic of Letters, they discussed Milton’s tract favourably while distancing themselves from its content. The criticism of Milton’s argument and the fact that copies of his work had been burnt in Paris and Toulouse, meanwhile, helped to generate even more interest in the English republican and his writings and made him a household name.
+
+My own paper on ‘John Toland, the Acta Eruditorum and the reception of English Republican Ideas in Early Modern Germany’ came to similar conclusions for the turn of the eighteenth century. Triggered by John Toland’s new editions of English republican works as well as by their editor’s notoriety as a religious controversialist, German scholars too discussed English republican ideas, while at the same time distancing themselves from anti-royal sentiments, regicide, rebellion or religious heterodoxy. 
+
+Reviews in scholarly journals such as the Latin Acta Eruditorum served as a safe place to engage relatively openly with English republican thought in the face of censorship, although their authors had to navigate their path carefully between repeating radical ideas while at the same time advocating moderation.
+
+To what extent either English republican ideas and religious freethought or the ideas of the Dutch thinker Benedict de Spinoza influenced a ‘radical Enlightenment’ in Europe has been an ongoing debate among historians following either Margaret Jacob or Jonathan Israel. I never thought it had to be an either-or. Surely both English and Dutch radical ideas played an important role and would have been in dialogue with each other, although the late seventeenth and early eighteenth-century habit to call all religious heterodoxy Spinozism certainly does not help.
+
+Thomas Munck’s paper on ‘Spinoza, English republicanism and the origins of visionary democracy: revisiting a long-running debate in the light of self-censored texts’ engaged with Israel’s claim about the broad influence of Spinoza and turned it on its head by asking whether or not Spinoza himself would have been familiar with English authors.
+
+While Spinoza lived a relatively modest life and did not own much more than about a hundred books at the time of his death, as Thomas Munck (Glasgow) pointed out, he would still have had multiple opportunities to learn about the writings and ideas of his English contemporaries. He owned a copy of Thomas Hobbes’s De Cive and might well have known his Leviathan, not least because Spinoza knew the work’s Dutch translator. 
+
+Spinoza was also friends with the De La Court brothers as well as with many dissenters and refugees from England, especially Quakers, and he had a number of correspondents in England through which he would have heard about important works. While he was unlikely to have read James Harrington’s Oceana or other English republican writings, he was likely aware of them through his circles. Overall, however, Spinoza considered the English overthrow of the monarchy as insincere and Oliver Cromwell’s rule as a quasi-Restoration – a false republicanism based on wrong foundations – while his own preference was for a commonwealth of well-educated citizens, a utopian democracy.
+
+Joseph Hone (Newcastle) and Ashley Walsh (Cardiff) then turned to the Commonwealth tradition in England and Scotland which by the late seventeenth and early eighteenth century had come to focus increasingly on ancient constitutionalism. While the Commonwealth tradition is usually seen as a prose tradition, however, the English Lit scholar Joseph Hone drew our attention to the importance of poetry in radical thought at the turn of the eighteenth century with a paper on ‘John Tutchin and Commonwealth Poetics’.
+
+Tutchin, he suspects, might have been the author of both a collection of rhymed fables entitled Aesop at Amsterdam (1698) as well as of The Foreigners (1700) associated with the radical printer John Darby, who was Toland’s collaborator in the republication of English republican texts. Tutchin’s poems had a distinctly republican flavour, celebrating freeborn subjects, disobedience and even rebellion to tyrants. In particular, Tutchin’s works contrasted slavishness with native English freedom and the spirit of Saxon liberty, as Joseph Hone showed, revealing English Commonwealthmen to be rather more nationalist and less cosmopolitan than often suggested. 
+
+Ashley Walsh’s paper on ‘The Eighteenth-Century Standing Army Debate in Britain’ showed the significance of a citizen militia for both English and Scottish Commonwealthmen. Paired with martial and patriotic values, Saxonism flourished throughout the eighteenth century – and in republican thought. However, the enthusiasm for a citizen militia was rather greater among the English than the Scots overall, Walsh argued, as the commercial interest feared losing cheap labour to military service. Scotland eventually had a militia imposed on it against its will. 
+
+The discussion on the two papers then focused on the question whether or not the Commonwealthmen’s admiration for England’s ancient constitution should be seen as nationalist or whether Saxonism too could be considered as transnational and European. The nativist, ethnic/ racialist mindset behind it is certainly open to various interpretations. While the English used to claim the ancient constitution all to themselves and considered themselves the only free people left in Europe, as Ashley Walsh pointed out, the terms ‘English’, ‘Saxon’ and ‘German’ were also often used interchangeably.
+
+While citizenship for English republicans was closely bound up with military service, it was equally closely connected to landownership. James Harrington had observed in his Oceana (1656) that the political power in a country tended to follow the distribution of land. As a consequence of the redistribution of land in England the country’s monarchy and aristocracy had increasingly been losing power in favour of the lesser gentry and the commoners, so that Civil War had become inevitable in the mid-seventeenth century and England was naturally headed for a mixed government in which the popular element dominated. The democratisation of the country was thus tied to a redistribution of property.
+
+Rachel Hammersley (Newcastle) explored this train of thought in her paper on ‘The Persistence of English Republicanism: Land and Citizenship, 1656-1900’. She argued that eighteenth- and nineteenth-century republicans had similar concerns to their predecessors and that republicanism and land reform were therefore closely related. 
+
+In a pamphlet on Liberty and Right (1747), for instance, John Campbell had adopted Harrington’s rule on inheritance to limit property ownership and thus distribute land and political power more widely among a larger number of people. The English radical Thomas Spence, meanwhile, broke the link between land ownership and the vote when he argued for a redistribution of land, while Charles Bradlaugh also tied the ownership of land to a duty of cultivation.
+
+While the previous speakers had engaged with the material basis of political power, Christopher Hamel (Rouen) shifted the focus to its intellectual foundations with his paper on ‘Liberty as self-government. Richard Price's republicanism’. While J.G.A. Pocock contrasts rights and virtue in his analysis of classical republicanism, Christopher Hamel stressed that the two concepts go together in the political thought of Richard Price, who in turn could draw on thinkers like Algernon Sidney, John Trenchard and Thomas Gordon.
+
+Both papers were linked by the question of sources: while later republican and Commonwealth thinkers frequently lifted ideas from their seventeenth-century predecessors, they did not always reference their authorities. This might make us wonder to what extent it might have been either opportune or inopportune to be associated with political or religious radicalism to appeal to different audiences at different times.
+
+The two final presentations were both reports on ongoing projects. Max Skjönsberg (Liverpool) spoke about ‘Editing Catharine Macaulay's Political Writings’, while Allen Reddick (Zurich) presented his exploration of ‘The Hollis Collections in Europe’. Both projects are to an extent exercises in intellectual biography which attempt to reconstruct the mental worlds and motivations of two rather eccentric figures which in their own ways have shaped the English republican canon. 
+
+A key problem with Macaulay, however, is to what extent we can describe her as either a republican or a commonwealthwoman at all, or whether another label might be more appropriate for someone who frequently quoted Tories or even Jacobites. Arguing that late eighteenth-century political debates could not be usefully divided into Whig or Tory, radical or moderate, Max Skjönsberg pointed out that members of Macaulay’s own circle called themselves rather ‘the friends of liberty’, while ‘patriot’ was also a term often used and appropriated by them. The term ‘patriot’ was associated with the country party and thus a set of principles which opposed the growth of the fiscal-military state and might fit better to describe a complex character like Macaulay.
+
+While the various authors discussed over the course of the workshop might not easily have fitted into a box, however, Thomas Hollis clearly saw connections between them which identified them as part of a wider Commonwealth tradition. Over the course of his life, he spent a considerable amount of time and money on commissioning new editions of English ‘liberty books’ and sending them into the world either in the hope that they would have a positive effect or simply to know they would be preserved. Hollis sent book donations containing the works of Milton, Sidney and Harrington to libraries in England and in the American colonies, but also to the universities of Leiden, Utrecht, Göttingen and Leipzig, to Catania, Palermo, Bern, Zürich or Malta.
+
+As Allen Reddick pointed out, Hollis even sent books to countries in which few people could be expected to read or understand English. Sometimes, he accompanied his donations with Walton’s Latin-English dictionary or Samuel Johnson’s English dictionary, but he also used imagery and iconography. Everyone who has seen a Hollis volume, will easily recognise the gold embossed images of Britannia, the owl, the lyre or the liberty cap.
+
+The striking vermillion red of many Hollis volumes, meanwhile, as well as the gold embossed images might have been influenced by Hollis’ own travels, in particular his trip to Germany, where he visited the famous Kunstkammer of Augustus the Strong in Dresden, which left a lasting impression on the art lover, as Allen Reddick explained. The fact that the Hollis volumes are instantly recognisable to any student of eighteenth-century political thought surely shows that the eccentric collector’s mission was not all in vain.
+ 
+gm
+
+22/09/2021
+  
+</details>  
+
+<details>
   <summary class="postTitle">Selling Milton’s Defensio in early modern Leipzig<br>
     <span class="postSubtitle">A printer or bookseller's economic activity does not necessarily allow for conclusions about their politics.</span>
   </summary>
