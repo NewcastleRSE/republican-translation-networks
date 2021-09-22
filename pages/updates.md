@@ -8,7 +8,7 @@ title: Research Updates
 
 
 <details>
-  <summary class="postTitle">The legacies of English republicanism – a workshop report
+  <summary class="postTitle">Legacies of English republicanism – a workshop report
 <br>
     <span class="postSubtitle">English republican ideas could re-emerge in new forms and in unexpected places.
 </span>
