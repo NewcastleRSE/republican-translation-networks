@@ -47,6 +47,48 @@ Mark Somos, Francesca Iurlaro, Edward Jones Corredera and Lara Muschel then took
 
 In the final paper, Luc Borot explored ‘The manifold strategies of 17th-century translators: the case of Du Verdus as translator of Thomas Hobbes’. As an ardent admirer of Hobbes, the Gascon gentleman François Du Verdus aimed to translate his work into French. While he was successful in translating Hobbes’ *De Cive* from the Latin, however, he was forced to abandon his translation of Leviathan from the English because his linguistic skills were simply insufficient. Nevertheless, his correspondence with Hobbes about Leviathan, as Borot showed, is evidence of the close engagement of Du Verdus with the text itself and between author and translator. For Hobbes not only corresponded with Du Verdus about his translation efforts, but even sent corrected versions of chapters back to him. Borot outlined what Du Verdus' intentions might have been, in undertaking such an ambitious project.
 
+**Programme**
+
+**Day 1**
+
+Welcome and Introduction: Thomas Munck (Glasgow, online) & Gaby Mahlberg (Newcastle, on site)
+
+Panel 1:
+
+Ann Thomson (Florence), ‘Translating the Ottoman Empire: the ideological use of translations of works about the Ottomans’
+
+Asaph Ben-Tov (Erfurt), ‘Johann Camman Jr (1584-1649) and the Story of Joseph: A Brunswick lawyer reading the Koran’
+
+Panel 2:
+
+Luisa Simonutti (Milan), ‘Translation and toleration: an abridged version of Doctrina Mahumet in Locke’s papers’
+
+Panel 3:
+
+Thomas Munck (Glasgow), ‘Untranslatable, unsellable, unreadable? Obstacles, delays and failures in cultural translation in print in early modern Europe’
+
+Gaby Mahlberg (Newcastle), ‘The language politics of John Toland’s Anglia Libera (1701)’
+
+Roundtable I:
+ 
+Updates on research ideas and projects by Rachel Hammersley, Myriam-Isabelle Ducrocq and Laszlo Kontler (and everybody).
+
+**Day 2**
+
+Panel 1:
+
+Alessia Castagnino (Milan), ‘The Italian reception of Nöel-Antoine Pluche’s Spectacle de la Nature through the lens of translations’
+
+Amelia Mills (Loughborough, online), ‘Translating the ‘Carte de Tendre’: the cultural transmission of a map of courtship from Madeleine de Scudéry’s French salons to Aphra Behn’s English readers’
+
+Panel 2:
+
+Luc Borot (Montpellier), ‘The manifold strategies of 17th-century translators: the case of Du Verdus as translator of Thomas Hobbes’
+
+Mark Somos, Francesca Iurlaro (online), Edward Jones Corredera, and Lara Muschel (all Heidelberg), ‘The yacht of Theseus: navigation and transmission with the 1633 Mare liberum’
+
+Panel 3: Roundtable with a focus on the planned edited volume 
+
 gm
   
 03/11/2021  
