@@ -15,7 +15,7 @@ title: Research Updates
 
 This year's 'Translating Culture' workshop (18-19 October) was unusual in many ways. Having postponed the event several times due to the ongoing Coronavirus pandemic, Thomas Munck and I eventually decided to run it as a hybrid event with the majority of participants on-site at the Herzog August Bibliothek in Wolfenbüttel and a smaller group joining the meeting remotely from home in the UK and in France. This was made possible by the excellent facilities at the HAB allowing on-site and remote participants to communicate freely. 
   
-![Statue of Moses with a mask at Wolfenbüttel's main church Beatae Mariae Virginis](../assets/Moses.jpg)    
+![Statue of Moses with a mask at Wolfenbüttel's main church Beatae Mariae Virginis](../assets/Moses1.jpg)    
   
 The event kicked off on Monday morning with a brief welcome from the library’s director Peter Burschel and introductions by ourselves followed by three papers on Oriental scholarship in early modern Europe. 
   
@@ -25,7 +25,7 @@ Similarly, James Porter’s *Observations on the Religion, Law, Government and M
 
 Asaph Ben-Tov offered the case study of ‘Johann Camman Jr (1584-1649) and the Story of Joseph: A Brunswick lawyer reading the Koran’. Taking Camman as his starting point, Asaph demonstrated the extent to which amateur scholars in early modern Germany engaged with the ‘Turkish Bible’ not just for religious reasons but also out of sustained interest in both interlinear (literal) translation from Arabic and more culturally sensitive renditions. He also amassed a library of nearly ten thousand volumes, demonstrating his interest in scholarship and language learning. With his large library and transnational network of correspondents, Camman might have been a remarkable figure, but he was by no means a ‘lone wolf’ or ‘eccentric’. On the contrary, Asaph argued, Camman’s interest in Arabic was shared by many contemporaries inside and outside of the academic world.
   
-![Asaph talking about Johann Camman](../assets/Asaph.jpg)    
+![Asaph talking about Johann Camman](../assets/Asaph2.jpg)    
 
 Luisa Simonutti reflected on ‘Translation and toleration: an abridged version of Doctrina Mahumet in Locke’s papers’. Taking as her starting point a manuscript kept among the papers of the seventeenth-century thinker John Locke, Luisa explored how the dialogue between the prophet and the rabbi might have come to Oxford and to what purpose it might have been used by Locke. She noted the importance of manuscript transmission (rather than print), but also recognised the questions of attribution and authorship associated with heavily annotated manuscript copies. In particular, she highlighted the way in which Islam features frequently in Locke’s writings on religious toleration and contributed to ideas about doctrinal unity. Contemporary interest in orientalism, she argued, went beyond an understanding of languages to an understanding of religion and cultures and also helped to contextualise the Christian Bible. Hence, works such as the *Doctrina Mahumet* were read by the likes of John Milton, John Locke as well as John Toland.
 
@@ -51,7 +51,7 @@ Mark Somos, Francesca Iurlaro, Edward Jones Corredera and Lara Muschel then took
 
 In the final paper, Luc Borot explored ‘The manifold strategies of 17th-century translators: the case of Du Verdus as translator of Thomas Hobbes’. As an ardent admirer of Hobbes, the Gascon gentleman François Du Verdus aimed to translate his work into French. While he was successful in translating Hobbes’ *De Cive* from the Latin, however, he was forced to abandon his translation of Leviathan from the English because his linguistic skills were simply insufficient. Nevertheless, his correspondence with Hobbes about Leviathan, as Borot showed, is evidence of the close engagement of Du Verdus with the text itself and between author and translator. For Hobbes not only corresponded with Du Verdus about his translation efforts, but even sent corrected versions of chapters back to him. Borot outlined what Du Verdus' intentions might have been, in undertaking such an ambitious project.
   
-![Ann Thomson in conversation with workshop participants](../assets/Ann_in_conversation.jpg)    
+![Ann Thomson in conversation with workshop participants](../assets/Ann_in_conversation3.jpg)    
 
 **Programme**
 
