@@ -91,9 +91,11 @@ Panel 2:
 
 Luc Borot (Montpellier), ‘The manifold strategies of 17th-century translators: the case of Du Verdus as translator of Thomas Hobbes’
 
-Mark Somos, Francesca Iurlaro (online), Edward Jones Corredera, and Lara Muschel (all Heidelberg), ‘The yacht of Theseus: navigation and transmission with the 1633 +Mare liberum*’
+Mark Somos, Francesca Iurlaro (online), Edward Jones Corredera, and Lara Muschel (all Heidelberg), ‘The yacht of Theseus: navigation and transmission with the 1633 *Mare liberum*’
 
 Panel 3: Roundtable with a focus on the planned edited volume 
+  
+The event was funded by the Thyssen Foundation and the HAB.  
 
 gm
   
