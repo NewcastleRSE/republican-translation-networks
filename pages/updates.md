@@ -33,7 +33,7 @@ In the afternoon sessions, Thomas and I presented papers on the difficulties som
 
 In his provocatively titled paper, 'Untranslatable, unsellable, unreadable? Obstacles, delays and failures in cultural translation in print in early modern Europe', Thomas posed the question why some works were translated widely in the early modern period while others were not. As an example, he used the case of John Milton, who was among the most popular and most controversial authors of the seventeenth century and yet his political writings (in contrast to *Paradise Lost*) were not as widely translated as might be expected. According to Munck, several things might have made a text ‘unstranslatable’, including a lack of high-quality dictionaries or simply a lack of skill on the part of a translator; differences in the conceptual framework of the original text and the target language; ideas which were too complex, unsuitable or simply too boring to warrant translation; or various forms of censorship or fear of persecution. Texts originally written in marginal languages or originating in the periphery of Europe were less likely to gain wider dissemination through translation.
 
-My own paper engaged with ‘The language politics of John Toland’s Anglia Libera (1701)’ to explore the different purposes a political tract might have served in its original form and in translation and on the multiple audiences it might have addressed. Using the tract authored by the Irish Commonwealthman and freethinker Toland to convey the terms of the Act of Settlement to the Hanoverian Court, I showed the variations between the original English text and its German translation posing the question why the Court at Hanover might have wanted to suppress the translation, sale and distribution of this controversial work.
+My own paper engaged with ‘The language politics of John Toland’s *Anglia Libera* (1701)’ to explore the different purposes a political tract might have served in its original form and in translation and on the multiple audiences it might have addressed. Using the tract authored by the Irish Commonwealthman and freethinker Toland to convey the terms of the Act of Settlement to the Hanoverian Court, I showed the variations between the original English text and its German translation posing the question why the Court at Hanover might have wanted to suppress the translation, sale and distribution of this controversial work.
 
 The first days’ panels were then followed by several shorter research updates from Rachel Hammersley, Laszlo Kontler and Myriam-Isabelle Ducrocq. Each provided updates on the research they had presented at the group's earlier workshops, and how it will feed into the planned edited volume of papers arising from this research group. 
 
@@ -67,13 +67,13 @@ Asaph Ben-Tov (Erfurt), ‘Johann Camman Jr (1584-1649) and the Story of Joseph:
 
 Panel 2:
 
-Luisa Simonutti (Milan), ‘Translation and toleration: an abridged version of Doctrina Mahumet in Locke’s papers’
+Luisa Simonutti (Milan), ‘Translation and toleration: an abridged version of *Doctrina Mahumet* in Locke’s papers’
 
 Panel 3:
 
 Thomas Munck (Glasgow), ‘Untranslatable, unsellable, unreadable? Obstacles, delays and failures in cultural translation in print in early modern Europe’
 
-Gaby Mahlberg (Newcastle), ‘The language politics of John Toland’s Anglia Libera (1701)’
+Gaby Mahlberg (Newcastle), ‘The language politics of John Toland’s *Anglia Libera* (1701)’
 
 Roundtable I:
  
@@ -83,15 +83,15 @@ Updates on research ideas and projects by Rachel Hammersley, Myriam-Isabelle Duc
 
 Panel 1:
 
-Alessia Castagnino (Milan), ‘The Italian reception of Nöel-Antoine Pluche’s Spectacle de la Nature through the lens of translations’
+Alessia Castagnino (Milan), ‘The Italian reception of Nöel-Antoine Pluche’s *Spectacle de la Nature* through the lens of translations’
 
-Amelia Mills (Loughborough, online), ‘Translating the ‘Carte de Tendre’: the cultural transmission of a map of courtship from Madeleine de Scudéry’s French salons to Aphra Behn’s English readers’
+Amelia Mills (Loughborough, online), ‘Translating the *Carte de Tendre*: the cultural transmission of a map of courtship from Madeleine de Scudéry’s French salons to Aphra Behn’s English readers’
 
 Panel 2:
 
 Luc Borot (Montpellier), ‘The manifold strategies of 17th-century translators: the case of Du Verdus as translator of Thomas Hobbes’
 
-Mark Somos, Francesca Iurlaro (online), Edward Jones Corredera, and Lara Muschel (all Heidelberg), ‘The yacht of Theseus: navigation and transmission with the 1633 Mare liberum’
+Mark Somos, Francesca Iurlaro (online), Edward Jones Corredera, and Lara Muschel (all Heidelberg), ‘The yacht of Theseus: navigation and transmission with the 1633 +Mare liberum*’
 
 Panel 3: Roundtable with a focus on the planned edited volume 
 
