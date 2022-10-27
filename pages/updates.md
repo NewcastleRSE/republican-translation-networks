@@ -7,8 +7,10 @@ title: Research Updates
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
-  <summary class="postTitle">Translating Cultures workshop at the Herzog August Bibliothek goes hybrid<br>
-    <span class="postSubtitle">The event at the HAB in Wolfenbüttel addressed 'Ideas and Materiality in Europe' this year.</span>
+  <summary class="postTitle">Translating Cultures workshop at the Herzog August Bibliothek goes hybrid
+<br>
+    <span class="postSubtitle">The event at the HAB in Wolfenbüttel addressed 'Ideas and Materiality in Europe' this year.
+</span>
   </summary>
 
 This year's 'Translating Culture' workshop (18-19 October) was unusual in many ways. Having postponed the event several times due to the ongoing Coronavirus pandemic, Thomas Munck and I eventually decided to run it as a hybrid event with the majority of participants on-site at the Herzog August Bibliothek in Wolfenbüttel and a smaller group joining the meeting remotely from home in the UK and in France. This was made possible by the excellent facilities at the HAB allowing on-site and remote participants to communicate freely. 
