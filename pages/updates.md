@@ -7,6 +7,15 @@ title: Research Updates
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
+  <summary class="postTitle">A title about the latest update <br>
+    <span class="postSubtitle">A subtitle</span>
+  </summary>
+ 
+  xxx
+  
+</details>  
+
+<details>
   <summary class="postTitle">Translating Cultures workshop at the Herzog August Bibliothek goes hybrid
 <br>
     <span class="postSubtitle">The event at the HAB in Wolfenbüttel addressed 'Ideas and Materiality in Europe' this year.
