@@ -13,7 +13,7 @@ title: Research Updates
 </span>
   </summary>
 
-This year's 'Translating Culture' workshop (18-19 October) was unusual in many ways. Having postponed the event several times due to the ongoing Coronavirus pandemic, Thomas Munck and I eventually decided to run it as a hybrid event with the majority of participants on-site at the Herzog August Bibliothek in Wolfenbüttel and a smaller group joining the meeting remotely from home in the UK and in France. This was made possible by the excellent facilities at the HAB allowing on-site and remote participants to communicate freely. 
+  This year's 'Translating Culture' workshop (18-19 October) was unusual in many ways. Having postponed the event several times due to the ongoing Coronavirus pandemic, Thomas Munck and I eventually decided to run it as a hybrid event with the majority of participants on-site at the Herzog August Bibliothek in Wolfenbüttel and a smaller group joining the meeting remotely from home in the UK and in France. This was made possible by the excellent facilities at the HAB allowing on-site and remote participants to communicate freely. 
   
 ![Statue of Moses with a mask at Wolfenbüttel's main church Beatae Mariae Virginis](../assets/Moses1.jpg)    
   
