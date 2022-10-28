@@ -6,13 +6,6 @@ title: Research Updates
 <!-- Custom style sheet -->
 <link rel="stylesheet" type="text/css" href="../style.css">
 
-<details>
-  <summary class="postTitle">A title about the latest update <br>
-    <span class="postSubtitle">A subtitle</span>
-  </summary>
- 
-  xxx
-  
 </details>  
 
 <details>
