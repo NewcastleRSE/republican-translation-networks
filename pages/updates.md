@@ -6,8 +6,6 @@ title: Research Updates
 <!-- Custom style sheet -->
 <link rel="stylesheet" type="text/css" href="../style.css">
 
-</details>  
-
 <details>
   <summary class="postTitle">Translating Cultures workshop at the Herzog August Bibliothek goes hybrid
 <br>
