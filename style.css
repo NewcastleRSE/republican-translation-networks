@@ -73,6 +73,10 @@ button {
     }
 }
 
+details {
+    display: visible !important;
+}
+
 /* legend*/
 .box {
     display: inline-block;
@@ -112,8 +116,12 @@ nav ul li {
     display: inline;
 }
 
+li.current  a {
+color: red !important;
+}
+
 a {
-    color: #0078A8;
+    color: #0078A8 !important;
 }
 
 a:hover {
