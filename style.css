@@ -73,9 +73,9 @@ button {
     }
 }
 
-details {
-    display: visible !important;
-}
+.show {
+    visibility: visible !important;
+  }
 
 /* legend*/
 .box {
