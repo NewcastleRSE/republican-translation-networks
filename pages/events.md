@@ -95,3 +95,24 @@ André Krischer (Münster), ‘“Entdeckte Engeländische Verrätherey“. Engl
 Laura Kirkley (Newcastle), ‘How Feminism Travels: Mary Wollstonecraft's Translational Afterlife’
 
 Tom Ashby (EUI, Florence), ‘Giuseppa Barbapiccola, I principi della filosofia (1722), and the 18th Century Translators Dictionary’  
+
+</details>
+
+<details>
+  <summary class="postTitle">22 June 2023, Workshop: ‘Translating English republicanism in the European Enlightenment’, Newcastle University<br>
+  </summary>  
+ 
+This workshop addresses the significance of translation for the dissemination of English republican ideas in the European Enlightenment. The contribution of English republican ideas by thinkers such as John Milton, Marchamont Nedham, James Harrington, Edmund Ludlow and Algernon Sidney to the European Enlightenment has been a matter of much debate. A good measure of their impact might therefore be the availability on the Continent of translations of English republican works both into Latin and into a range of European vernaculars. To these should be added partial translations and extracts in learned journals as well as adaptations and imitations of English republican texts. However, the assessment of their reception might be less straightforward than it seems. On the one hand, individuals might have read works in languages other than their own, as was the case with Latin up until the seventeenth century and French for a long time afterwards. On the other hand, the mere availability of a translation does not prove readership. It is therefore necessary to take a closer look at contemporary public discourse, reviews of English republican works in learned journals, references to English republican thinkers and their ideas in works of history, philosophy and law as well as in plays, poetry and literature. Finally, in order to fully understand the significance of translations for the dissemination of ideas, we also need to know more about their genesis, their conception and their distribution and, in particular, about the many individuals and networks who made them happen: from the (often anonymous) translators down to the editors, printers and those selling and distributing English republican works. 
+
+Papers might discuss (but are not confined to):
+
+-	the Enlightenment legacy of English republican ideas
+-	translations of individual English republican works and their reception
+-	cultures and theories of translation in the Enlightenment
+-	contemporary translation practice and practitioners
+-	contemporary translation networks 
+-	multilingualism in the Enlightenment
+
+If you are interested in attending, please email Gaby.Mahlberg@newcastle.ac.uk .
+
+</details>
