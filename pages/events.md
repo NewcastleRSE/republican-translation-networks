@@ -122,7 +122,7 @@ If you are interested in attending, please email Gaby.Mahlberg@newcastle.ac.uk .
 
 **10.15-11.15 Panel 1**
 
-Ann Thomson (EUI), ‘The Huguenot Connection Revisited’
+Felix Waldmann (Cambridge), ‘Locke’s Two Treatises: German Readers and Interpreters in the Eighteenth Century’
 
 Elias Buchetmann (Rostock), ‘Paine’s Rights of Man in Germany’
 
@@ -130,7 +130,7 @@ Elias Buchetmann (Rostock), ‘Paine’s Rights of Man in Germany’
 
 **11.45-12.45 Panel 2**
 
-Felix Waldmann (Cambridge), ‘Locke’s Two Treatises: German Readers and Interpreters in the Eighteenth Century’
+Ann Thomson (EUI), ‘The Huguenot Connection Revisited’
 
 Thomas Munck (Glasgow), ‘Paine in France’
 
@@ -148,7 +148,9 @@ Gaby Mahlberg (Newcastle), ‘Cato’s Letters in eighteenth-century Germany’
 
 Christopher Hamel (Rouen), ‘Sidney/ Milton in French’
 
-Tom Ashby (EUI), ‘Algernon Sidney’s Discourses in eighteenth-century Italy’
+Tom Ashby (Fondazione Einaudi/EUI), ‘Algernon Sidney’s Discourses in eighteenth-century Italy’
+  
+Myriam-Isabelle Ducrocq (Paris), 'The journey of Harrington's ideas in eighteenth-century France'  
 
 **16.30-17.00 Roundtable**
 
