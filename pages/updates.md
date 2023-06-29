@@ -8,7 +8,7 @@ title: Research Updates
 
 <details>
   <summary class="postTitle">Translating English Republicanism in the European Enlightenment - A Workshop Report <br>
-    <span class="postSubtitle">The study of translation deserves a more prominent place in Intellectual History more broadly.</span>
+    <span class="postSubtitle">Looking for European networks and contexts.</span>
   </summary>
 
 While the focus of my current research is broadly on the reception of political thought from the English republican and Commonwealth tradition in Germany, it is clear that this research only makes sense in a wider European context, not least because the German reception depended on what was going on elsewhere. Since only few Germans were able to access and read English texts in the original, most readers would have gained their knowledge of English republican ideas either via translations or via reviews in learned journals. Other forms of second- or third-hand reception might have involved encyclopaedia entries or footnote references and annotations in historical, legal or political works or even references in drama and fictional literature. In any case, the paths by which English republican ideas reached different audiences across Europe was anything but direct. They involved a variety of acts of translation and mediation across a number of different languages in a variety of contexts. The participants of my recent workshop, ‘Translating English Republicanism in the European Enlightenment’, at Newcastle University on 22 June grappled with some of these processes in their papers.
