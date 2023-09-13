@@ -53,7 +53,7 @@ tertio comprehensa, quibus Cl. Editor eandem Vitam praemisit.
 At quoniam opera illa ad nos advecta nondum sunt, tanto ma-
 gis e re futurum arbitramur, ut eorum hoc loco catalogum con-
 signemus.</font>
-     [LoM: 9-10] Johannes Mitonus, stirpe nobili oriundus, patre Johanne, 
+     **[LoM: 9-10]** Johannes Mitonus, stirpe nobili oriundus, patre Johanne, 
 musico excellente, sed professione scriba (quippe quem parentes i-
 deo, quod Protestantium religionem amplexus fuerat, haereditate 
 privaverant) matre Sara Castonia, Londini A. 1606 natus, sororem 
