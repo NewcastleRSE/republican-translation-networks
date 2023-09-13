@@ -15,35 +15,6 @@ title: Visuals
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [p. 371] 
 
 THE LIFE OF JOHN MILTON &c.
