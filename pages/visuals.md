@@ -7,8 +7,8 @@ title: Visuals
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
-  <summary class="postTitle">Translating English Republicanism in the European Enlightenment - A Workshop Report <br>
-    <span class="postSubtitle">Looking for European networks and contexts.</span>
+  <summary class="postTitle">How early modern reviewers worked<br>
+    <span class="postSubtitle">J.B. Mencke's review of Toland's Life of Milton - A Case Study</span>
   </summary>
 
 [Johann Burckhardt Mencke,] ‘The Life of John Milton &c. id est, Vita Johannis Miltoni, Continens Praeter operum ejus historiam, characters extraordinarios hominum, librorum item, sectarum, partium & opinionum. Londini apud Johannem Darby, 1699. In 8. Plag. ii.’ Acta Eruditorum, August 1700, pp. 371-9.
