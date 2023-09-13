@@ -30,7 +30,7 @@ title: Visuals
 
 [p. 372] 
 
-<p><span style="color:blue">Cum auctorem hujus libri esse Johannem Tolant, Hibernum, 
+<p><span style="color: blue">Cum auctorem hujus libri esse Johannem Tolant, Hibernum, 
 cognovissemus, quem Socianis non minus, quam Monarcho-
 machis addictum vulgo putant, & cujus dissertationem, Christia-
 nity not mysterious, i.e. Christianismus mysterii expers, Parlamenti 
