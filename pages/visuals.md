@@ -18,12 +18,12 @@ title: Visuals
 
 [p. 371] 
 
-THE LIFE OF JOHN MILTON &c.
-id est,
-VITA JOHANNIS MILTONI, CONTINENS PRAE-
-ter operum ejus historiam, characteres extraordinarios hominum,
-librorum item, sectarum, partium & opinionum.
-Londini apud Johannem Darby, 1699. in 8. Plag. ii.
+<P ALIGN=CENTER>THE LIFE OF JOHN MILTON &c.</P>
+<P ALIGN=CENTER>id est,</P>
+<P ALIGN=CENTER>VITA JOHANNIS MILTONI, CONTINENS PRAE-</P>
+<P ALIGN=CENTER>ter operum ejus historiam, characteres extraordinarios hominum,</P>
+<P ALIGN=CENTER>librorum item, sectarum, partium & opinionum.</P>
+<P ALIGN=CENTER>Londini apud Johannem Darby, 1699. in 8. Plag. ii.</P>
 										Cum
 
 
