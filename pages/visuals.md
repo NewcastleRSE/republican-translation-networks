@@ -29,7 +29,7 @@ Londini apud Johannem Darby, 1699. in 8. Plag. ii.
 
 [p. 372] 
 
-<span style="color:red">Cum auctorem hujus libri esse Johannem Tolant, Hibernum, 
+<font color="green">Cum auctorem hujus libri esse Johannem Tolant, Hibernum, 
 cognovissemus, quem Socianis non minus, quam Monarcho-
 machis addictum vulgo putant, & cujus dissertationem, Christia-
 nity not mysterious, i.e. Christianismus mysterii expers, Parlamenti 
@@ -52,7 +52,7 @@ folio, ut loqui amant, & Anglica quidem duobus tomis, Latina
 tertio comprehensa, quibus Cl. Editor eandem Vitam praemisit. 
 At quoniam opera illa ad nos advecta nondum sunt, tanto ma-
 gis e re futurum arbitramur, ut eorum hoc loco catalogum con-
-signemus.</span>
+signemus.</font>
      [LoM: 9-10] Johannes Mitonus, stirpe nobili oriundus, patre Johanne, 
 musico excellente, sed professione scriba (quippe quem parentes i-
 deo, quod Protestantium religionem amplexus fuerat, haereditate 
