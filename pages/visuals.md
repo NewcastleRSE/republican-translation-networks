@@ -12,7 +12,7 @@ title: Visuals
   </summary>
 
    
-[Johann Burckhardt Mencke,] ‘The Life of John Milton &c. id est, Vita Johannis Miltoni, Continens Praeter operum ejus historiam, characters extraordinarios hominum, librorum item, sectarum, partium & opinionum. Londini apud Johannem Darby, 1699. In 8. Plag. ii.’ Acta Eruditorum, August 1700, pp. 371-9.
+<p style="color:blue">[Johann Burckhardt Mencke,] ‘The Life of John Milton &c. id est, Vita Johannis Miltoni, Continens Praeter operum ejus historiam, characters extraordinarios hominum, librorum item, sectarum, partium & opinionum. Londini apud Johannem Darby, 1699. In 8. Plag. ii.’ Acta Eruditorum, August 1700, pp. 371-9.</p>
 
 
 
@@ -30,7 +30,7 @@ title: Visuals
 
 [p. 372] 
 
-   <p style="color:blue">Cum auctorem hujus libri esse Johannem Tolant, Hibernum, 
+Cum auctorem hujus libri esse Johannem Tolant, Hibernum, 
 cognovissemus, quem Socianis non minus, quam Monarcho-
 machis addictum vulgo putant, & cujus dissertationem, Christia-
 nity not mysterious, i.e. Christianismus mysterii expers, Parlamenti 
@@ -53,7 +53,7 @@ folio, ut loqui amant, & Anglica quidem duobus tomis, Latina
 tertio comprehensa, quibus Cl. Editor eandem Vitam praemisit. 
 At quoniam opera illa ad nos advecta nondum sunt, tanto ma-
 gis e re futurum arbitramur, ut eorum hoc loco catalogum con-
-signemus</p>
+signemus
 **[LoM: 9-10]** Johannes Mitonus, stirpe nobili oriundus, patre Johanne, 
 musico excellente, sed professione scriba (quippe quem parentes i-
 deo, quod Protestantium religionem amplexus fuerat, haereditate 
