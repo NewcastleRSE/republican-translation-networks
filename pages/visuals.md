@@ -29,7 +29,7 @@ Londini apud Johannem Darby, 1699. in 8. Plag. ii.
 
 [p. 372] 
 
-<font color="green">Cum auctorem hujus libri esse Johannem Tolant, Hibernum, 
+<font color="red">Cum auctorem hujus libri esse Johannem Tolant, Hibernum, 
 cognovissemus, quem Socianis non minus, quam Monarcho-
 machis addictum vulgo putant, & cujus dissertationem, Christia-
 nity not mysterious, i.e. Christianismus mysterii expers, Parlamenti 
