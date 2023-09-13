@@ -7,7 +7,7 @@ title: Visuals
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
-  <summary class="postTitle">How early modern reviewers worked<br>
+  <summary class="postTitle">How Early Modern Reviewers Worked<br>
     <span class="postSubtitle">J.B. Mencke's review of Toland's Life of Milton - A Case Study</span>
   </summary>
 
