@@ -35,7 +35,8 @@ title: Visuals
 <P> <HR ALIGN=LEFT>machis addictum vulgo putant, & cujus dissertationem, *Christia*-</P>
 <P> <HR ALIGN=LEFT>*nity not mysterious*, i.e. *Christianismus mysterii expers*, Parlamenti</P> 
 <P> <HR ALIGN=LEFT>Hibernici jussu crematam fuisse minime nos latet, fatemur equi-</P>
-<P> <HR ALIGN=LEFT>dem aliquamdiu deliberatum nobis fuisse, utrum Vitae huic fides 
+<P> <HR ALIGN=LEFT>dem aliquamdiu deliberatum nobis fuisse, utrum Vitae huic fides</P>
+
 in omnibus habenda sit, ejusque recensio inserenda Actis nostris. 
 Denique multa nos permoverunt, ut non omnino nullam ejus men-
 tionem faciendam esse decerneremus. Nam, ut statutum nobis 
