@@ -624,7 +624,7 @@ siae nomen subscripsit, neque templa amplius frequentavit, incer-
 
 tum quam ob causam.
 
-	Quod restat, ignorare Lectorem benevolum nolumus, libri 
+Quod restat, ignorare Lectorem benevolum nolumus, libri 
  
 hujus refutationem quandam suscepisse auctorem anonymum o-
 
