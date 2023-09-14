@@ -18,7 +18,7 @@ title: Visuals
 
 [p. 371] 
 
-<P ALIGN=CENTER>*THE LIFE OF JOHN MILTON &c.*</P>
+<P ALIGN=CENTER>THE LIFE OF JOHN MILTON &c.</P>
 <P ALIGN=CENTER>id est,</P>
 <P ALIGN=CENTER>VITA JOHANNIS MILTONI, CONTINENS PRAE-</P>
 <P ALIGN=CENTER>ter operum ejus historiam, characteres extraordinarios hominum,</P>
@@ -78,7 +78,7 @@ gis e re futurum arbitramur, ut eorum hoc loco catalogum con-
 
 signemus
 
-     **[LoM: 9-10]** Johannes Mitonus, stirpe nobili oriundus, patre Johanne, 
+**[LoM: 9-10]** Johannes Mitonus, stirpe nobili oriundus, patre Johanne, 
      
 musico excellente, sed professione scriba (quippe quem parentes i-
 
