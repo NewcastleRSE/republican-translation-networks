@@ -103,15 +103,7 @@ que doloribus vexatum frequenter fuisse. Missus deinde anno
 aetatis decimo quinto Cantabrigiam fuit, quo anno prima poetici 
 
                                                             genii
-
-
-
-
-
-
-
-
-
+							    
 [p. 373] 
 
 genii documenta dedit, a Psalmis potissimum exorsus, quorum ali-
