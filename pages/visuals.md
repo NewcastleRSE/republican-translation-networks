@@ -25,7 +25,7 @@ title: Visuals
 <P ALIGN=CENTER>librorum item, sectarum, partium & opinionum.</P>
 <P ALIGN=CENTER>Londini apud Johannem Darby, 1699. in 8. Plag. ii.</P>
 										Cum
-
+	  
 ![Page 372 of Review](../assets/AE1700_Toland_Milton_372.png.png)
 
 [p. 372] 
