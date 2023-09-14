@@ -144,17 +144,17 @@ vaggium, quorum ita de Miltono ille:
 
 *Cede Meles, cedat depressa Mincius urna,*
 
-		*Sebetus Tassum definat usque loqui:*
+*Sebetus Tassum definat usque loqui:*
   
 *At Thamesis victor cunctis ferat altior undas,*
 
-		*Nam per te, Milto, par tribus unus erit;*
+*Nam per te, Milto, par tribus unus erit;*
   
 Hic paulo brevius, nec minus honorifice:
 
-                *Graecia Maeonidem, jactet sibi Roma Maronem:*
+*Graecia Maeonidem, jactet sibi Roma Maronem:*
 		
-			*Anglia Miltonum jactat utrique parem.*
+*Anglia Miltonum jactat utrique parem.*
    
 Neapoli in summi Maecenatis Johannis Baptistae Mansi amicitiam
 
@@ -162,9 +162,9 @@ receptus, hoc ab illo distichon meruit:
 
 **[LoM: 21]**	
 
-       *Ut mens, forma, decor, facies, mos; si pietas sic;*
+*Ut mens, forma, decor, facies, mos; si pietas sic;*
        
-		*Non Anglus, verum hercle Angelus ipse fores;*
+*Non Anglus, verum hercle Angelus ipse fores;*
   
 cui ui (?) se non ingratum praestaret, tersissimam elegiam composuit, 
 
