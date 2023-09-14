@@ -336,192 +336,309 @@ quietus
 
 [p.  376] 
 
-quietus cum Musis habitaret. **[LoM: 73-74]** Verum cum Carolo I capite plexo 
+quietus cum Musis habitaret. **[LoM: 73-74]** Verum cum Carolo I capite plexo
+
 Presbyteriani quoque, qui Regi nuper fuerant insensissimi, metuen-
-tes ne sectis nonnullis licentia daretur, publice pro inviolabilitate 
+
+tes ne sectis nonnullis licentia daretur, publice pro inviolabilitate
+
 Regis declamarent, non poterat amplius a publica controversia ab-
-stinere Miltonus, editoque A.1649 libro Anglico, cui titulus, Tenure 
+
+stinere Miltonus, editoque A.1649 libro Anglico, cui titulus, Tenure
+
 of Kings and Magistrates, probare multies rationibus conatus est, Ty-
-rannos a Magistratu quolibet inferiori, vel si is quoque recusaverit, ab 
+
+rannos a Magistratu quolibet inferiori, vel si is quoque recusaverit, ab
+
 ipso populo & confusa plebe, jure meritoque, & ex consuedtudine o-
+
 mnium omnis aetatis nationum liberarum, in jus vocari posse, & si 
+
 criminis atrocioris rei fuerint, capitis damnari. **[LoM: 79-80]** Eo libro de Par-
-lamento optime meritus, cum minime putaret, (nam scribendae 
-tum Anglia Historia unice incumbebat) hanc gratiam retuli, ut 
-munus Secretarii Concilii Status in negotiis externis, quae Latino 
-idiomate tractanda erant, ipsi deferretur. **[re LoM: 81]** Atque illae quidem epistolae 
-quas Senatus Populique Anglicani, nec non Cromwelli & Richardi 
-nomine ad exteros scripsit, post mortem Miltoni prodierunt, Lipsiae 
-quoque nostrae recusae, elegantes profecto & acutae. **[LoM: 81]** Interea cum 
+
+lamento optime meritus, cum minime putaret, (nam scribendae
+
+tum Anglia Historia unice incumbebat) hanc gratiam retuli, ut
+
+munus Secretarii Concilii Status in negotiis externis, quae Latino
+
+idiomate tractanda erant, ipsi deferretur. **[re LoM: 81]** Atque illae quidem epistolae
+
+quas Senatus Populique Anglicani, nec non Cromwelli & Richardi
+
+nomine ad exteros scripsit, post mortem Miltoni prodierunt, Lipsiae
+
+quoque nostrae recusae, elegantes profecto & acutae. **[LoM: 81]** Interea cum
+
 post mortem Regis Caroli I liber prodiisset sub ejust nomine, EI-
+
 KON BASILIKE [Greek], solus idoneus habebatur Miltonus, qui, ne popu-
+
 lus in alia omnia traheretur, libri censuram adornaret, quam iti-
+
 dem Anglice edidit, Eiconoclastes inscriptam. In ea quoniam suppo-
+
 situs Regi foetus ille Miltono fuerat creditus, hinc de industria Bio-
+
 graphus noster de fraude ea, si modo fraus fuit, differit. Nimir-
-um suspectas sibi imprimis ait precationes, quae passim Carolino 
+
+um suspectas sibi imprimis ait precationes, quae passim Carolino
+
 operi immiscentur; earum enim aliquam vix verbo immutatam re-
+
 pertam sibi fuisse in Arcadia Philippi Sidnei: phrases vero Theo-
+
 logicas cathedram potius vel systema quoddam Theologicum sape-
-re, quam a Rege videri profectas. Tum vero e testimonio, quod 
+
+re, quam a Rege videri profectas. Tum vero e testimonio, quod
+
 horum operum exemplari cuidam ipsius Anglesei manu adnota-
-tum hodique exstat, aperte probat patere, Regem Carolum II & 
+
+tum hodique exstat, aperte probat patere, Regem Carolum II &
+
 Jacobum tum Ducem Eboracensem saepius affirmasse, librum nequa-
+
 quam Regem Carolum habuisse auctorem, verum a Gaudenio Epi-
+
 scopo Exoniensi exaratum fuisse. Denique rem omnem a D. Anto-
-nio Walkero aliisque studiose ait expediri, quorum argumenta eo 
-lubentis omittimus, quo minus ad vitam Miltoni vere spectant, 
-tum quod ab aliis sub examen revocata sunt. **[LoM: 95]** Properandum no- 
 
+nio Walkero aliisque studiose ait expediri, quorum argumenta eo
 
+lubentis omittimus, quo minus ad vitam Miltoni vere spectant,
 
-
-
-
-
-
-
+tum quod ab aliis sub examen revocata sunt. **[LoM: 95]** Properandum no-
 
 [p. 377] 
 
-bis potius est ad ea scripta, quae contra Salmasium edidit Miltonus, 
-pro mala quidem causa, sed elegantissima. Nempe Salmasius A. 1649 
+bis potius est ad ea scripta, quae contra Salmasium edidit Miltonus,
+
+pro mala quidem causa, sed elegantissima. Nempe Salmasius A. 1649
+
 a Carolo II exule multo aere conductus, Defensionem Regiam edide-
+
 rat, in qua & judicium politicum, & puriorem Latinitatem, An-
+
 glicorumque nominum peritiam, non immerito desiderari a Milto-
+
 no, Noster existimat, tanto vero imprudentiorem Salmasium vide-
+
 ri, quod, cum a Batavis, gente libera, stipendia acciperet, contra li-
+
 bertatem pugnarit. **[LoM: 97]** Cum vero in Angliam ejus haud pauca exem-
+
 plaria pervenissent, Miltono ex omnium votis id negotii dedit Par-
+
 lamentum, ut responsionem quanto posset studio elucubraret. Ita-
+
 que haud multo post edidit Defensionem pro Populo Anglicano, sty-
+
 lo scriptam eleganti, sed acerbiori paulo, quam fas erat, quod nec 
-Noster plane diffitetur; **[LoM: 102]** tanto vero apud Anglos receptam plausu, 
-ut mille librarum sterlinensium praemium Miltono rependerent. **[LoM: 103]** Certo 
+
+Noster plane diffitetur; **[LoM: 102]** tanto vero apud Anglos receptam plausu,
+
+ut mille librarum sterlinensium praemium Miltono rependerent. **[LoM: 103]** Certo
+
 ipse Episcopus Bramhal, cum postea causam Regiam tecto quidem 
+
 nomine defendisset, refutatus quidem a Johanne Philippo, Milto-
+
 ni e sorore nepote etiamnum superstite, minime dissimulavit, De-
+
 fensionis Salmasiana unicam editionem divendi vix potuisse, Mil-
+
 tonianam vero toties recudi, ut paginis editonum adeo discrepan-
-tibus, vix indicari illae Lectoribus satis commode in responsione 
+
+tibus, vix indicari illae Lectoribus satis commode in responsione
+
 possint. Quin & Noster ait, Salmasium, qui interea in aulam 
+
 Christianae Reginae Sueciae fuerat adscitus, simul atque Miltoni re-
-sponsio eo advecta fuisset, contemptim haberi coepisse, atque inde discendentem Apologiam adornasse quidem, sed cui quo minus ulti-
+
+sponsio eo advecta fuisset, contemptim haberi coepisse, atque inde discendentem 
+
+Apologiam adornasse quidem, sed cui quo minus ulti-
+
 mam manum adderet, morte fuerit praeventus. **[LoM: 104]** Miltonum con-
+
 tra, etsi liber ejus Parisiis a carnisice, non tam Parlamenti jussu, quam 
+
 instigatione Cleri, & postea quoque Tholosae igni fuerit traditus, 
+
 meruisse tamen non modo Legatorum, qui Londini tum aderant, 
+
 imprimis Belgicorum, sed exterorum quoque, Germanorum pari-
+
 ter & Gallorum prolixas laudes. **[LoM: 105]** Nactus deinde, ut sperabat, ma-
+
 jus otium Miltonus, A.1652 hospitio mutato secundam uxorem du-
+
 cit, paulo post nuptias extinctam. **[LoM: 105-6]** Cumque eodem anno pro-
+
 diisset apud exteros liber, sub titulo, Clamor Regii Sanguinis ad 
+
 Coelum &c. **[LoM: 106-8]** (cujus quanquam genuinus auctor esset Petrus Mo-
+
 lineus, junior, Praebendarius Cantuariensis, tamen quoniam ab A-
+
 lexandro Moro conscionatore Gallico fuerat prelo mandatus, qui 
+
 &
-
-
-
-
-
-
-
-
 
 [p. 378] 
 
 & nomine bibliopolae dedicaverat librum Carolo II, is auctor ple-
+
 rumque habebatur) Miltonus mox Defensionem secundam pro Popu-
+
 lo Anglicano edidit, in qua neque Moro pepercit, quem subinde sale 
+
 satyrico perscricuit, & objectum coecitatis supplicium ita diluit, ut 
+
 haud peccasse se pro libertate scribendo contenderet, & oculorum 
+
 morbum continua lucubratione contractum sibi jamdiu ante pro-
+
 baret, quam contra Salmasium calamum strinxisset. **[LoM: 111]** Edito inde 
+
 a Moro novo libro, cui Fidei Publica titulum fecit, aliam Defen-
+
 sionem pro se divulgabat, cui Morus denique acquievit. **[LoM: 112]** Hinc cum 
+
 paulisper ad alios labores, Historiam nempe Magna Britannia, The-
+
 saurum lingua Latina, & poema heroicum, Paradisum Amissum, 
+
 (quod unum ex his perfectum in lucem tandem opus prodiit,) re-
+
 diisset, interim tamen & dissertationes alias de potestate civili in 
+
 rebus ecclesiasticis, de modo item submovendi conductitios ex ecclesia, 
+
 Anglico sermone edidit. **[LoM: 117-122]** Mortuo vero Cromwello, & Richardo ab 
+
 exercitu dejecto, non destitit contra Monarchiam scriptis pu-
+
 gnare, & defendere Democratiae commoda; qua in re tamen non-
+
 dum ad Harringtoni famam processisse Auctori nostro dicitur, cu-
+
 jus quippe cura nuperrime prodierunt Harringtoniana opera cum 
-vita auctoris, a nobis forte propediem recensenda.  **[LoM: 122-125]** Ast Rege in 
+
+vita auctoris, a nobis forte propediem recensenda. **[LoM: 122-125]** Ast Rege in
+
 Angliam reduce facto, in tutiora se recepit Miltonus, donec amne-
+
 stia promulgata veniam impetraret, a publicis solummodo officiis 
+
 deinceps excludendus. **[LoM: 126]** Inde tertiam uxorum duxit, cum qua ste-
+
 rile illi conjugium fuit. Interim duas e primo matrimonio filias 
+
 ita erudiverat, ut Hebraica, Graeca, Latina, Hispanica, Italica, Gal-
-lica, etsi minime intelligerent, legere sine haesitatione possent, quod 
+
+lica, etsi minime intelligerent, legere sine haesitatione possent, quod
+
 ipsi jam oculorum usu destituto insigniter profuit. Etsi vero com-
+
 mercio litterario, quod illi erat cum Millio, Oldenburgio, Heim-
+
 bachio, de Brass, Leone ab Aizema, Emerico Bigotio aliisque, quo-
+
 rum nomina passim inscripta litteris ejus familiaribus videas in 
-nova Operum Miltonianorum editione, **[LoM: 126]** ab A.1652 usque ad 1660 
+
+nova Operum Miltonianorum editione, **[LoM: 126]** ab A.1652 usque ad 1660
+
 praecipue occuparetur, nec qualibet anni tempestate ad poema scri-
+
 bendum aptus esset, (nullum enim ei tempus erat convenientius, 
+
 quam quod brumale & aestivum solstitium interjacet,) tamen Amis-
-sum Paradisum elucubravit tandem, & A. 1666 primum in lucem 
-emisit. Quod poema quoniam ex merito laudavimus, com novae 
+
+sum Paradisum elucubravit tandem, & A. 1666 primum in lucem
+
+emisit. Quod poema quoniam ex merito laudavimus, com novae
+
 ejus
-
-
-
-
-
-
-
-
 
 [p. 379] 
 
 ejus editionis mentionem faceremus in Actis A. 1696, p. 227, judi-
+
 cium Drydeni, summi poetae, in cujus laudes Noster quoque ex-
+
 currit, & qui ex toto opere traegoediam eodem titulo concinnavit, 
+
 recensere ex Auctore supersedemus. **[LoM: 138]** Post A. 1670 edidit Para-
-disum Reparatum, Amisso multo, ut omnes censent, inferiorem; unde 
-dictum percrebuit, Miltonum frustra quaeri in Paradiso Reparato. 
+
+disum Reparatum, Amisso multo, ut omnes censent, inferiorem; unde
+
+dictum percrebuit, Miltonum frustra quaeri in Paradiso Reparato.
+
 Procuderat una quoque tragoediam, Samson Agonistes, eodemque 
+
 anno prodiit quidem Historia Magna Britannie, Anglice, ut plera-
+
 que ejus opera, conscripta, sed quam ultra Normannorum tem-
+
 pora producere non potuerat. Ut vero alios ejus libros minoris 
-momenti taceamus, duorum amplius mentionem facimus; **[LoM: 142]** alter 
+
+momenti taceamus, duorum amplius mentionem facimus; **[LoM: 142]** alter
+
 est Epistolarum familiarum liber unus, cui accesserunt Prolusiones 
+
 quadam Oratorie, alter **[LoM: 143, 149]** Anglicus, idemque postremus Miltoni foe-
-tus, de vera religione, haresi, schismate, tolerantia & modis optimis, 
+
+tus, de vera religione, haresi, schismate, tolerantia & modis optimis,
+
 quibus praeveniri Papismo possit, uterque A. 1674, quo ex vita dis-
+
 cessit, excusus. Thesaurus Lingua Latina, quo Stephanum com-
+
 plere statuerat, nunquam prodiit, Littletono tamen lexicographo 
-non nulli usui fuit. **[LoM: 148, 149]** Ceterum quod Bibliothecae suae partem 
+
+non nulli usui fuit. **[LoM: 148, 149]** Ceterum quod Bibliothecae suae partem
+
 maximam paulo anti obitum vendiderit, minime paupertatis in illo 
+
 indicium fuisse Auctor ait, quippe 1500 libras Sterling. post se re-
+
 liquit, exstinctus podagra, qua vehementer per complures annos 
-laboravit, insigni adhuc monumento ornandus, quo constet omnibus, 
+
+laboravit, insigni adhuc monumento ornandus, quo constet omnibus,
+
 suum etiam sub Potentissimo Rege Wilhelmo eruditis in Anglia hono-
-rem haberi. Exhibet ultimo loco characterem ejus Biographus, neque 
+
+rem haberi. Exhibet ultimo loco characterem ejus Biographus, neque
+
 laudibus parcit, quas huc transferre nostrum non est; inconstan-
-tiae tamen signa luculenta non possumus ex ipso tacere. **[LoM: 151]** Nempe 
+
+tiae tamen signa luculenta non possumus ex ipso tacere. **[LoM: 151]** Nempe
+
 religione varius fuit Miltonus, quippe Protestantium, qui tum Pu-
+
 ritani vocabantur, partibus accessit juvenis, inde media aetate Inde-
+
 pendentibus & Anabaptistis arctius adhaesit, senex vero nulli Eccle-
+
 siae nomen subscripsit, neque templa amplius frequentavit, incer-
+
 tum quam ob causam.
+
 	Quod restat, ignorare Lectorem benevolum nolumus, libri 
+ 
 hujus refutationem quandam suscepisse auctorem anonymum o-
+
 pusculo, cui titulus, Remarks on the Life of Mr. Milton, eique ite-
-rum responsum a Biographo fuisse libello alio, quem inscripsit, 
+
+rum responsum a Biographo fuisse libello alio, quem inscripsit,
+
 Amyntor, quorum, si tanti videbuntur, recensum alibi forsan sumus 
+
 exhibituri.
-								SERI-
-
-
+								
 END OF REVIEW
 
-13/09/2023
+14/09/2023
 
 gm
   
