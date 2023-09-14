@@ -115,43 +115,79 @@ aetatis decimo quinto Cantabrigiam fuit, quo anno prima poetici
 [p. 373] 
 
 genii documenta dedit, a Psalmis potissimum exorsus, quorum ali-
+
 quos carmine transposuit. **[LoM: 12-13]** Postquam itaque commoratus illic fuis-
+
 set per septennium, Magistri artium honores suscepit, atque annos 
+
 deinde aliquot ruri degens, Graecos Latinosque scriptores diurna 
+
 nocturnaque manu versavit, evagatus quandoque etiam Londinum, 
+
 cum librorum emendorum gratia, tum potissimum ut in Mathesi 
+
 vel Muscia proficeret, quibus ille studiis mire delectabatur. **[LoM: 15]** Ad 
+
 peregrinationem inde animum applicans, in Galliam primo profe-
+
 ctus est, atque illic Anglici Legati commendatione innotuit cele-
+
 berrimo Grotio, Reginae Sueciae isto tempore Legato. **[LoM: 16]** Isthinc 
+
 discessit in Italiam, in qua prima illum cepit linguae elegantia & 
+
 civium comitate Florentia; hic enim in Caroli Dati, Gaddi, 
+
 Chimentelli aliorumque doctorum amicitiam pervenit, & Societa-
+
 tibus eruditis, quas Academias vocant, frequens interfuit. **[LoM: 19-20]** Sed 
+
 Romae postea non minus suaviter cum excepit Lucas Holstenius, 
+
 quo conciliatore ipsi Cardinali Barberino coepit innotescere; ami-
+
 cissimum vero habuit par poetarum egregium, Salsillum & Sel-
+
 vaggium, quorum ita de Miltono ille:
 
-Cede Meles, cedat depressa Mincius urna,
-		Sebetus Tassum definat usque loqui:
-At Thamesis victor cunctis ferat altior undas,
-		Nam per te, Milto, par tribus unus erit;
+*Cede Meles, cedat depressa Mincius urna,*
+
+		*Sebetus Tassum definat usque loqui:*
+  
+*At Thamesis victor cunctis ferat altior undas,*
+
+		*Nam per te, Milto, par tribus unus erit;*
+  
 Hic paulo brevius, nec minus honorifice:
-Graecia Maeonidem, jactet sibi Roma Maronem:
-			Anglia Miltonum jactat utrique parem.
+
+                *Graecia Maeonidem, jactet sibi Roma Maronem:*
+		
+			*Anglia Miltonum jactat utrique parem.*
+   
 Neapoli in summi Maecenatis Johannis Baptistae Mansi amicitiam
+
 receptus, hoc ab illo distichon meruit:
+
 **[LoM: 21]**	
-Ut mens, forma, decor, facies, mos; si pietas sic;
-		Non Anglus, verum hercle Angelus ipse fores;
+
+       *Ut mens, forma, decor, facies, mos; si pietas sic;*
+       
+		*Non Anglus, verum hercle Angelus ipse fores;*
+  
 cui ui (?) se non ingratum praestaret, tersissimam elegiam composuit, 
+
 nomine Mansus. **[LoM: 22-23]** Inde in reditu Genevam divertens, Illustrissimum 
+
 Ezechielem Spanhemium convenit, ibidemque intimam familiari-
+
 tatem contraxit cum Carolo Deodato, Professore Theologiae, ori-
+
 gine Luccensi, sed nativitate Anglo, Physices bene perito, Graeca-
+
 tumque litterarum scientissimo, id quod testari Auctor ait episto-
+
 las duas Graecas, quae penes se sint; ejus vero immaturum fatum 
+
 								Mil-
 
 
