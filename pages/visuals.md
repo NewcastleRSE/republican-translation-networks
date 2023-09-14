@@ -145,28 +145,28 @@ vaggium, quorum ita de Miltono ille:
 *Cede Meles, cedat depressa Mincius urna,*
 
 *Sebetus Tassum definat usque loqui:*
-  
+
 *At Thamesis victor cunctis ferat altior undas,*
 
 *Nam per te, Milto, par tribus unus erit;*
-  
+
 Hic paulo brevius, nec minus honorifice:
 
 *Graecia Maeonidem, jactet sibi Roma Maronem:*
-		
+
 *Anglia Miltonum jactat utrique parem.*
-   
+
 Neapoli in summi Maecenatis Johannis Baptistae Mansi amicitiam
 
 receptus, hoc ab illo distichon meruit:
 
-**[LoM: 21]**	
+**[LoM: 21]**
 
 *Ut mens, forma, decor, facies, mos; si pietas sic;*
-       
+
 *Non Anglus, verum hercle Angelus ipse fores;*
-  
-cui ui (?) se non ingratum praestaret, tersissimam elegiam composuit, 
+
+cui ui (?) se non ingratum praestaret, tersissimam elegiam composuit,
 
 nomine Mansus. **[LoM: 22-23]** Inde in reditu Genevam divertens, Illustrissimum 
 
@@ -181,108 +181,158 @@ tumque litterarum scientissimo, id quod testari Auctor ait episto-
 las duas Graecas, quae penes se sint; ejus vero immaturum fatum 
 
 								Mil-
-
-
-
-
-
-
-
+	
 [p. 374] 
 
 Miltonus lamentatur ecloga Damon, quae Virgilii Daphnidi Aucto-
-ris judicio minime cedit. **[LoM: 25]** Tandem postquam rediisset Londinum, 
+
+ris judicio minime cedit. **[LoM: 25]** Tandem postquam rediisset Londinum,
+
 ne nullam nepotum ex sorore curam haberet, illos in Graecis, La-
+
 tinis & Hebraicis, nec non Matheseos partibus nonnullis, Cosmo-
+
 graphia item, Historia, linguisque modernis Gallica & Italica eru-
+
 diebat, aliis quoque amicorum filiis in doctrinae societatem adsci-
+
 tis. **[LoM: 26]** His praeter alios auctores, quos in scholis explicare com-
-sueverunt Angli, Catonem, Varronem, Columellam, Palladium, 
+
+sueverunt Angli, Catonem, Varronem, Columellam, Palladium,
+
 Cornelium Celsum, Plinii Historiam Naturaelm, Vitruvium, Fron-
-tinum & Philosophos Poetas Lucretium atque Manilium, nec non 
+
+tinum & Philosophos Poetas Lucretium atque Manilium, nec non
+
 Graecos, Aratum, Dionysium Periegetem, Oppianum, Q. Cala-
-brum, Apollonium Rhodium, Plutarchum, Xenophontem, Aeliani 
+
+brum, Apollonium Rhodium, Plutarchum, Xenophontem, Aeliani
+
 Tactica & Poliaeni Stratagemata exposuit. **[LoM: 27]** Cum vero eo tempo-
-re in Angliam rediisset, quo multorum in se animos concitaverant 
-Episcopi, libertatis Anglicae propugnatorum se professus, sponte 
+
+re in Angliam rediisset, quo multorum in se animos concitaverant
+
+Episcopi, libertatis Anglicae propugnatorum se professus, sponte
+
 se litibus illis immiscebat, & primos de Reformatione libros An-
+
 glice edebat A. 1641. **[LoM: 30]** Postea cum Ministri nonnulli adversus di-
-gnitatem Episcopalem librum vulgassent sub titulo Smectymnuus, 
+
+gnitatem Episcopalem librum vulgassent sub titulo Smectymnuus,
+
 quo vocabulo initiales auctorum literae continebantur, eique respon-
+
 sum opposuisset Usserius, Episcopus Armachanus, dignum eum pu-
-tabat Miltonus, quem confutaret tractatu singulari de Prasulatu 
-Episcoporum, Anglico itidem idiomate scripto. **[LoM: 34]** Quin & alium non 
+
+tabat Miltonus, quem confutaret tractatu singulari de Prasulatu
+
+Episcoporum, Anglico itidem idiomate scripto. **[LoM: 34]** Quin & alium non
+
 multo post contra Usserium edidit librum, ejusdem ferme argu-
+
 menti, neque minus ad librum Josephi Hall, quo is Smectymnu-
+
 um refutaverate, Animadversiones Anglicas scripsit, **[LoM: 37-48]** & cum rursus il-
-le scurriles eas vocasset, & criminatus praeterea fuisset Miltonum, 
+
+le scurriles eas vocasset, & criminatus praeterea fuisset Miltonum,
+
 edita Apologia non modo odium in Episcopos, Diaconos & Ca-
-pellanos non dissimulavit, verum & objecta crimina diluit, atque 
+
+pellanos non dissimulavit, verum & objecta crimina diluit, atque
+
 amorem, cujus in poematibus suis passim testimonia exstent, hone-
-stum, non lascivum fuisse probavit. **[LoM: 52-53]** Duxerat deinde uxorem A.1643 
+
+stum, non lascivum fuisse probavit. **[LoM: 52-53]** Duxerat deinde uxorem A.1643
+
 Mariam, Richardi Powel, Irenarchae filiam; ast illa, sive quod philo-
+
 sophica Miltoni vita foeminae in celebritate versari solitae non arri-
+
 deret, sive quod, cum omnis ejus affinitas Regiis officiis esset de-
-vincta, mariti ad democratiam propensionem, seu aliud quippiam 
-ferre non posset, postquam ad amicos, pace quidem Miltoni, mox 
-post nuptias discessisset, neque tempore, de quo convenerant, re- 
+
+vincta, mariti ad democratiam propensionem, seu aliud quippiam
+
+ferre non posset, postquam ad amicos, pace quidem Miltoni, mox
+
+post nuptias discessisset, neque tempore, de quo convenerant, re-
+
 ver-
-
-
-
-
-
-
-
-
 
 [p. 375] 
 
 vertebatur, & insuper habitis Miltoni litteris, eos quoque, quos ac-
+
 cersitum eam miserat, cum contumelia dimittebat. **[LoM: 53]** Quibus rebus ex-
+
 acerbatus tandem Miltonus, numquam illam decrevit in thorum 
+
 recipere, ideoque A. 1644 librum Anglicum, doctrinam & disci-
-plinam divortii complexum, Parlamento offerebat, enixe contendens, 
-ut inter tot curas, quas pro reformatione Angliae susciperent, sui 
+
+plinam divortii complexum, Parlamento offerebat, enixe contendens,
+
+ut inter tot curas, quas pro reformatione Angliae susciperent, sui
+
 quoque rationem aliquam haberent. **[LoM: 54-56]** Id vero potissimum proba-
+
 re eo libro nitebatur, ingenium difficile & contrarium praegnan-
+
 tiorem longe divortii causam essa adulterio vel impotentia natu-
-rali, modo utraque pars a separatione non abhorreat. **[LoM: 58]** Hoc cum 
+
+rali, modo utraque pars a separatione non abhorreat. **[LoM: 58]** Hoc cum
+
 illico Theologi detestarentur, jamque non nemo cremandum li-
-brum pro concione censuisset, alium mox Parlamento exhibebat 
-librum, Tetrachordon, quod scilicet quatuor potissimum Scripturae 
-loca Gen. I. 27. Sq. Deut. XXIV, i. &c. Matt. V. 31. & Matth. XXIX, 
+
+brum pro concione censuisset, alium mox Parlamento exhibebat
+
+librum, Tetrachordon, quod scilicet quatuor potissimum Scripturae
+
+loca Gen. I. 27. Sq. Deut. XXIV, i. &c. Matt. V. 31. & Matth. XXIX,
+
 3. &c. in eo explicarentur, appelatum. **[LoM: 59]** Praeterea ne novam do-
-ctrinam videretur professus, non solum Martini Buceri sententiam 
+   
+ctrinam videretur professus, non solum Martini Buceri sententiam
+
 de divortio cum sua consentire publico scripto docebat, sed pro-
+
 babat simul, sibi Paulum Fagium, Petrum Martyrem, Erasmum, 
-Grotium aliosque non minimae famae viros suffragari. **[LoM: 60]** Denique his 
+
+Grotium aliosque non minimae famae viros suffragari. **[LoM: 60]** Denique his
+
 scriptis Colasterion quoque addidit, quo eandem sententiam con-
-tra adversarium parum moderatum acerrime defendit. **[LoM: 62]** Per idem 
-tamen tempus de educatione quoque libellum Anglicum scripsit, 
-quippe ea sola libertati & gubernationi Reipublicae provideri optime 
+
+tra adversarium parum moderatum acerrime defendit. **[LoM: 62]** Per idem
+
+tamen tempus de educatione quoque libellum Anglicum scripsit,
+
+quippe ea sola libertati & gubernationi Reipublicae provideri optime
+
 posse censens. Prodierunt non multo post Areopagitica, seu O-
-ratio ad Parlamentum pro licentia imprimendi libros sine censura, 
-qua minime eam licentiam cum ordini in Republica pugnare probat, 
+
+ratio ad Parlamentum pro licentia imprimendi libros sine censura,
+
+qua minime eam licentiam cum ordini in Republica pugnare probat,
+
 exemplis potissimum Graecorum atque Romanorum, quibus prae-
-ter atheos & famosos libellos nulli sub censuram venerint. **[LoM: 70]** Cum 
+
+ter atheos & famosos libellos nulli sub censuram venerint. **[LoM: 70]** Cum
+
 deinde Miltonus de alia uxore ducenda cogitaret, ecce subito ad 
+
 genua ejus provolvitur profuga illa, cui veniam cum lacrymis ro-
-ganti dedit, filiamque ex ea nondum elapso anno suscepit, **[LoM: 71]** quin & 
-parentes ejus, sororesque aliquas & fratres, rebus Regis inclinatis, 
-domi aluit, doned paulo melior fortuna affulgeret. **[LoM: 71]** Paulo post 
-Cromwellio & Fairfaxio Londinum cum exercitu peragrantibus, 
+
+ganti dedit, filiamque ex ea nondum elapso anno suscepit, **[LoM: 71]** quin &
+
+parentes ejus, sororesque aliquas & fratres, rebus Regis inclinatis,
+
+domi aluit, doned paulo melior fortuna affulgeret. **[LoM: 71]** Paulo post
+
+Cromwellio & Fairfaxio Londinum cum exercitu peragrantibus,
+
 ut Brownii & Massii seditionem sedarent, augustas aedes suas com-
+
 mutabat Miltonus cum remotioribus, ut inter tot turbas externas 
+
 quietus
-
-
-
-
-
-
-
-
 
 [p.  376] 
 
