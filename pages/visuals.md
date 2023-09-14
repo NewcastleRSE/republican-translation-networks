@@ -30,12 +30,12 @@ title: Visuals
 
 [p. 372] 
 
-Cum auctorem hujus libri esse Johannem Tolant, Hibernum, 
-cognovissemus, quem Socianis non minus, quam Monarcho-
-machis addictum vulgo putant, & cujus dissertationem, Christia-
-nity not mysterious, i.e. Christianismus mysterii expers, Parlamenti 
-Hibernici jussu crematam fuisse minime nos latet, fatemur equi-
-dem aliquamdiu deliberatum nobis fuisse, utrum Vitae huic fides 
+<P> <HR ALIGN=LEFT>Cum auctorem hujus libri esse Johannem Tolant, Hibernum,</P> 
+<P> <HR ALIGN=LEFT>cognovissemus, quem Socianis non minus, quam Monarcho-</P>
+<P> <HR ALIGN=LEFT>machis addictum vulgo putant, & cujus dissertationem, *Christia*-</P>
+<P> <HR ALIGN=LEFT>*nity not mysterious*, i.e. *Christianismus mysterii expers*, Parlamenti</P> 
+<P> <HR ALIGN=LEFT>Hibernici jussu crematam fuisse minime nos latet, fatemur equi-</P>
+<P> <HR ALIGN=LEFT>dem aliquamdiu deliberatum nobis fuisse, utrum Vitae huic fides 
 in omnibus habenda sit, ejusque recensio inserenda Actis nostris. 
 Denique multa nos permoverunt, ut non omnino nullam ejus men-
 tionem faciendam esse decerneremus. Nam, ut statutum nobis 
