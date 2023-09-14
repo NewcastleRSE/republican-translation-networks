@@ -34,9 +34,9 @@ Cum auctorem hujus libri esse Johannem Tolant, Hibernum,
 
 cognovissemus, quem Socianis non minus, quam Monarcho-
 
-machis addictum vulgo putant, & cujus dissertationem, *Christia-
+machis addictum vulgo putant, & cujus dissertationem, *Christia-*
 
-nity not mysterious*, i.e. *Christianismus mysterii expers*, Parlamenti 
+*nity not mysterious*, i.e. *Christianismus mysterii expers*, Parlamenti 
 
 Hibernici jussu crematam fuisse minime nos latet, fatemur equi-
 
