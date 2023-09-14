@@ -26,7 +26,7 @@ title: Visuals
 <P ALIGN=CENTER>Londini apud Johannem Darby, 1699. in 8. Plag. ii.</P>
 										Cum
 
-
+![Start page of Mencke's review](../assets/AE1700_Toland_Milton_372.jpg)
 
 [p. 372] 
 
