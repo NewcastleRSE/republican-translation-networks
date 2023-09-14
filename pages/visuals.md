@@ -18,7 +18,7 @@ title: Visuals
 
 [p. 371] 
 
-<P ALIGN=CENTER>THE LIFE OF JOHN MILTON &c.</P>
+<P ALIGN=CENTER>*THE LIFE OF JOHN MILTON &c.*</P>
 <P ALIGN=CENTER>id est,</P>
 <P ALIGN=CENTER>VITA JOHANNIS MILTONI, CONTINENS PRAE-</P>
 <P ALIGN=CENTER>ter operum ejus historiam, characteres extraordinarios hominum,</P>
@@ -30,7 +30,7 @@ title: Visuals
 
 [p. 372] 
 
-Cum auctorem hujus libri esse Johannem Tolant, Hibernum, 
+Cum auctorem hujus libri esse *Johannem Tolant*, Hibernum, 
 
 cognovissemus, quem Socianis non minus, quam Monarcho-
 
@@ -42,36 +42,66 @@ Hibernici jussu crematam fuisse minime nos latet, fatemur equi-
 
 dem aliquamdiu deliberatum nobis fuisse, utrum Vitae huic fides
 
-in omnibus habenda sit, ejusque recensio inserenda Actis nostris. 
+in omnibus habenda sit, ejusque recensio inserenda Actis nostris.
+
 Denique multa nos permoverunt, ut non omnino nullam ejus men-
+
 tionem faciendam esse decerneremus. Nam, ut statutum nobis 
+
 semper fuit, libros eorumque argumenta historice recensemus, nul-
+
 la habita Auctorum, & eorum, quae passim ab illorum affectibus 
+
 profluere potuerunt, minus saepe ad rem facientium ratione. No-
+
 ster vero uti neque omnia fingendi causas habuit, neque vitia ipsa 
+
 Miltoni celavit, & praeterea subsidiis ad vitam hanc concinnan-
+
 dam instructus fuit satis luculentis: ita nulli dubitamus, quin gra-
+
 ta futura sit Lectori qualiscunque vitae Miltonianae & imprimis li-
+
 brorum a Miltono editorum recensio. Cum vero seorsim prode-
-at hic Vita, non postumus non praemonere Lectorem, cuncta Miltoni 
-opera eodem A. 1699 Londini prodiisse, ejusdem Auctoris cura, in 
-folio, ut loqui amant, & Anglica quidem duobus tomis, Latina 
-tertio comprehensa, quibus Cl. Editor eandem Vitam praemisit. 
+
+at hic Vita, non postumus non praemonere Lectorem, cuncta Miltoni
+
+opera eodem A. 1699 Londini prodiisse, ejusdem Auctoris cura, in
+
+folio, ut loqui amant, & Anglica quidem duobus tomis, Latina
+
+tertio comprehensa, quibus Cl. Editor eandem Vitam praemisit.
+
 At quoniam opera illa ad nos advecta nondum sunt, tanto ma-
+
 gis e re futurum arbitramur, ut eorum hoc loco catalogum con-
+
 signemus
-**[LoM: 9-10]** Johannes Mitonus, stirpe nobili oriundus, patre Johanne, 
+
+     **[LoM: 9-10]** Johannes Mitonus, stirpe nobili oriundus, patre Johanne, 
+     
 musico excellente, sed professione scriba (quippe quem parentes i-
+
 deo, quod Protestantium religionem amplexus fuerat, haereditate 
+
 privaverant) matre Sara Castonia, Londini A. 1606 natus, sororem 
+
 habuit Annam, quae nupsit Eduardo Philippo, fratrem vero Chri-
+
 stophorum ad discenda jura educatum, sed nostro dissimillimum & 
+
 ad res gerendas minime aptum. **[LoM: 11]** A puero fuit discendi cupidissi-
+
 mus, adeo ut post duodecimum annum ante mediam noctem raro 
+
 cubitum iverit; unde minus mirum videri possit, eum oculorum 
+
 deinde, quo magis adolevit, aciem amisisse, atque capitis quo-
-que doloribus vexatum frequenter fuisse. Missus deinde anno 
+
+que doloribus vexatum frequenter fuisse. Missus deinde anno
+
 aetatis decimo quinto Cantabrigiam fuit, quo anno prima poetici 
+
                                                             genii
 
 
