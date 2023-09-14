@@ -103,6 +103,8 @@ que doloribus vexatum frequenter fuisse. Missus deinde anno
 aetatis decimo quinto Cantabrigiam fuit, quo anno prima poetici 
 
                                                             genii
+
+![Page 373 of Review](../assets/AE1700_Toland_Milton_373.png.png)	   
 							    
 [p. 373] 
 
@@ -181,7 +183,9 @@ tumque litterarum scientissimo, id quod testari Auctor ait episto-
 las duas Graecas, quae penes se sint; ejus vero immaturum fatum 
 
 								Mil-
-	
+
+![Page 374 of Review](../assets/AE1700_Toland_Milton_374.png.png)
+ 
 [p. 374] 
 
 Miltonus lamentatur ecloga Damon, quae Virgilii Daphnidi Aucto-
@@ -257,6 +261,8 @@ ferre non posset, postquam ad amicos, pace quidem Miltoni, mox
 post nuptias discessisset, neque tempore, de quo convenerant, re-
 
 ver-
+
+![Page 375 of Review](../assets/AE1700_Toland_Milton_375.png.png)
 
 [p. 375] 
 
