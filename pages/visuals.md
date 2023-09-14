@@ -340,6 +340,8 @@ mutabat Miltonus cum remotioribus, ut inter tot turbas externas
 
 quietus
 
+![Page 376 of Review](../assets/AE1700_Toland_Milton_376.png.png)
+
 [p.  376] 
 
 quietus cum Musis habitaret. **[LoM: 73-74]** Verum cum Carolo I capite plexo
@@ -413,6 +415,8 @@ nio Walkero aliisque studiose ait expediri, quorum argumenta eo
 lubentis omittimus, quo minus ad vitam Miltoni vere spectant,
 
 tum quod ab aliis sub examen revocata sunt. **[LoM: 95]** Properandum no-
+
+![Page 377 of Review](../assets/AE1700_Toland_Milton_377.png.png)
 
 [p. 377] 
 
@@ -490,6 +494,8 @@ lexandro Moro conscionatore Gallico fuerat prelo mandatus, qui
 
 &
 
+![Page 378 of Review](../assets/AE1700_Toland_Milton_378.png.png)
+
 [p. 378] 
 
 & nomine bibliopolae dedicaverat librum Carolo II, is auctor ple-
@@ -565,6 +571,8 @@ sum Paradisum elucubravit tandem, & A. 1666 primum in lucem
 emisit. Quod poema quoniam ex merito laudavimus, com novae
 
 ejus
+
+![Page 379 of Review](../assets/AE1700_Toland_Milton_379.png.png)
 
 [p. 379] 
 
