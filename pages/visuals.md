@@ -342,7 +342,7 @@ quietus
 
 ![Page 376 of Review](../assets/AE1700_Toland_Milton_376.png.png)
 
-[p.  376] 
+[p. 376] 
 
 quietus cum Musis habitaret. **[LoM: 73-74]** Verum cum Carolo I capite plexo
 
