@@ -14,7 +14,7 @@ title: Visuals
    
 [Johann Burckhardt Mencke,] ‘The Life of John Milton &c. id est, Vita Johannis Miltoni, Continens Praeter operum ejus historiam, characters extraordinarios hominum, librorum item, sectarum, partium & opinionum. Londini apud Johannem Darby, 1699. In 8. Plag. ii.’ Acta Eruditorum, August 1700, pp. 371-9.
 
-![Start page of Mencke's review](../assets/AE1700_Toland_Milton_371.jpg.jpg)
+![Start page of Mencke's review](../assets/AE1700_Toland_Milton_371.png.png)
 
 [p. 371] 
 
