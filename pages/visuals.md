@@ -30,7 +30,7 @@ title: Visuals
 
 [p. 372] 
 
-Cum auctorem hujus libri esse *Johannem Tolant*, Hibernum, 
+<font color="red">Cum auctorem hujus libri esse *Johannem Tolant*, Hibernum, 
 
 cognovissemus, quem Socianis non minus, quam Monarcho-
 
@@ -76,7 +76,7 @@ At quoniam opera illa ad nos advecta nondum sunt, tanto ma-
 
 gis e re futurum arbitramur, ut eorum hoc loco catalogum con-
 
-signemus.
+signemus.</font>
 
 **[LoM: 9-10]** Johannes Mitonus, stirpe nobili oriundus, patre Johanne, 
      
@@ -370,13 +370,13 @@ tum Anglia Historia unice incumbebat) hanc gratiam retuli, ut
 
 munus Secretarii Concilii Status in negotiis externis, quae Latino
 
-idiomate tractanda erant, ipsi deferretur. **[re LoM: 81]** Atque illae quidem epistolae
+idiomate tractanda erant, ipsi deferretur. <font color="red">**[re LoM: 81]** Atque illae quidem epistolae
 
 quas Senatus Populique Anglicani, nec non Cromwelli & Richardi
 
 nomine ad exteros scripsit, post mortem Miltoni prodierunt, Lipsiae
 
-quoque nostrae recusae, elegantes profecto & acutae. **[LoM: 81]** Interea cum
+quoque nostrae recusae, elegantes profecto & acutae.</font> **[LoM: 81]** Interea cum
 
 post mortem Regis Caroli I liber prodiisset sub ejust nomine, EI-
 
@@ -422,7 +422,7 @@ tum quod ab aliis sub examen revocata sunt. **[LoM: 95]** Properandum no-
 
 bis potius est ad ea scripta, quae contra Salmasium edidit Miltonus,
 
-pro mala quidem causa, sed elegantissima. Nempe Salmasius A. 1649
+<font color="red">pro mala quidem causa, sed elegantissima.</font> Nempe Salmasius A. 1649
 
 a Carolo II exule multo aere conductus, Defensionem Regiam edide-
 
@@ -550,7 +550,7 @@ ita erudiverat, ut Hebraica, Graeca, Latina, Hispanica, Italica, Gal-
 
 lica, etsi minime intelligerent, legere sine haesitatione possent, quod
 
-ipsi jam oculorum usu destituto insigniter profuit. Etsi vero com-
+ipsi jam oculorum usu destituto insigniter profuit. <font color="red">Etsi vero com-
 
 mercio litterario, quod illi erat cum Millio, Oldenburgio, Heim-
 
@@ -558,7 +558,7 @@ bachio, de Brass, Leone ab Aizema, Emerico Bigotio aliisque, quo-
 
 rum nomina passim inscripta litteris ejus familiaribus videas in 
 
-nova Operum Miltonianorum editione, **[LoM: 126]** ab A.1652 usque ad 1660
+nova Operum Miltonianorum editione,</font> **[LoM: 126]** ab A.1652 usque ad 1660
 
 praecipue occuparetur, nec qualibet anni tempestate ad poema scri-
 
@@ -568,7 +568,7 @@ quam quod brumale & aestivum solstitium interjacet,) tamen Amis-
 
 sum Paradisum elucubravit tandem, & A. 1666 primum in lucem
 
-emisit. Quod poema quoniam ex merito laudavimus, com novae
+emisit. <font color="red">Quod poema quoniam ex merito laudavimus, com novae
 
 ejus
 
@@ -582,7 +582,7 @@ cium Drydeni, summi poetae, in cujus laudes Noster quoque ex-
 
 currit, & qui ex toto opere traegoediam eodem titulo concinnavit, 
 
-recensere ex Auctore supersedemus. **[LoM: 138]** Post A. 1670 edidit Para-
+recensere ex Auctore supersedemus.</font> **[LoM: 138]** Post A. 1670 edidit Para-
 
 disum Reparatum, Amisso multo, ut omnes censent, inferiorem; unde
 
@@ -594,9 +594,9 @@ anno prodiit quidem Historia Magna Britannie, Anglice, ut plera-
 
 que ejus opera, conscripta, sed quam ultra Normannorum tem-
 
-pora producere non potuerat. Ut vero alios ejus libros minoris 
+pora producere non potuerat. <font color="red">Ut vero alios ejus libros minoris 
 
-momenti taceamus, duorum amplius mentionem facimus; **[LoM: 142]** alter
+momenti taceamus, duorum amplius mentionem facimus;</font> **[LoM: 142]** alter
 
 est Epistolarum familiarum liber unus, cui accesserunt Prolusiones 
 
@@ -638,7 +638,7 @@ siae nomen subscripsit, neque templa amplius frequentavit, incer-
 
 tum quam ob causam.
 
-Quod restat, ignorare Lectorem benevolum nolumus, libri 
+<font color="red">Quod restat, ignorare Lectorem benevolum nolumus, libri 
  
 hujus refutationem quandam suscepisse auctorem anonymum o-
 
@@ -648,11 +648,11 @@ rum responsum a Biographo fuisse libello alio, quem inscripsit,
 
 Amyntor, quorum, si tanti videbuntur, recensum alibi forsan sumus 
 
-exhibituri.
+exhibituri.</font>
 								
 END OF REVIEW
 
-14/09/2023
+12/10/2023
 
 gm
   
