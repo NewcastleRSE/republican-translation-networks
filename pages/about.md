@@ -8,6 +8,8 @@ title: About Gaby Mahlberg
 
 I am a historian and journalist with a special interest in the intellectual and cultural history of the English Civil War and its legacy in the British Isles and Europe. 
 
+<font color="red">This text is red!</font>
+
 I completed my BA, MA and PhD at the University of East Anglia in Norwich working with J.C. Davis and Mark Knights (now Warwick) for my thesis on the republican thinker Henry Neville (1619-1694).
 
 My first monograph, based on my PhD work, was published as *Henry Neville and English Republican Culture in the Seventeenth Century: Dreaming of Another Game* (Manchester: MUP, 2009). My most recent book looks at *The English Republican Exiles in Europe during the Restoration* (Cambridge: CUP, 2020). I am currently working on a new project on 'English Republican Ideas and Translation Networks in Early Modern Germany, c1640-1848'.
