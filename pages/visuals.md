@@ -30,8 +30,6 @@ title: Visuals
 
 [p. 372] 
 
-<p style="color:blue !important">Make this text blue.</p>
-
 Cum auctorem hujus libri esse *Johannem Tolant*, Hibernum, 
 
 cognovissemus, quem Socianis non minus, quam Monarcho-
