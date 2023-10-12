@@ -30,7 +30,7 @@ title: Visuals
 
 [p. 372] 
 
-<p style="color:blue">Cum auctorem hujus libri esse *Johannem Tolant*, Hibernum, 
+<p style="color:blue">Cum auctorem hujus libri esse *Johannem Tolant*, Hibernum,</p> 
 
 cognovissemus, quem Socianis non minus, quam Monarcho-
 
@@ -76,7 +76,7 @@ At quoniam opera illa ad nos advecta nondum sunt, tanto ma-
 
 gis e re futurum arbitramur, ut eorum hoc loco catalogum con-
 
-signemus.</p>
+signemus.
 
 **[LoM: 9-10]** Johannes Mitonus, stirpe nobili oriundus, patre Johanne, 
      
