@@ -6,7 +6,7 @@ title: About Gaby Mahlberg
 <!-- Custom style sheet -->
 <link rel="stylesheet" type="text/css" href="../style.css">
 
-<p style="color:blue !important">Make this text blue.</p>
+<p style="color:blue">Make this text blue.</p>
 
 I am a historian and journalist with a special interest in the intellectual and cultural history of the English Civil War and its legacy in the British Isles and Europe. 
 
