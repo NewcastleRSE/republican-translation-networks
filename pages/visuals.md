@@ -30,7 +30,7 @@ title: Visuals
 
 [p. 372] 
 
-<p style="color:blue"Cum auctorem hujus libri esse *Johannem Tolant*, Hibernum,</p> 
+Cum auctorem hujus libri esse *Johannem Tolant*, Hibernum, 
 
 cognovissemus, quem Socianis non minus, quam Monarcho-
 
