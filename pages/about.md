@@ -8,7 +8,7 @@ title: About Gaby Mahlberg
 
 I am a historian and journalist with a special interest in the intellectual and cultural history of the English Civil War and its legacy in the British Isles and Europe. 
 
-<font color="red">This text is red!</font>
+<font color="red">This text is red!
 
 I completed my BA, MA and PhD at the University of East Anglia in Norwich working with J.C. Davis and Mark Knights (now Warwick) for my thesis on the republican thinker Henry Neville (1619-1694).
 
@@ -18,7 +18,7 @@ Before joining Newcastle University as a Marie Sklodowska-Curie Fellow in Decemb
 
 I have also worked for various German media, including dpa International, the Catholic News Agency KNA, and the Network for Reporting on Eastern Europe n-ost, where I was responsible for the eurotopics press review.
 
-Between April 2015 and November 2020, I worked as an editor for the German Press Agency dpa in Berlin.
+Between April 2015 and November 2020, I worked as an editor for the German Press Agency dpa in Berlin.</font>
 
 Twitter: @TheHistoryWoman
 
