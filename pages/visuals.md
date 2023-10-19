@@ -311,9 +311,9 @@ emisit. <font color="red">Quod poema quoniam ex merito laudavimus, com novae
 
 ejus editionis mentionem faceremus in Actis A. 1696, p. 227, judi-  
 cium Drydeni, summi poetae, in cujus laudes Noster quoque ex-  
-currit, & qui ex toto opere traegoediam eodem titulo concinnavit, 
-recensere ex Auctore supersedemus.</font> **[LoM: 138]** Post A. 1670 edidit Para-  
-disum Reparatum, Amisso multo, ut omnes censent, inferiorem; unde  
+currit, & qui ex toto opere traegoediam eodem titulo concinnavit,   
+recensere ex Auctore supersedemus.</font> **[LoM: 138]** Post A. 1670 edidit Para-    
+disum Reparatum, Amisso multo, ut omnes censent, inferiorem; unde    
 dictum percrebuit, Miltonum frustra quaeri in Paradiso Reparato.  
 Procuderat una quoque tragoediam, Samson Agonistes, eodemque   
 anno prodiit quidem Historia Magna Britannie, Anglice, ut plera-  
