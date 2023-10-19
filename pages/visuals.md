@@ -7,12 +7,12 @@ title: Visuals
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
-  <summary class="postTitle">How Early Modern Reviewers Worked<br>
-    <span class="postSubtitle">J.B. Mencke's review of Toland's Life of Milton - A Case Study</span>
+  <summary class="postTitle">How Early Modern Reviewers Worked<br>  
+    <span class="postSubtitle">J.B. Mencke's review of Toland's Life of Milton - A Case Study</span>  
   </summary>
 
    
-[Johann Burckhardt Mencke,] ‘The Life of John Milton &c. id est, Vita Johannis Miltoni, Continens Praeter operum ejus historiam, characters extraordinarios hominum, librorum item, sectarum, partium & opinionum. Londini apud Johannem Darby, 1699. In 8. Plag. ii.’ Acta Eruditorum, August 1700, pp. 371-9.
+[Johann Burckhardt Mencke,] ‘The Life of John Milton &c. id est, Vita Johannis Miltoni, Continens Praeter operum ejus historiam, characters extraordinarios hominum, librorum item, sectarum, partium & opinionum. Londini apud Johannem Darby, 1699. In 8. Plag. ii.’ Acta Eruditorum, August 1700, pp. 371-9.  
 
 [p. 371] 
 
@@ -67,157 +67,88 @@ aetatis decimo quinto Cantabrigiam fuit, quo anno prima poetici
 							    
 [p. 373] 
 
-genii documenta dedit, a Psalmis potissimum exorsus, quorum ali-
+genii documenta dedit, a Psalmis potissimum exorsus, quorum ali-  
+quos carmine transposuit. **[LoM: 12-13]** Postquam itaque commoratus illic fuis-  
+set per septennium, Magistri artium honores suscepit, atque annos   
+deinde aliquot ruri degens, Graecos Latinosque scriptores diurna   
+nocturnaque manu versavit, evagatus quandoque etiam Londinum,   
+cum librorum emendorum gratia, tum potissimum ut in Mathesi   
+vel Muscia proficeret, quibus ille studiis mire delectabatur. **[LoM: 15]** Ad   
+peregrinationem inde animum applicans, in Galliam primo profe-  
+ctus est, atque illic Anglici Legati commendatione innotuit cele-  
+berrimo Grotio, Reginae Sueciae isto tempore Legato. **[LoM: 16]** Isthinc   
+discessit in Italiam, in qua prima illum cepit linguae elegantia &   
+civium comitate Florentia; hic enim in Caroli Dati, Gaddi,   
+Chimentelli aliorumque doctorum amicitiam pervenit, & Societa-  
+tibus eruditis, quas Academias vocant, frequens interfuit. **[LoM: 19-20]** Sed   
+Romae postea non minus suaviter cum excepit Lucas Holstenius,   
+quo conciliatore ipsi Cardinali Barberino coepit innotescere; ami-  
+cissimum vero habuit par poetarum egregium, Salsillum & Sel-  
+vaggium, quorum ita de Miltono ille: 
 
-quos carmine transposuit. **[LoM: 12-13]** Postquam itaque commoratus illic fuis-
+*Cede Meles, cedat depressa Mincius urna,*  
+*Sebetus Tassum definat usque loqui:*  
+*At Thamesis victor cunctis ferat altior undas,*  
+*Nam per te, Milto, par tribus unus erit;*  
+Hic paulo brevius, nec minus honorifice:  
+*Graecia Maeonidem, jactet sibi Roma Maronem:*  
+*Anglia Miltonum jactat utrique parem.*  
 
-set per septennium, Magistri artium honores suscepit, atque annos 
-
-deinde aliquot ruri degens, Graecos Latinosque scriptores diurna 
-
-nocturnaque manu versavit, evagatus quandoque etiam Londinum, 
-
-cum librorum emendorum gratia, tum potissimum ut in Mathesi 
-
-vel Muscia proficeret, quibus ille studiis mire delectabatur. **[LoM: 15]** Ad 
-
-peregrinationem inde animum applicans, in Galliam primo profe-
-
-ctus est, atque illic Anglici Legati commendatione innotuit cele-
-
-berrimo Grotio, Reginae Sueciae isto tempore Legato. **[LoM: 16]** Isthinc 
-
-discessit in Italiam, in qua prima illum cepit linguae elegantia & 
-
-civium comitate Florentia; hic enim in Caroli Dati, Gaddi, 
-
-Chimentelli aliorumque doctorum amicitiam pervenit, & Societa-
-
-tibus eruditis, quas Academias vocant, frequens interfuit. **[LoM: 19-20]** Sed 
-
-Romae postea non minus suaviter cum excepit Lucas Holstenius, 
-
-quo conciliatore ipsi Cardinali Barberino coepit innotescere; ami-
-
-cissimum vero habuit par poetarum egregium, Salsillum & Sel-
-
-vaggium, quorum ita de Miltono ille:
-
-*Cede Meles, cedat depressa Mincius urna,*
-
-*Sebetus Tassum definat usque loqui:*
-
-*At Thamesis victor cunctis ferat altior undas,*
-
-*Nam per te, Milto, par tribus unus erit;*
-
-Hic paulo brevius, nec minus honorifice:
-
-*Graecia Maeonidem, jactet sibi Roma Maronem:*
-
-*Anglia Miltonum jactat utrique parem.*
-
-Neapoli in summi Maecenatis Johannis Baptistae Mansi amicitiam
-
-receptus, hoc ab illo distichon meruit:
+Neapoli in summi Maecenatis Johannis Baptistae Mansi amicitiam  
+receptus, hoc ab illo distichon meruit:  
 
 **[LoM: 21]**
 
-*Ut mens, forma, decor, facies, mos; si pietas sic;*
-
-*Non Anglus, verum hercle Angelus ipse fores;*
-
-cui ui (?) se non ingratum praestaret, tersissimam elegiam composuit,
-
-nomine Mansus. **[LoM: 22-23]** Inde in reditu Genevam divertens, Illustrissimum 
-
-Ezechielem Spanhemium convenit, ibidemque intimam familiari-
-
-tatem contraxit cum Carolo Deodato, Professore Theologiae, ori-
-
-gine Luccensi, sed nativitate Anglo, Physices bene perito, Graeca-
-
-tumque litterarum scientissimo, id quod testari Auctor ait episto-
-
-las duas Graecas, quae penes se sint; ejus vero immaturum fatum 
-
-								Mil-
+*Ut mens, forma, decor, facies, mos; si pietas sic;*  
+*Non Anglus, verum hercle Angelus ipse fores;*  
+cui ui (?) se non ingratum praestaret, tersissimam elegiam composuit,  
+nomine Mansus. **[LoM: 22-23]** Inde in reditu Genevam divertens, Illustrissimum   
+Ezechielem Spanhemium convenit, ibidemque intimam familiari-  
+tatem contraxit cum Carolo Deodato, Professore Theologiae, ori-  
+gine Luccensi, sed nativitate Anglo, Physices bene perito, Graeca-  
+tumque litterarum scientissimo, id quod testari Auctor ait episto-  
+las duas Graecas, quae penes se sint; ejus vero immaturum fatum   
+								Mil-  
  
 [p. 374] 
 
-Miltonus lamentatur ecloga Damon, quae Virgilii Daphnidi Aucto-
-
-ris judicio minime cedit. **[LoM: 25]** Tandem postquam rediisset Londinum,
-
-ne nullam nepotum ex sorore curam haberet, illos in Graecis, La-
-
-tinis & Hebraicis, nec non Matheseos partibus nonnullis, Cosmo-
-
-graphia item, Historia, linguisque modernis Gallica & Italica eru-
-
-diebat, aliis quoque amicorum filiis in doctrinae societatem adsci-
-
-tis. **[LoM: 26]** His praeter alios auctores, quos in scholis explicare com-
-
-sueverunt Angli, Catonem, Varronem, Columellam, Palladium,
-
-Cornelium Celsum, Plinii Historiam Naturaelm, Vitruvium, Fron-
-
-tinum & Philosophos Poetas Lucretium atque Manilium, nec non
-
-Graecos, Aratum, Dionysium Periegetem, Oppianum, Q. Cala-
-
-brum, Apollonium Rhodium, Plutarchum, Xenophontem, Aeliani
-
-Tactica & Poliaeni Stratagemata exposuit. **[LoM: 27]** Cum vero eo tempo-
-
-re in Angliam rediisset, quo multorum in se animos concitaverant
-
-Episcopi, libertatis Anglicae propugnatorum se professus, sponte
-
-se litibus illis immiscebat, & primos de Reformatione libros An-
-
-glice edebat A. 1641. **[LoM: 30]** Postea cum Ministri nonnulli adversus di-
-
-gnitatem Episcopalem librum vulgassent sub titulo Smectymnuus,
-
-quo vocabulo initiales auctorum literae continebantur, eique respon-
-
-sum opposuisset Usserius, Episcopus Armachanus, dignum eum pu-
-
-tabat Miltonus, quem confutaret tractatu singulari de Prasulatu
-
-Episcoporum, Anglico itidem idiomate scripto. **[LoM: 34]** Quin & alium non
-
-multo post contra Usserium edidit librum, ejusdem ferme argu-
-
-menti, neque minus ad librum Josephi Hall, quo is Smectymnu-
-
-um refutaverate, Animadversiones Anglicas scripsit, **[LoM: 37-48]** & cum rursus il-
-
-le scurriles eas vocasset, & criminatus praeterea fuisset Miltonum,
-
-edita Apologia non modo odium in Episcopos, Diaconos & Ca-
-
-pellanos non dissimulavit, verum & objecta crimina diluit, atque
-
-amorem, cujus in poematibus suis passim testimonia exstent, hone-
-
-stum, non lascivum fuisse probavit. **[LoM: 52-53]** Duxerat deinde uxorem A.1643
-
-Mariam, Richardi Powel, Irenarchae filiam; ast illa, sive quod philo-
-
-sophica Miltoni vita foeminae in celebritate versari solitae non arri-
-
-deret, sive quod, cum omnis ejus affinitas Regiis officiis esset de-
-
-vincta, mariti ad democratiam propensionem, seu aliud quippiam
-
-ferre non posset, postquam ad amicos, pace quidem Miltoni, mox
-
-post nuptias discessisset, neque tempore, de quo convenerant, re-
-
-ver-
+Miltonus lamentatur ecloga Damon, quae Virgilii Daphnidi Aucto-  
+ris judicio minime cedit. **[LoM: 25]** Tandem postquam rediisset Londinum,  
+ne nullam nepotum ex sorore curam haberet, illos in Graecis, La-  
+tinis & Hebraicis, nec non Matheseos partibus nonnullis, Cosmo-  
+graphia item, Historia, linguisque modernis Gallica & Italica eru-  
+diebat, aliis quoque amicorum filiis in doctrinae societatem adsci-  
+tis. **[LoM: 26]** His praeter alios auctores, quos in scholis explicare com-  
+sueverunt Angli, Catonem, Varronem, Columellam, Palladium,    
+Cornelium Celsum, Plinii Historiam Naturaelm, Vitruvium, Fron-  
+tinum & Philosophos Poetas Lucretium atque Manilium, nec non  
+Graecos, Aratum, Dionysium Periegetem, Oppianum, Q. Cala-  
+brum, Apollonium Rhodium, Plutarchum, Xenophontem, Aeliani  
+Tactica & Poliaeni Stratagemata exposuit. **[LoM: 27]** Cum vero eo tempo-  
+re in Angliam rediisset, quo multorum in se animos concitaverant  
+Episcopi, libertatis Anglicae propugnatorum se professus, sponte  
+se litibus illis immiscebat, & primos de Reformatione libros An-  
+glice edebat A. 1641. **[LoM: 30]** Postea cum Ministri nonnulli adversus di-  
+gnitatem Episcopalem librum vulgassent sub titulo Smectymnuus,  
+quo vocabulo initiales auctorum literae continebantur, eique respon-  
+sum opposuisset Usserius, Episcopus Armachanus, dignum eum pu-  
+tabat Miltonus, quem confutaret tractatu singulari de Prasulatu  
+Episcoporum, Anglico itidem idiomate scripto. **[LoM: 34]** Quin & alium non  
+multo post contra Usserium edidit librum, ejusdem ferme argu-  
+menti, neque minus ad librum Josephi Hall, quo is Smectymnu-  
+um refutaverate, Animadversiones Anglicas scripsit, **[LoM: 37-48]** & cum rursus il-  
+le scurriles eas vocasset, & criminatus praeterea fuisset Miltonum,  
+edita Apologia non modo odium in Episcopos, Diaconos & Ca-  
+pellanos non dissimulavit, verum & objecta crimina diluit, atque  
+amorem, cujus in poematibus suis passim testimonia exstent, hone-  
+stum, non lascivum fuisse probavit. **[LoM: 52-53]** Duxerat deinde uxorem A.1643  
+Mariam, Richardi Powel, Irenarchae filiam; ast illa, sive quod philo-  
+sophica Miltoni vita foeminae in celebritate versari solitae non arri-  
+deret, sive quod, cum omnis ejus affinitas Regiis officiis esset de-  
+vincta, mariti ad democratiam propensionem, seu aliud quippiam  
+ferre non posset, postquam ad amicos, pace quidem Miltoni, mox  
+post nuptias discessisset, neque tempore, de quo convenerant, re-  
+ver-  
 
 [p. 375] 
 
