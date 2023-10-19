@@ -86,22 +86,19 @@ quo conciliatore ipsi Cardinali Barberino coepit innotescere; ami-
 cissimum vero habuit par poetarum egregium, Salsillum & Sel-  
 vaggium, quorum ita de Miltono ille: 
 
-*Cede Meles, cedat depressa Mincius urna,*  
-*Sebetus Tassum definat usque loqui:*  
-*At Thamesis victor cunctis ferat altior undas,*  
-*Nam per te, Milto, par tribus unus erit;*  
+  *Cede Meles, cedat depressa Mincius urna,*  
+     *Sebetus Tassum definat usque loqui:*  
+  *At Thamesis victor cunctis ferat altior undas,*  
+     *Nam per te, Milto, par tribus unus erit;*  
 Hic paulo brevius, nec minus honorifice:  
-*Graecia Maeonidem, jactet sibi Roma Maronem:*  
-*Anglia Miltonum jactat utrique parem.*  
-
+  *Graecia Maeonidem, jactet sibi Roma Maronem:*  
+       *Anglia Miltonum jactat utrique parem.*    
 Neapoli in summi Maecenatis Johannis Baptistae Mansi amicitiam  
 receptus, hoc ab illo distichon meruit:  
-
 **[LoM: 21]**
-
-*Ut mens, forma, decor, facies, mos; si pietas sic;*  
-*Non Anglus, verum hercle Angelus ipse fores;*  
-cui ui (?) se non ingratum praestaret, tersissimam elegiam composuit,  
+       *Ut mens, forma, decor, facies, mos; si pietas sic;*  
+          *Non Anglus, verum hercle Angelus ipse fores;*  
+cui ne (?) se non ingratum praestaret, tersissimam elegiam composuit,  
 nomine Mansus. **[LoM: 22-23]** Inde in reditu Genevam divertens, Illustrissimum   
 Ezechielem Spanhemium convenit, ibidemque intimam familiari-  
 tatem contraxit cum Carolo Deodato, Professore Theologiae, ori-  
@@ -152,79 +149,43 @@ ver-
 
 [p. 375] 
 
-vertebatur, & insuper habitis Miltoni litteris, eos quoque, quos ac-
-
-cersitum eam miserat, cum contumelia dimittebat. **[LoM: 53]** Quibus rebus ex-
-
-acerbatus tandem Miltonus, numquam illam decrevit in thorum 
-
-recipere, ideoque A. 1644 librum Anglicum, doctrinam & disci-
-
-plinam divortii complexum, Parlamento offerebat, enixe contendens,
-
-ut inter tot curas, quas pro reformatione Angliae susciperent, sui
-
-quoque rationem aliquam haberent. **[LoM: 54-56]** Id vero potissimum proba-
-
-re eo libro nitebatur, ingenium difficile & contrarium praegnan-
-
-tiorem longe divortii causam essa adulterio vel impotentia natu-
-
-rali, modo utraque pars a separatione non abhorreat. **[LoM: 58]** Hoc cum
-
-illico Theologi detestarentur, jamque non nemo cremandum li-
-
-brum pro concione censuisset, alium mox Parlamento exhibebat
-
-librum, Tetrachordon, quod scilicet quatuor potissimum Scripturae
-
-loca Gen. I. 27. Sq. Deut. XXIV, i. &c. Matt. V. 31. & Matth. XXIX,
-
-3. &c. in eo explicarentur, appelatum. **[LoM: 59]** Praeterea ne novam do-
-   
-ctrinam videretur professus, non solum Martini Buceri sententiam
-
-de divortio cum sua consentire publico scripto docebat, sed pro-
-
-babat simul, sibi Paulum Fagium, Petrum Martyrem, Erasmum, 
-
-Grotium aliosque non minimae famae viros suffragari. **[LoM: 60]** Denique his
-
-scriptis Colasterion quoque addidit, quo eandem sententiam con-
-
-tra adversarium parum moderatum acerrime defendit. **[LoM: 62]** Per idem
-
-tamen tempus de educatione quoque libellum Anglicum scripsit,
-
-quippe ea sola libertati & gubernationi Reipublicae provideri optime
-
-posse censens. Prodierunt non multo post Areopagitica, seu O-
-
-ratio ad Parlamentum pro licentia imprimendi libros sine censura,
-
-qua minime eam licentiam cum ordini in Republica pugnare probat,
-
-exemplis potissimum Graecorum atque Romanorum, quibus prae-
-
-ter atheos & famosos libellos nulli sub censuram venerint. **[LoM: 70]** Cum
-
-deinde Miltonus de alia uxore ducenda cogitaret, ecce subito ad 
-
-genua ejus provolvitur profuga illa, cui veniam cum lacrymis ro-
-
-ganti dedit, filiamque ex ea nondum elapso anno suscepit, **[LoM: 71]** quin &
-
-parentes ejus, sororesque aliquas & fratres, rebus Regis inclinatis,
-
-domi aluit, doned paulo melior fortuna affulgeret. **[LoM: 71]** Paulo post
-
-Cromwellio & Fairfaxio Londinum cum exercitu peragrantibus,
-
-ut Brownii & Massii seditionem sedarent, augustas aedes suas com-
-
-mutabat Miltonus cum remotioribus, ut inter tot turbas externas 
-
-quietus
+vertebatur, & insuper habitis Miltoni litteris, eos quoque, quos ac-  
+cersitum eam miserat, cum contumelia dimittebat. **[LoM: 53]** Quibus rebus ex-  
+acerbatus tandem Miltonus, numquam illam decrevit in thorum   
+recipere, ideoque A. 1644 librum Anglicum, doctrinam & disci-  
+plinam divortii complexum, Parlamento offerebat, enixe contendens,  
+ut inter tot curas, quas pro reformatione Angliae susciperent, sui  
+quoque rationem aliquam haberent. **[LoM: 54-56]** Id vero potissimum proba-  
+re eo libro nitebatur, ingenium difficile & contrarium praegnan-  
+tiorem longe divortii causam essa adulterio vel impotentia natu-  
+rali, modo utraque pars a separatione non abhorreat. **[LoM: 58]** Hoc cum  
+illico Theologi detestarentur, jamque non nemo cremandum li-  
+brum pro concione censuisset, alium mox Parlamento exhibebat  
+librum, Tetrachordon, quod scilicet quatuor potissimum Scripturae  
+loca Gen. I. 27. Sq. Deut. XXIV, i. &c. Matt. V. 31. & Matth. XXIX,  
+3. &c. in eo explicarentur, appelatum. **[LoM: 59]** Praeterea ne novam do-  
+ctrinam videretur professus, non solum Martini Buceri sententiam  
+de divortio cum sua consentire publico scripto docebat, sed pro-  
+babat simul, sibi Paulum Fagium, Petrum Martyrem, Erasmum,   
+Grotium aliosque non minimae famae viros suffragari. **[LoM: 60]** Denique his  
+scriptis Colasterion quoque addidit, quo eandem sententiam con-  
+tra adversarium parum moderatum acerrime defendit. **[LoM: 62]** Per idem  
+tamen tempus de educatione quoque libellum Anglicum scripsit,  
+quippe ea sola libertati & gubernationi Reipublicae provideri optime  
+posse censens. Prodierunt non multo post Areopagitica, seu O-  
+ratio ad Parlamentum pro licentia imprimendi libros sine censura,  
+qua minime eam licentiam cum ordini in Republica pugnare probat,  
+exemplis potissimum Graecorum atque Romanorum, quibus prae-  
+ter atheos & famosos libellos nulli sub censuram venerint. **[LoM: 70]** Cum  
+deinde Miltonus de alia uxore ducenda cogitaret, ecce subito ad   
+genua ejus provolvitur profuga illa, cui veniam cum lacrymis ro-  
+ganti dedit, filiamque ex ea nondum elapso anno suscepit, **[LoM: 71]** quin &  
+parentes ejus, sororesque aliquas & fratres, rebus Regis inclinatis,  
+domi aluit, doned paulo melior fortuna affulgeret. **[LoM: 71]** Paulo post  
+Cromwellio & Fairfaxio Londinum cum exercitu peragrantibus,  
+ut Brownii & Massii seditionem sedarent, augustas aedes suas com-  
+mutabat Miltonus cum remotioribus, ut inter tot turbas externas   
+quietus  
 
 [p. 376] 
 
