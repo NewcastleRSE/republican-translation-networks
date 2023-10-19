@@ -26,9 +26,9 @@ title: Visuals
 
 [p. 372] 
 
-<font color="red">Cum auctorem hujus libri esse *Johannem Tolant*, Hibernum,
-cognovissemus, quem Socianis non minus, quam Monarcho-
-machis addictum vulgo putant, & cujus dissertationem, *Christia-*
+<font color="red">Cum auctorem hujus libri esse *Johannem Tolant*, Hibernum,  
+cognovissemus, quem Socianis non minus, quam Monarcho-  
+machis addictum vulgo putant, & cujus dissertationem, *Christia-*  
 *nity not mysterious*, i.e. *Christianismus mysterii expers*, Parlamenti 
 Hibernici jussu crematam fuisse minime nos latet, fatemur equi-
 dem aliquamdiu deliberatum nobis fuisse, utrum Vitae huic fides
