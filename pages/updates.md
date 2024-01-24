@@ -19,7 +19,7 @@ The letters were intended early on to provide more general lessons in good gover
 
 The trajectory was by no means unusual. Many English texts found their way into Germany via the Netherlands during the eighteenth century, both because the Netherlands remained Europe’s major publishing hub, but also because Dutch and German were easily mutually understandable and it was often easier for a German native speaker to translate a work from the Dutch than from the English, or at least to draw on the Dutch text for help, even if the original English text was used.
 
-The translation was initiated by a Leiden-based Dutch bookseller who himself was an interesting transnational figure: Elie Luzac (1721-91) was the descendant of Huguenot refugees and had just been appointed as the university bookseller in the German city of Göttingen. He commissioned the Leipzig theology professor Johann Gottfried Gellius (1732-1781) for the task and published the four-volume edition in collaboration with the Leipzig publishing house of Breitkopf and Son because he did not have his own printing press in Germany.
+The translation was initiated by a Leiden-based Dutch bookseller who himself was an interesting transnational figure: Elie Luzac (1721-1791) was the descendant of Huguenot refugees and had just been appointed as the university bookseller in the German city of Göttingen. He commissioned the Leipzig theology professor Johann Gottfried Gellius (1732-1781) for the task and published the four-volume edition in collaboration with the Leipzig publishing house of Breitkopf and Son because he did not have his own printing press in Germany.
 
 **The key might be in natural law**
 
