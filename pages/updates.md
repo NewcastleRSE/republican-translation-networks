@@ -7,7 +7,7 @@ title: Research Updates
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
-  <summary class="postTitle">*Cato's Letters* in Germany<br>
+  <summary class="postTitle">Cato's Letters in Germany<br>
     <span class="postSubtitle">A Dutch publisher's interest in natural law might hold the key to the translation.</span>
   </summary>
 
