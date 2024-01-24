@@ -7,6 +7,33 @@ title: Research Updates
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
+  <summary class="postTitle">*Cato's Letters* in Germany<br>
+    <span class="postSubtitle">A Dutch publisher's interest in natural law might hold the key to the translation.</span>
+  </summary>
+
+For the past couple of months I have been working on the German translation of Cato’s Letters into German. The Letters, written by the radical Whig journalists John Trenchard and Thomas Gordon, had initially appeared as columns in the London Journal and in the British Journal in response to the South Sea Bubble of 1720 – the crisis of the British South Sea Company which had triggered the first global financial crisis and ruined many investors. Trenchard and Gordon used the pseudonym of Cato, an enemy of the tyrant Julius Caesar, to criticise government ministers for their role in the crisis. As time went on, however, the two continued their popular column to attack political corruption more broadly, while also promoting their own version of a virtuous liberal republicanism or ‘monarchical republic’.
+
+The letters were intended early on to provide more general lessons in good governance. So it is hardly surprising that they were subsequently gathered together and published in book form. The first complete edition of letters was published in London in 1723-24, with at least another five English editions to follow. The first complete continental edition I managed to locate was a Dutch version published by Johannes Halfman in Alkmaar in 1752-54, quickly followed by a German edition in 1756-57.
+
+**English - Dutch - German**
+
+The trajectory was by no means unusual. Many English texts found their way into Germany via the Netherlands during the eighteenth century, both because the Netherlands remained Europe’s major publishing hub, but also because Dutch and German were easily mutually understandable and it was often easier for a German native speaker to translate a work from the Dutch than from the English, or at least to draw on the Dutch text for help, even if the original English text was used.
+
+The translation was initiated by a Leiden-based Dutch bookseller who himself was an interesting transnational figure: Elie Luzac (1721-91) was the descendant of Huguenot refugees and had just been appointed as the university bookseller in the German city of Göttingen. He commissioned the Leipzig theology professor Johann Gottfried Gellius (1732-1781) for the task and published the four-volume edition in collaboration with the Leipzig publishing house of Breitkopf and Son because he did not have his own printing press in Germany.
+
+**The key might be in natural law**
+
+It is not obvious however why Luzac would have embarked on this costly undertaking. Trenchard and Gordon were not (yet) widely known in Germany, and we can hardly claim that there was an obvious demand for their work to be published. It is more likely that it was a pet project for Luzac who was also a jurist and political author in his own right and might have seen something in Cato’s Letters he considered worth sharing with the world. One of the key indicators might have been his lifelong interest in natural law and constitutional government. He clearly had an interest in the political thought of John Locke as well as in the natural law thinking of Christian Wolff, and he might have thought the Letters would speak to a German audience.
+
+At first sight, it would seem that Luzac was wrong. The critics were rather harsh on the translation. While Trenchard and Gordon’s ideas about civil and religious liberty, political virtue and free speech might have been useful and praiseworthy, they were only true for England, but could hardly be applied to Germany, they argued. Most critics might have found some useful lessons in them, but none of them could muster quite as much enthusiasm for Cato as the anglophile Johann Christoph Gottsched (1700-1766), who praised the Letters for what they might teach political decisionmakers in the German lands. Only much later, it seems, were Cato’s Letters fully appreciated in Germany. But you will hear more about this from me anon.
+
+gm
+
+24/01/2024
+
+</details>
+
+<details>
   <summary class="postTitle">Translating English Republicanism in the European Enlightenment - A Workshop Report <br>
     <span class="postSubtitle">Looking for European networks and contexts.</span>
   </summary>
