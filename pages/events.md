@@ -25,24 +25,37 @@ Date: 2 July 2024, 10.30-17h, Newcastle University, Armstrong Building ARMB.2.50
 **10.45 Welcome & Introductions: Gaby Mahlberg (Newcastle)**
 
 **Presentation**
+
 **11.00-11.30** 
+
 Blair Worden (Oxford), ‘Ludlow’s Voice’
+
 Chair: Rachel Hammersley (Newcastle)
 
 **Panel 1** 
+
 **11.30-13.00 Ludlow’s Environment in European Context**
+
 Gaby Mahlberg (Newcastle), ‘The European networks of English republicans: Avenues for new research’
+
 Vivienne Larminie (Oxford), ‘Ludlow’s exile world and Anglo-Swiss relations’
+
 Jason Peacey (UCL) – ‘“That gang”: English exiles in the Dutch Republic and the politics of citizenship‘
+
 Chair: Adam Morton (Newcastle)
 
 **13.00-14.00 Lunch**
 
 **Panel 2**
+
 **14.00-15.30 Ludlow’s Text**
+
 Ted Vallance (Roehampton), ‘Remembering the regicide – the ‘Voyce’ vs the Memoirs’
+
 Claire Gheeraert-Graffeuille (Rouen), ‘The Guizot edition of Ludlow’s Memoirs’
+
 Veronica Calsoni Lima (UFTM), ‘The Reader, the Writer, and the Translator: Edmund Ludlow and the Late Seventeenth-Century Book Trade.’
+
 Chair: Rachel Hammersley (Newcastle)
 
 **15.30 Tea & Coffee**
