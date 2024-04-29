@@ -20,7 +20,7 @@ Date: 2 July 2024, 10.30-17h, Newcastle University, Armstrong Building ARMB.2.50
 
 **Provisional Programme**
 
-10.30 Tea & Coffee
+**10.30 Tea & Coffee**
 
 **10.45 Welcome & Introductions: Gaby Mahlberg (Newcastle)**
 
@@ -200,63 +200,5 @@ André Krischer (Münster), ‘“Entdeckte Engeländische Verrätherey“. Engl
 Laura Kirkley (Newcastle), ‘How Feminism Travels: Mary Wollstonecraft's Translational Afterlife’
 
 Tom Ashby (EUI, Florence), ‘Giuseppa Barbapiccola, I principi della filosofia (1722), and the 18th Century Translators Dictionary’  
-
-</details>
-
-<details>
-  <summary class="postTitle">22 June 2023, Workshop: ‘Translating English republicanism in the European Enlightenment’, Newcastle University<br>
-  </summary>  
- 
-This workshop addresses the significance of translation for the dissemination of English republican ideas in the European Enlightenment. The contribution of English republican ideas by thinkers such as John Milton, Marchamont Nedham, James Harrington, Edmund Ludlow and Algernon Sidney to the European Enlightenment has been a matter of much debate. A good measure of their impact might therefore be the availability on the Continent of translations of English republican works both into Latin and into a range of European vernaculars. To these should be added partial translations and extracts in learned journals as well as adaptations and imitations of English republican texts. However, the assessment of their reception might be less straightforward than it seems. On the one hand, individuals might have read works in languages other than their own, as was the case with Latin up until the seventeenth century and French for a long time afterwards. On the other hand, the mere availability of a translation does not prove readership. It is therefore necessary to take a closer look at contemporary public discourse, reviews of English republican works in learned journals, references to English republican thinkers and their ideas in works of history, philosophy and law as well as in plays, poetry and literature. Finally, in order to fully understand the significance of translations for the dissemination of ideas, we also need to know more about their genesis, their conception and their distribution and, in particular, about the many individuals and networks who made them happen: from the (often anonymous) translators down to the editors, printers and those selling and distributing English republican works. 
-
-Papers might discuss (but are not confined to):
-
--	the Enlightenment legacy of English republican ideas
--	translations of individual English republican works and their reception
--	cultures and theories of translation in the Enlightenment
--	contemporary translation practice and practitioners
--	contemporary translation networks 
--	multilingualism in the Enlightenment
-
-If you are interested in attending, please email Gaby.Mahlberg@newcastle.ac.uk .
-
-
-**Provisional schedule**
-
-**10.00-10.15 Welcome and Introduction**
-
-**10.15-11.15 Panel 1**
-
-Felix Waldmann (Cambridge), ‘Locke’s Two Treatises: German Readers and Interpreters in the Eighteenth Century’
-
-Elias Buchetmann (Rostock), ‘Paine’s Rights of Man in Germany’
-
-**11.15-11.45 Coffee**
-
-**11.45-12.45 Panel 2**
-
-Ann Thomson (EUI), ‘The Huguenot Connection Revisited’
-
-Thomas Munck (Glasgow), ‘Paine in France’
-
-**12.45-14.00 Lunch**
-
-**14.00-15.00 Panel 3**
-
-Ariel Hessayon (Goldsmiths), ‘Winstanley and Serrarius’
-
-Gaby Mahlberg (Newcastle), ‘Cato’s Letters in eighteenth-century Germany’
-
-**15.00-15.30 Coffee**
-
-**15.30-16.30 Panel 4**
-
-Christopher Hamel (Rouen), ‘Sidney/ Milton in French’
-
-Tom Ashby (Fondazione Einaudi/EUI), ‘Algernon Sidney’s Discourses in eighteenth-century Italy’
-  
-Myriam-Isabelle Ducrocq (Paris), 'The journey of Harrington's ideas in eighteenth-century France'  
-
-**16.30-17.00 Roundtable**
 
 </details>
