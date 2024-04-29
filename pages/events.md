@@ -7,6 +7,111 @@ title: Events
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
+  <summary class="postTitle">2 July 2024, Workshop: ‘Edmund Ludlow - The Memoirs of a Regicide in Exile!’, Newcastle University<br>
+  </summary>
+
+This workshop focuses on the English republican Edmund Ludlow (1617-92) as seen through his memoir of the British Civil War and its aftermath. Having served as an army officer under Oliver Cromwell during the Civil War and participated in the regicide of Charles I in 1649, Ludlow fled England after the Restoration in 1660 to escape arrest and possible execution by the Stuarts. After a dramatic flight across the Channel to France, Ludlow safely arrived in Geneva, and spent the remainder of his life in Swiss exile, first in Lausanne and later in Vevey, surrounded by a small community of fellow refugees. His exile was disturbed by attempts on his life as well as diplomatic rows over his refugee status. However, Ludlow benefited from his wide network of political and religious connections, including Huguenots in the Pays de Vaud, which protected him from his enemies. During his exile, Ludlow maintained an extensive network of correspondents across Europe and continued to defend the cause of political and religious liberty for which he had fought in the Civil War. This involved plotting with other exiles for a restoration of the Commonwealth government as well as facilitating the translation, publication and dissemination of a pamphlet on the republican ‘martyrs’ executed in England after the Restoration. Ludlow also used his retirement to compose a memoir, entitled ‘A Voyce from the Watch Tower’, which remained in manuscript until after his death.
+
+A first edition of Ludlow’s text was published posthumously with a false Vevey imprint in 1698-99 as The Memoirs of Edmund Ludlow and has been used as a key source on the period ever since. A first critical edition of 1894 by Charles Harding Firth subsequently became the standard scholarly text until Blair Worden started work on the rediscovered surviving part of Ludlow's original manuscript acquired by the Bodleian in 1970. While this document is only the second of three sections of the manuscript which formed the basis for the original print edition of the memoirs, it comprises the crucial years from 1660 to 1677 which are of particular interest for Ludlow’s movements after the Restoration and his European networks. Comparing the surviving part of the manuscript with the 1698-99 edition, Worden discovered that the manuscript had been significantly edited and reshaped for publication by the Irish Commonwealthman John Toland in the context of the Standing Army controversy at the turn of the eighteenth century. In the process, Ludlow's original text was not only streamlined to fit a radical Whig political agenda, but also secularised for an age that looked sceptically at the religious enthusiasm and millenarianism of the mid-seventeenth century. Much detail on Ludlow's exile was also relegated to the background. To give scholars a more authentic version of Ludlow's memoirs, Worden produced a critical edition of part five of the 'Voyce' (Camden Fourth Series, 1978) covering the regicide's flight to the Continent after the Restoration and his first years in exile. Some 46 years later, it is time to take stock and see how research on Ludlow has evolved, where we might want to go next, and what benefits a complete edition of Ludlow’s text might bring. 
+
+**Edmund Ludlow - The Memoirs of a Regicide in Exile**
+
+Date: 2 July 2024, 10.30-17h, Newcastle University, Armstrong Building ARMB.2.50
+
+**Provisional Programme**
+
+10.30 Tea & Coffee
+
+**10.45 Welcome & Introductions: Gaby Mahlberg (Newcastle)**
+
+**Presentation: 11.00-11.30** 
+Blair Worden (Oxford), ‘Ludlow’s Voice’
+Chair: Rachel Hammersley (Newcastle)
+
+**Panel 1: 11.30-13.00 Ludlow’s Environment in European Context**
+Gaby Mahlberg (Newcastle), ‘The European networks of English republicans: Avenues for new research’
+Vivienne Larminie (Oxford), ‘Ludlow’s exile world and Anglo-Swiss relations’
+Jason Peacey (UCL) – ‘“That gang”: English exiles in the Dutch Republic and the politics of citizenship‘
+Chair: Adam Morton (Newcastle)
+
+**13.00-14.00 Lunch**
+
+**Panel 2: 14.00-15.30 Ludlow’s Text**
+Ted Vallance (Roehampton), ‘Remembering the regicide – the ‘Voyce’ vs the Memoirs’
+Claire Gheeraert-Graffeuille (Rouen), ‘The Guizot edition of Ludlow’s Memoirs’
+Veronica Calsoni Lima (UFTM), ‘The Reader, the Writer, and the Translator: Edmund Ludlow and the Late Seventeenth-Century Book Trade.’
+Chair: Rachel Hammersley (Newcastle)
+
+**15.30 Tea & Coffee**
+
+**16.00-17.00 Closing Discussion – Editing Ludlow’s Memoirs**
+
+
+If you would like to attend, please contact: Gaby.Mahlberg@newcastle.ac.uk.
+
+The workshop is free to attend, but we would ask you to confirm attendance for catering purposes.
+
+</details>  
+
+<details>
+  <summary class="postTitle">22 June 2023, Workshop: ‘Translating English republicanism in the European Enlightenment’, Newcastle University<br>
+  </summary>  
+ 
+This workshop addresses the significance of translation for the dissemination of English republican ideas in the European Enlightenment. The contribution of English republican ideas by thinkers such as John Milton, Marchamont Nedham, James Harrington, Edmund Ludlow and Algernon Sidney to the European Enlightenment has been a matter of much debate. A good measure of their impact might therefore be the availability on the Continent of translations of English republican works both into Latin and into a range of European vernaculars. To these should be added partial translations and extracts in learned journals as well as adaptations and imitations of English republican texts. However, the assessment of their reception might be less straightforward than it seems. On the one hand, individuals might have read works in languages other than their own, as was the case with Latin up until the seventeenth century and French for a long time afterwards. On the other hand, the mere availability of a translation does not prove readership. It is therefore necessary to take a closer look at contemporary public discourse, reviews of English republican works in learned journals, references to English republican thinkers and their ideas in works of history, philosophy and law as well as in plays, poetry and literature. Finally, in order to fully understand the significance of translations for the dissemination of ideas, we also need to know more about their genesis, their conception and their distribution and, in particular, about the many individuals and networks who made them happen: from the (often anonymous) translators down to the editors, printers and those selling and distributing English republican works. 
+
+Papers might discuss (but are not confined to):
+
+-	the Enlightenment legacy of English republican ideas
+-	translations of individual English republican works and their reception
+-	cultures and theories of translation in the Enlightenment
+-	contemporary translation practice and practitioners
+-	contemporary translation networks 
+-	multilingualism in the Enlightenment
+
+If you are interested in attending, please email Gaby.Mahlberg@newcastle.ac.uk .
+
+
+**Provisional schedule**
+
+**10.00-10.15 Welcome and Introduction**
+
+**10.15-11.15 Panel 1**
+
+Felix Waldmann (Cambridge), ‘Locke’s Two Treatises: German Readers and Interpreters in the Eighteenth Century’
+
+Elias Buchetmann (Rostock), ‘Paine’s Rights of Man in Germany’
+
+**11.15-11.45 Coffee**
+
+**11.45-12.45 Panel 2**
+
+Ann Thomson (EUI), ‘The Huguenot Connection Revisited’
+
+Thomas Munck (Glasgow), ‘Paine in France’
+
+**12.45-14.00 Lunch**
+
+**14.00-15.00 Panel 3**
+
+Ariel Hessayon (Goldsmiths), ‘Winstanley and Serrarius’
+
+Gaby Mahlberg (Newcastle), ‘Cato’s Letters in eighteenth-century Germany’
+
+**15.00-15.30 Coffee**
+
+**15.30-16.30 Panel 4**
+
+Christopher Hamel (Rouen), ‘Sidney/ Milton in French’
+
+Tom Ashby (Fondazione Einaudi/EUI), ‘Algernon Sidney’s Discourses in eighteenth-century Italy’
+  
+Myriam-Isabelle Ducrocq (Paris), 'The journey of Harrington's ideas in eighteenth-century France'  
+
+**16.30-17.00 Roundtable**
+
+</details>
+
+<details>
   <summary class="postTitle">16 September 2021, Workshop: ‘Commonwealthmen & Women: The Legacy of English Republicanism in Britain and Europe’, Newcastle University<br>
   </summary>
 
