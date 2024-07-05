@@ -7,6 +7,73 @@ title: Research Updates
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
+  <summary class="postTitle">Whose Voice?<br>
+    <span class="postSubtitle">Edmund Ludlow – The Memoirs of a Regicide in Exile: A workshop report.</span>
+  </summary>
+
+*The text known as The Memoirs of Edmund Ludlow was long considered an authentic account of the English Revolution - until Blair Worden discovered Ludlow’s manuscript and recovered the regicide’s real voice. At a workshop in Newcastle we discussed the feasibility of a complete edition of this manuscript.*
+
+The ‘Voyce from the Watch Tower’ is a fascinating text with many layers – a text the republican Edmund Ludlow (1617-1692) wrote during his time abroad in Switzerland after the Restoration of the Stuart monarchy in England when he and his fellow regicides had to flee the country to save their lives. 
+
+A first edition of Ludlow’s text was published in 1698-99 as *The Memoirs of Edmund Ludlow* with a false Vevey imprint, and other editions followed before Charles Harding Firth in the late 19th century brought out his modern edition which has been used widely as a source for the history of the English Civil War and its aftermath.
+
+Firth was for a long time the authoritative text of Ludlow until Blair Worden in the 1970s discovered the manuscript – or what has survived of it - and with his selective Camden edition of 1978 drew our attention to the fact that the published text which had become known as the ‘*Memoirs*’ was not quite what we thought it was. 
+
+At a workshop taking place at Newcastle University and online on 2 July we had the chance to hear Blair talk about his spectacular discovery and the way in which it has changed our perception of Ludlow. We also discussed the possibility of producing a complete edition of the surviving part of the manuscript which Rachel Hammersley, Vivienne Larminie and I have been hoping to do for some time.
+
+**Original text heavily edited for publication**
+
+Much of the original text, Worden found, had been rather significantly streamlined and reshaped, or ‘polited’, by its first editor John Toland (1670-1722) to fit a late seventeenth-century Whig agenda which employed a mid-century republican for the argument against standing armies. 
+
+What lay underneath was a much less structured manuscript steeped in a puritan millenarian language depicting the English regicides as persecuted witnesses of Christ in a struggle for true religion. The real Ludlow was a radical who objected to monarchy on religious grounds and whose politics were subject to and guided by his faith.
+
+Not even the title ‘Memoirs’ was Ludlow’s own, nor would the term have been used by his contemporaries. The genre was more commonly referred to as ‘life writing’, while Ludlow himself had chosen the title ‘A Voyce from the Watch Tower’ for his work. 
+
+**Ludlow drawing on the Old Testament**
+
+This is likely a reference to the Old Testament Book of Isaiah, 21: 8 (chapter 21, verse 8), where it says, ‘My lord, I stand continually upon the watch tower in the daytime, and I am set in my ward whole nights’; or to the Book of Habakkuk, 2.1: ‘I will stand upon my watch, and set me upon the tower, and will look and see what he would say unto me, and what I shall answer to him that rebuketh me.’ (Geneva Bible). 
+
+Both emphasize the necessity of the faithful to be prepared for the coming of the Lord – a central theme of Ludlow’s life writing. Or, as Ludlow put it, ‘being on our Watch Tower, and living by faith, we may see our duty so plainly, that when the Lord’s tyme is come we may up and be doing, and the Lord may appear to be with us and to owne us’. 
+
+He saw himself very much as the watchman waiting for signs from God ‘to know when to goe forward and when to stand still, that by making hast we may not strengthen the hand of the enemy, nor by standing still neglect the opportunity he puts in our hands’. 
+
+Whatever we want to call Ludlow’s MS, it mixes the past and the present, the personal and the political. It relates personal experience to wider historical events and shows the individual, Ludlow, interacting with his surroundings. 
+
+**Ludlow as a European**
+
+I very much agree with Worden’s view of Ludlow. But what fascinates me the most about this English regicide is his period in Swiss exile because it shows so clearly the many ways in which English puritans and republicans were connected to continental European protestants like Huguenots, Pietists and Labadists and how these transnational networks helped them to survive when they had to flee England after the Restoration. 
+
+My fascination is shared by Vivienne, who works on Anglo-Swiss relations and Huguenot history among others and outlined some of the connections forged by Ludlow with Switzerland via his radical religious circles in England, including the French congregation in Westminster. It was primarily those connections that facilitated Ludlow’s exile first in Geneva and later in Lausanne and Vevey in the Pays de Vaud.
+
+Jason Peacey’s paper meanwhile focused on the regicides who had fled to the United Provinces and who were likewise protected primarily as religious refugees. However, Jason also highlighted the difficulties the exiles faced in the United Provinces because the English government was keen to see them extradited and the Dutch authorities were theoretically obliged to follow suit under the terms of the Treaty of Breda (1667) which had concluded the Second Anglo-Dutch War.
+
+**Versions of Ludlow’s text and intertextuality**
+
+Ted Vallance’s paper returned to the text itself – in particular the differences between Ludlow’s manuscript and Toland’s edition of it. While in Ludlow’s ‘Voyce’, the English regicides executed in 1660 had died like ‘martyrs’, he argued, in the Memoirs they died like ‘Romans’. On the regicide itself, however, Toland might not have followed Ludlow’s original account at all but instead invented his own version of events.
+
+Another rather creative rendering was the adaptation of the 1698/99 Memoirs by the French historian François Guizot, as Claire Gheeraert-Graffeuille showed. Guizot’s text was also significant because he used his translation as the basis for his history of the English Revolution which was in turn translated into English in 1851.
+
+The final paper by Verônica Calsoni Lima then turned to Ludlow’s own sources and his 1663 publication of the French translation of the regicides’ Speeches and Prayers (1660). Ludlow complains in the ‘Voyce’ that the Yverdon printer who was commissioned to produce the pamphlet had added material from various gazettes without his consent. 
+
+However, Verônica showed that Ludlow likely used the very same sources for his own account of the regicides John Barkstead, Miles Corbet and John Okey and for the trial of Henry Vane – all of which originated with an underground network of radical confederates in London, including Thomas Brewster and Giles Calvert.
+
+**What next?**
+
+The workshop, I think, gave a good flavour of the richness of Ludlow’s text and the many ways in which it can be read – as a history of the English Civil War, an example of life writing, and a narrative of persecution and exile which connects the British Isles and continental Europe in more ways than one.
+
+The participants very much agreed that a complete edition of the manuscript would be desirable, but much of the discussion hinged on whether such an edition should be digital or printed and what level of annotation might be required to follow not only Ludlow’s English Civil War trajectory but also enable us to locate him in his wider European context. 
+
+One way of connecting to this context was presented by Ina Habermann from the University of Basel with her SwissBritNew project which focuses on Anglo-Swiss relations in the seventeenth and eighteenth century and which might be able to accommodate Ludlow’s ‘Voyce’ as well. 
+
+The workshop clearly got us all thinking – so watch this space!
+
+gm
+
+05/07/2024
+
+</details>
+
+<details>
   <summary class="postTitle">Cato's Letters in Germany<br>
     <span class="postSubtitle">A Dutch publisher's interest in natural law might hold the key to the translation.</span>
   </summary>
