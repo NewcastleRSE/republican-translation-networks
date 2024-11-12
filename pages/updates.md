@@ -7,6 +7,47 @@ title: Research Updates
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
+  <summary class="postTitle">Short Reviews<br>
+    <span class="postSubtitle">England - Germany - The United Provinces</span>
+  </summary>
+
+Part of the joy of starting a new research project is diving into new literature. As my interests have been shifting slowly from seventeenth-century England to Enlightenment Germany, my reading has become more eclectic, which is reflected in some of the reviews I have written over the course of the year. You can follow the link to access the full text:
+
+**‘Markku Peltonen, The Political Thought of the English Free State, 1649-1653 (Cambridge: Cambridge University Press, 2023), 270pp. £75.00 (hardback) ISBN: 9781009212045’, History of Political Thought, 45:1 (2024), pp. 200-203.**
+https://www.ingentaconnect.com/contentone/imp/hpt/2024/00000045/00000001/art00008 
+
+‘Markku Peltonen’s starting point […] is the relative neglect of the ideas of the period from the regicide of Charles I to Oliver Cromwell’s expulsion of the Rump Parliament. It was during this time that England’s rulers abolished the office of kingship and the House of Lords and turned England into a ‘Commonwealth and Free State’. The prevailing historiography, Peltonen contends, has focused too much on the de-facto-arguments raised during the Engagement controversy in defence of the non-monarchical state which had emerged from the fallout of the Civil Wars, and not enough on contemporary anti-monarchism or even principled defences of the new republic for its own sake. Peltonen here refers to earlier scholars such as Perez Zagorin or Margaret Judson. His main target, however, is the highly influential work of Blair Worden, who has defined English republicanism largely as a post-facto phenomenon, arguing that the victorious Parliamentarians had first cut off the King’s head and only started to think about the precise form of the country’s government afterwards. In this line of thought, the new kingless state was generally not considered too popular, while any meaningful republican theories only emerged much later in response to the government of the Rump rather than in unison with it. 
+
+Peltonen, in contrast, shows that already ‘in the early days of the free state… tremendous enthusiasm was both felt and shown for its establishment’, that ‘pamphleteers enthusiastically welcomed the establishment of the free state’ and ‘were ready to rush to its defence.’ (p. 3) His book ‘thus offers a reassessment of the political thought of the English free state and maps the terrain of what it was possible to think.’ (p. 3) In doing so, Peltonen ‘examines several central themes or dimensions of the political theory of the free state’. (p. 4) These include, for instance, the claim that the people were the ultimate source of all political power and that they had the right to change their government as they saw fit. […]’
+
+**
+ 
+**‘The hidden origins of the German Enlightenment. By Martin Mulsow (trans. H.C. Erik Midelfort). Pp. viii + 403 incl. 7 figs. Cambridge: Cambridge University Press, 2023. £100.00. 978 1 009 24115 1’, The Journal of Ecclesiastical History, 75:3 (2024), pp. 597-599.**
+https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/hidden-origins-of-the-german-enlightenment-by-martin-mulsow-trans-h-c-erik-midelfort-ideas-in-context-pp-viii-403-incl-7-figs-cambridgenew-york-cambridge-university-press-2023-100-978-1-009-24115-1/3E85613342377FE58DEB6E75E3A318E0 
+
+‘[This] is the second part of Martin Mulsow’s influential study Radikale Frühaufklärung in Deutschland, 1680-1720, 2 vols (Wallstein, 2018) in an English translation by H.C. Erik Midelford. Following on from Enlightenment Underground: Radical Germany, 1680-1720 (University of Virginia Press, 2015), Mulsow continues his exploration of heterodox ideas and their circulation in the German lands around the turn of the eighteenth century challenging and revising the long-established view of the German Enlightenment as a fundamentally moderate and cautious affair.
+
+The book’s seven chapters are devoted to various scholarly discourses about the mortality of the soul, idolatry, atheism, natural law, Socinianism and the humanity of Moses and Jesus as founders of religion which frequently transgressed the boundaries of what could be said with impunity at the time, yet rarely had serious consequences for their proponents who developed their own strategies for avoiding the authorities. Among those strategies were the circulation of texts in manuscript or clandestine publications which could not be traced back to their sources because they appeared anonymously, were published abroad – mostly in the Netherlands - under false imprints or without any imprint at all. Others might involve presenting dangerous teachings in the form of “paradoxes” which juxtaposed opposing doctrines and leaving the reader or listener to derive their own conclusions or to “exercise a learned ignorance” or “docta ignorantia”. (pp. 258-9)
+
+Each chapter follows the ideas to the environments from which they arose and in which they were discussed, leading the reader to the protestant university towns of central Germany, such as Halle, Jena, Helmstedt and Leipzig, to Frankfurt on the Oder, and to the eastern periphery of the country, where the control of the authorities could barely reach. As Mulsow emphasises, the bigger picture he draws thus goes beyond Halle as the centre of the German Enlightenment with Christian Thomasius as its protagonist, to include “a multitude of less well-known thinkers from various and unexpected locations in Germany” (p. 328), while also showing the “Europe-wide entanglements’ (p. 338) of these scholars.’
+
+**
+**‘David de Boer, The Early Modern Dutch Press in an Age of Religious Persecution: The Making of Humanitarianism (Oxford: Oxford University Press, 2023, 224pp, ISBN: 9780198876809)’, BMGN – Low Countries Historical Review (forthcoming).**
+https://bmgn-lchr.nl/index 
+
+‘This book […] is a contribution to the growing literature on religious persecution and migration in early modern Europe […]. Unlike its predecessors, however, De Boer’s book does not focus so much on the refugees themselves, but on the way in which a relatively free Dutch press was employed by persecuted “religious minorities and their advocates” [across Europe] to appeal to a wider public in an attempt “to raise transnational solidarity” and, at times, to get foreign governments to intervene on their behalf (3). In doing so, De Boer argues, writers used an “inclusive language of compassion” which went beyond mere support for their own “oppressed brethren in the faith” (8), but instead employed a universalism which stressed the “common humanity” (5) of all victims of persecution.
+  
+In five chronological chapters the book covers a period from the mid-seventeenth to the mid-eighteenth century, addressing concrete events or instances of persecution and their media response, with each example adding to the argument in different ways: the massacre of the Waldensians in Piedmont in 1655 (Chapter 1), the persecution of the Huguenots in France both before (Chapter 2) and after the Revocation of the Edict of Nantes in 1685 (Chapter 3), the so-called War of the Camisards in Cévennes (Chapter 4), and finally the so-called Bloodbath of Torún and the expulsion of the Jews from Prague in 1754 (Chapter 5). 
+
+De Boer’s argument is ambitious attempting to construct a bridge between an age of persecution and an age of Enlightenment in which confessional conflicts were still present and clearly visible, but in which it became possible also for those advocating compassion to draw on more universal arguments for reason, justice, humanity and the rule of law which transcended their own confessional identities.’
+
+12/11/2024
+
+gm
+
+</details>  
+
+<details>
   <summary class="postTitle">Whose Voice?<br>
     <span class="postSubtitle">Edmund Ludlow – The Memoirs of a Regicide in Exile: A workshop report.</span>
   </summary>
