@@ -32,6 +32,7 @@ The book’s seven chapters are devoted to various scholarly discourses about th
 Each chapter follows the ideas to the environments from which they arose and in which they were discussed, leading the reader to the protestant university towns of central Germany, such as Halle, Jena, Helmstedt and Leipzig, to Frankfurt on the Oder, and to the eastern periphery of the country, where the control of the authorities could barely reach. As Mulsow emphasises, the bigger picture he draws thus goes beyond Halle as the centre of the German Enlightenment with Christian Thomasius as its protagonist, to include “a multitude of less well-known thinkers from various and unexpected locations in Germany” (p. 328), while also showing the “Europe-wide entanglements’ (p. 338) of these scholars.’
 
 **
+
 **‘David de Boer, The Early Modern Dutch Press in an Age of Religious Persecution: The Making of Humanitarianism (Oxford: Oxford University Press, 2023, 224pp, ISBN: 9780198876809)’, BMGN – Low Countries Historical Review (forthcoming).**
 https://bmgn-lchr.nl/index 
 
