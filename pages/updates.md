@@ -11,7 +11,9 @@ title: Research Updates
     <span class="postSubtitle">England - Germany - The United Provinces</span>
   </summary>
 
-Part of the joy of starting a new research project is diving into new literature. As my interests have been shifting slowly from seventeenth-century England to Enlightenment Germany, my reading has become more eclectic, which is reflected in some of the reviews I have written over the course of the year. You can follow the link to access the full text:
+*Part of the joy of starting a new research project is diving into new literature. As my interests have been shifting slowly from seventeenth-century England to Enlightenment Germany, my reading has become more eclectic, which is reflected in some of the reviews I have written over the course of the year.*
+
+You can follow the link to access the full text:
 
 **‘Markku Peltonen, The Political Thought of the English Free State, 1649-1653 (Cambridge: Cambridge University Press, 2023), 270pp. £75.00 (hardback) ISBN: 9781009212045’, History of Political Thought, 45:1 (2024), pp. 200-203.**
 https://www.ingentaconnect.com/contentone/imp/hpt/2024/00000045/00000001/art00008 
