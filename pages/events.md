@@ -7,6 +7,12 @@ title: Events
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
+  <summary class="postTitle">26 February 2025, 4pm, Prof. Dr. Susanne Lachenicht (Bayreuth University), 'Refugee History and Subaltern Studies', Modern European History Seminar, Newcastle University, Armstrong Building, Room tbc<br>
+  </summary>
+
+</details>
+
+<details>
   <summary class="postTitle">2 July 2024, Workshop: ‘Edmund Ludlow - The Memoirs of a Regicide in Exile!’, Newcastle University<br>
   </summary>
 
