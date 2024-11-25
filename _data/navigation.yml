@@ -14,4 +14,12 @@
   url: /pages/events.html
   
 - title: Visuals
-  url: /pages/visuals.html
+  sublinks: 
+    - title: Sidney's Last Paper
+      url: /pages/lastpaper.html
+    - title: Milton's Defensio
+      url: /pages/defensio.html
+    - title: Nedham's True State of the Case of the Commonwealth
+      url: /pages/commonwealth.html
+
+   
