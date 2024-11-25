@@ -4,7 +4,38 @@ body {
     margin: 0 auto;
     height: 100%;
     width: 100%;
+   
 }
+p {
+     font-weight: 500 !important;
+}
+
+i {
+    font-style: italic !important; 
+}
+
+b {
+    font-weight: bold !important;
+}
+
+/* columns for visuals pages */
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+  }
+
+#image {
+    text-align: center
+}
+
+.annotationrow {
+    display: flex;
+    justify-content: center;
+}
+
 
 .postTitle {
     margin-bottom: 8px;
@@ -257,7 +288,9 @@ h6 {
   .dropdown {
     float: left;
     overflow: hidden;
+    
   }
+
   
   /* Style the dropdown button to fit inside the topnav */
   .dropdown .dropbtn {
@@ -298,8 +331,9 @@ h6 {
   
   /* Add a dark background on topnav links and the dropdown button on hover */
   .topnav a:hover, .dropdown:hover .dropbtn {
-    background-color: #555;
-    color: white;
+    background-color: #;
+    text-shadow: none !important;
+    
   }
   
   /* Add a grey background to dropdown links on hover */
