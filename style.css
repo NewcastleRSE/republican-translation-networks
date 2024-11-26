@@ -27,6 +27,19 @@ b {
     flex: 50%;
   }
 
+  .column {
+    p {
+        font-size: small;
+        font-weight: 400 !important;
+    }
+  }
+  .annotationrow {
+    ol {
+        font-size: small;
+        font-weight: 400 !important;
+    }
+  }
+
 #image {
     text-align: center
 }
