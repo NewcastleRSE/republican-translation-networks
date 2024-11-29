@@ -2,7 +2,7 @@
 
 <!-- This finds the current page so it can be highlighted. -->
 
-{% for entry in site.data.navigation %}
+<!-- {% for entry in site.data.navigation %}
 {% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
 {% if fullurl == page.url %}
 {% assign current_page = fullurl %}
@@ -10,10 +10,11 @@
 {% elsif page.url contains fullurl %}
 {% assign current_page = fullurl %}
 {% endif %}
-{% endfor %}
+{% endfor %} -->
+
 
 <!-- Then we build the nav bar. -->
-<nav>
+<!-- <nav>
     <ul>
         {% for entry in site.data.navigation %}
         {% if entry.url == current_page %}
@@ -36,4 +37,41 @@
         {% endif %}
         {% endfor %}
     </ul>
-</nav>
+</nav> -->
+<script defer src="../assets/solid.js"></script>
+<script defer src="../assets/fontawesome.js"></script>
+<link rel="stylesheet" type="text/css" href="../style.css">
+
+<div class="topnav" id="myTopnav">
+    <a href="/" >Home</a>
+    <a href="/pages/about.html">About Gaby Mahlberg</a>
+    <a href="/pages/updates.html">Research Updates</a>
+    <a href="/pages/map.html">Map</a>
+   
+    <div class="dropdown">
+      <button class="dropbtn">Visuals
+        
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        <a href="/pages/eruditorum.html">The Acta Eruditorium</a>
+        <a href="/pages/lastpaper.html">Sidney's Last paper</a>
+        <a href="/pages/defensio.html">Milton's Defensio</a>
+        <a href="/pages/commonwealth.html">Nedham's True State of the Case of the Commonwealth</a>
+      </div>
+    </div>
+    <a href="javascript:void(0);" class="icon" onclick="toggledropdown()">&#9776;</a>
+    <a href="/pages/events.html">Events</a>
+  </div>
+  
+  <script>  
+    /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+function toggledropdown() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+  </script>
