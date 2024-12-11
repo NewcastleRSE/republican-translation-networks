@@ -16,6 +16,8 @@ $(window).on('load', function() {
         headers:{ "Access-Control-Allow-Origin": "*" },
         success: function(response) {
             var key = JSON.parse(response).sheets
+            console.log('************')
+console.log(key)
 
             // Set tile layer
             var mapKey =  JSON.parse(response).thunder
