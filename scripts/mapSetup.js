@@ -11,16 +11,11 @@ $(window).on('load', function() {
 
     /** Get data from Google Sheet and add markers to map
      */
-    $.ajax({
-        url:"https://republicantranslationsfunction.azurewebsites.net/api/servesheetskey",
-        headers:{ "Access-Control-Allow-Origin": "*" },
-        success: function(response) {
-            var key = JSON.parse(response).sheets
-            console.log('************')
-console.log(key)
+   const key = 'AIzaSyCv-S8EVA4SDGODRacwtNB1TjGIYb-q1nA'
+const spreadID = '1atlVZx6zTu7hU323a2m8-ZymrdeaPlIn8bsfE7Vw5Ak'
 
             // Set tile layer
-            var mapKey =  JSON.parse(response).thunder
+            var mapKey = '4153022c8736457ebe9464ecc6c662d0'
           L.tileLayer('https://{s}.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png?apikey={apikey}', {
               attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
               apikey: mapKey
@@ -29,6 +24,7 @@ console.log(key)
 
         //    Get data from sheets
         $.getJSON(
+            
             "https://sheets.googleapis.com/v4/spreadsheets/1atlVZx6zTu7hU323a2m8-ZymrdeaPlIn8bsfE7Vw5Ak/values/Sheet1?key=" + key,
       // "https://sheets.googleapis.com/v4/spreadsheets/10hoBLjIu0_qothMvChC8mkiI_QyEh7KCwOs4TFxq0kk/values/Sheet1?key=" + key,
       (data) => {
@@ -139,9 +135,8 @@ console.log(key)
           $('.loader').hide();
       }
       )
-        }
-    })
-
+        
+  
     //--------------------- Utility methods
 
     function createLegend() {
