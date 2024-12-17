@@ -419,3 +419,10 @@ h6 {
   display: none;
   overflow: hidden;
 }
+
+.panel form {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap:  0.5em 1em;
+}
