@@ -89,18 +89,38 @@ title: Browse the data
         </div>
 
 
-        <!-- Browsing by genre -->
-        <!-- <div id="browse">
-            <h3>Browse by Type</h3>
-            <p>Filter performances by type</p>
-            <form id="genreBtns" class="d-flex flex-wrap gap-2">
+     
+        <div id="browse">
+            <button class="filtersaccordion">Filter by author</button>
+            <div class="panel">
+            <form id="authorBtns" class="d-flex flex-wrap gap-2">
+                            <div class="form-check ml-4">
+                                <input class="form-check-input" onclick="filterRadio('all', 'Author Surname')" type="radio" name="author" id="all">
+                                <label class="form-check-label" for="all">All</label>
+                            </div>
+                        </form>
+            </div>
+           
+            <button class="filtersaccordion">Filter by language</button>
+            <div class="panel">
+            <form id="languageBtns" class="d-flex flex-wrap gap-2">
                 <div class="form-check ml-4">
-                    <input class="form-check-input" onclick="filterGenre('all')" type="radio" name="genre" id="all">
+                    <input class="form-check-input" onclick="filterRadio('all', 'Language')" type="radio" name="language" id="all">
                     <label class="form-check-label" for="all">All</label>
                 </div>
             </form>
+            </div>
 
-        </div> -->
+            <button class="filtersaccordion">Filter by publisher</button>
+            <div class="panel">
+            <form id="publisherBtns" class="d-flex flex-wrap gap-2">
+                <div class="form-check ml-4">
+                    <input class="form-check-input" onclick="filterRadio('all', 'Publisher')" type="radio" name="publisher" id="all">
+                    <label class="form-check-label" for="all">All</label>
+                </div>
+            </form>
+</div>
+        </div>
 
        
         

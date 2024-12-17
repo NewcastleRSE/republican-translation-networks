@@ -2,7 +2,9 @@ var allData;
 var displayedData
 let today = new Date();
 let cols;
+let numberOfCols = 22;
 
+var itemToGetColsFrom = {}
 
 let rowsToDisplay = 20
 let currentPage = 0
@@ -38,16 +40,71 @@ $(window).on('load', function () {
             displayedData = parsedData
             allData = parsedData
            //  console.log(displayedData)
-            // create radio buttons for genre
-            // createGenreRadios()
+        setupFilters()
             
+            // Get the keys (column names) of an object with all keys present
+        // to do this get item with the number of fields closest to correct
+        
+        itemToGetColsFrom = allData[allData.findIndex((entry) => Object.keys(entry).length === numberOfCols)]
+
             // create table
             //createTable(allData)
             createTable(displayedData)
             // createCalendar(currentMonth, currentYear);
         }
     )
+    document.getElementById('browse').style.display = 'inline'
+
+    
 })
+
+function setupFilters() {
+    // create radio buttons for filters
+    createRadios('Author Surname', 'authorBtns')
+    createRadios('Language', 'languageBtns')
+    createRadios('Publisher', 'publisherBtns')
+
+    var acc = document.getElementsByClassName("filtersaccordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+ acc[i].addEventListener("click", function() {
+    // if clicked panel is active, hide it
+    if (this.classList.contains('active')) {
+        this.classList.remove('active')
+        var panel = this.nextElementSibling;
+        panel.style.display = 'none'
+    } else {
+
+    // else hide others and show clicked panel
+     // hide all active panels
+ 
+     let active = document.querySelectorAll(".filtersaccordion.active");
+     
+    for(let j = 0; j < active.length; j++){
+      active[j].classList.remove("active");
+      var panel = active[j].nextElementSibling;
+     
+      panel.style.display = "none";
+    }
+    
+    /* Toggle between adding and removing the "active" class,
+    to highlight the button that controls the panel */
+    this.classList.add("active");
+
+    /* Toggle between hiding and showing the active panel */
+    var panel = this.nextElementSibling;
+    // if (panel.style.display === "block") {
+    //   panel.style.display = "none";
+    // } else {
+      panel.style.display = "block";
+    //}
+  
+}
+  });
+
+}
+}
 
 // give each table row a unique ID
 function assignIDs(data) {
@@ -78,8 +135,10 @@ function createTable(dataToDisplay) {
         table.classList.add('table')
         table.classList.add('table-hover')
 
-        // Get the keys (column names) of an object with all keys present
-        cols = Object.keys(dataToDisplay[193]);
+        
+
+        let cols = Object.keys(itemToGetColsFrom)
+        
 
         // Create the header element
         let thead = document.createElement("thead");
@@ -87,16 +146,17 @@ function createTable(dataToDisplay) {
 
         // Loop through the column names and create header cells
         cols.forEach((item) => {
-            // ignore ID  columns
+             // ignore ID  columns
+            item = item.trim()
             if (item != 'ID') {
                 let th = document.createElement("th");
                 th.setAttribute('scope', 'col')
                 th.innerText = item; // Set the column name as the text of the header cell
                 
                 // exclude some additional info cells
-                if (item === 'Printer' || item === 'ID' || item === 'Latitude' || item === 'Longitude' || item === 'Format' || item === 'Additional Information' || item === 'Available at' || item === 'ESTC' || item === 'Additional authors') {    
+                if (item === 'Printer' || item === 'ID' || item === 'Latitude' || item === 'Longitude' || item === 'Format' || item === 'Additional information' || item === 'Available at' || item === 'ESTC' || item === 'Additional authors' || item === 'Full Title' || item === 'Library Holdings' || item === 'Pages' || item === 'Volumes') {    
                     th.style.display = 'none'  
-                    console.log(item)
+                    
                     indexesToHide.push(cols.indexOf(item))       
                 }
 
@@ -177,6 +237,8 @@ function createTable(dataToDisplay) {
     }
 }
 
+
+
 // display single event above table view
 function displayEvent(id) {
 
@@ -236,16 +298,13 @@ function displayEvent(id) {
     document.getElementById('resultsCard').scrollIntoView()
 }
 
-function createGenreRadios() {
-    // get all possible genres from 'Type' column
+
+
+function createRadios(field, containerID) {
+    // get all possible authors
     var types = Object.keys(_.countBy(allData, function (data) {
-        if (data.Type) {
-            // strip anything in rounded or square brackets
-            let type = data.Type.replace(/ *\([^)]*\) */g, "")
-            type = type.replace(/ *\[[^\]]*]/, '')
-            type = type.trim()
-            return type;
-        }
+   
+        return data[field]
 
     }))
 
@@ -263,7 +322,7 @@ function createGenreRadios() {
             input.setAttribute('name', 'genre')
             input.setAttribute('id', 'radio' + type)
             input.onclick = function () {
-                filterGenre(type)
+                filterRadio(type, field)
             }
             var label = document.createElement('label')
             label.classList.add('form-check-label')
@@ -274,7 +333,7 @@ function createGenreRadios() {
             div.classList.add('ml-4')
             div.appendChild(input)
             div.appendChild(label)
-            let container = document.getElementById("genreBtns");
+            let container = document.getElementById(containerID);
             container.appendChild(div)
         }
     })
@@ -576,7 +635,7 @@ function shorternDates(dates) {
 }
 
 //  ----- filtering data
-function filterGenre(type) {
+function filterRadio(type, filter) {
 
     var container = document.getElementById('showData')
     container.replaceChildren()
@@ -584,14 +643,15 @@ function filterGenre(type) {
     if (type === 'all') {
         createTable(allData)
     } else {
-
+console.log()
         // select only entries where type is correct
         var filteredData = _.filter(allData, function (o) {
-            if (o.Type) {
-                return o.Type.startsWith(type);
+            if (o[filter]) {
+                return o[filter].startsWith(type);
             }
         });
-        displayedData = filteredData
+        
+        console.log(filteredData)
         createTable(filteredData)
     }
 }
