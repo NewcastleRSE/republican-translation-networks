@@ -54,6 +54,7 @@ $(window).on('load', function () {
         }
     )
     document.getElementById('browse').style.display = 'inline'
+    document.getElementById('searchBox').style.display = 'inline'
 
     
 })
@@ -115,7 +116,7 @@ function assignIDs(data) {
 }
 
 function createTable(dataToDisplay) {
-
+    displayedData = dataToDisplay
     // Get the container element where the table will be inserted and clear it
     let container = document.getElementById("showData");
     container.replaceChildren()
@@ -339,149 +340,149 @@ function createRadios(field, containerID) {
     })
 }
 
-function createCalendar(month, year) {
+// // function createCalendar(month, year) {
 
-    let selectYear = document.getElementById("year");
-    let selectMonth = document.getElementById("month");
+// //     let selectYear = document.getElementById("year");
+// //     let selectMonth = document.getElementById("month");
 
-    let months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+// //     let months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
-    // create date picker
-    var yearPicker = document.getElementById('year')
-    for (let yr = earliestYr; yr < latestYr + 1; yr++) {
-        var option = document.createElement('option')
+// //     // create date picker
+// //     var yearPicker = document.getElementById('year')
+// //     for (let yr = earliestYr; yr < latestYr + 1; yr++) {
+// //         var option = document.createElement('option')
 
-        option.setAttribute('value', yr)
-        option.innerText = yr
-        yearPicker.appendChild(option)
-    }
+// //         option.setAttribute('value', yr)
+// //         option.innerText = yr
+// //         yearPicker.appendChild(option)
+// //     }
 
-    let monthAndYear = document.getElementById("monthAndYear");
-    let firstDay = (new Date(year, month)).getDay();
-    let daysInMonth = 32 - new Date(year, month, 32).getDate();
-    let tbl = document.getElementById("calendar-body"); // body of the calendar
+// //     let monthAndYear = document.getElementById("monthAndYear");
+// //     let firstDay = (new Date(year, month)).getDay();
+// //     let daysInMonth = 32 - new Date(year, month, 32).getDate();
+// //     let tbl = document.getElementById("calendar-body"); // body of the calendar
 
-    // clearing all previous cells
-    tbl.innerHTML = "";
+// //     // clearing all previous cells
+// //     tbl.innerHTML = "";
 
-    // filing data about month and in the page via DOM.
-    monthAndYear.innerHTML = months[month] + " " + year;
-    selectYear.value = year;
-    selectMonth.value = month;
+// //     // filing data about month and in the page via DOM.
+// //     monthAndYear.innerHTML = months[month] + " " + year;
+// //     selectYear.value = year;
+// //     selectMonth.value = month;
 
-    // get all events for requested year and month
-    var events = getEventsForMonth(month, year)
+// //     // get all events for requested year and month
+// //     var events = getEventsForMonth(month, year)
 
-    // creating all cells
-    let date = 1;
-    for (let i = 0; i < 6; i++) {
-        // creates a table row
-        let row = document.createElement("tr");
+// //     // creating all cells
+// //     let date = 1;
+// //     for (let i = 0; i < 6; i++) {
+// //         // creates a table row
+// //         let row = document.createElement("tr");
 
-        //creating individual cells, filing them up with data.
-        for (let j = 0; j < 7; j++) {
-            if (i === 0 && j < firstDay) {
-                let cell = document.createElement("td");
-                let cellText = document.createTextNode("");
-                cell.appendChild(cellText);
-                row.appendChild(cell);
-            }
-            else if (date > daysInMonth) {
-                break;
-            }
+// //         //creating individual cells, filing them up with data.
+// //         for (let j = 0; j < 7; j++) {
+// //             if (i === 0 && j < firstDay) {
+// //                 let cell = document.createElement("td");
+// //                 let cellText = document.createTextNode("");
+// //                 cell.appendChild(cellText);
+// //                 row.appendChild(cell);
+// //             }
+// //             else if (date > daysInMonth) {
+// //                 break;
+// //             }
 
-            else {
-                let cell = document.createElement("td");
-                let cellText = document.createTextNode(date);
+// //             else {
+// //                 let cell = document.createElement("td");
+// //                 let cellText = document.createTextNode(date);
 
 
-                cell.appendChild(cellText);
+// //                 cell.appendChild(cellText);
 
-                // build full date for cell to compare to events list
-                let cellDate = new Date(year, month, date)
+// //                 // build full date for cell to compare to events list
+// //                 let cellDate = new Date(year, month, date)
 
-                // highlight days with performances
-                events.forEach((e) => {
+// //                 // highlight days with performances
+// //                 events.forEach((e) => {
 
-                    if (new Date(Object.keys(e)[0]).toDateString() === cellDate.toDateString()) {
+// //                     if (new Date(Object.keys(e)[0]).toDateString() === cellDate.toDateString()) {
 
-                        var eventID = e[Object.keys(e)[0]]['ID']
-                        cell.setAttribute('id', eventID)
-                        // add clickable icon to cell
-                        var icon = document.createElement('icon')
-                        icon.classList.add('fa-solid')
-                        icon.classList.add('fa-circle')
-                        icon.setAttribute('style', 'color: ' + e[Object.keys(e)[0]]['colour'] + '; cursor: pointer;')
+// //                         var eventID = e[Object.keys(e)[0]]['ID']
+// //                         cell.setAttribute('id', eventID)
+// //                         // add clickable icon to cell
+// //                         var icon = document.createElement('icon')
+// //                         icon.classList.add('fa-solid')
+// //                         icon.classList.add('fa-circle')
+// //                         icon.setAttribute('style', 'color: ' + e[Object.keys(e)[0]]['colour'] + '; cursor: pointer;')
 
-                        icon.onclick = function () {
-                            displayEvent(eventID)
-                            //     var chosenEvent = _.find(allData, function (o) { return o['ID'] === eventID })
-                            //     // build event
-                            //     var tbody = document.getElementById('calTableBody')
-                            //     // clear current table contents
-                            //     tbody.replaceChildren()
-                            //     var tr = document.createElement('tr')
-                            //     for (let i = 0; i < Object.keys(chosenEvent).length - 4; i++) {
-                            //         let td = document.createElement("td");
-                            //         // first column is date and needs styling 
-                            //         var innerText = chosenEvent[Object.keys(chosenEvent)[i]];
-                            //         if (i === 0) {
-                            //             var formattedDates = shorternDates(innerText)
-                            //             td.innerText = formattedDates; // Set the value as the text of the table cell
-                            //         } else {
-                            //             td.innerText = innerText; // Set the value as the text of the table cell
-                            //         }
-                            //         tr.appendChild(td); // Append the table cell to the table row
-                            //     }
-                            //     tbody.appendChild(tr); // Append the table row to the table
-                        }
-                        cell.appendChild(icon)
-                    }
-                })
+// //                         icon.onclick = function () {
+// //                             displayEvent(eventID)
+// //                             //     var chosenEvent = _.find(allData, function (o) { return o['ID'] === eventID })
+// //                             //     // build event
+// //                             //     var tbody = document.getElementById('calTableBody')
+// //                             //     // clear current table contents
+// //                             //     tbody.replaceChildren()
+// //                             //     var tr = document.createElement('tr')
+// //                             //     for (let i = 0; i < Object.keys(chosenEvent).length - 4; i++) {
+// //                             //         let td = document.createElement("td");
+// //                             //         // first column is date and needs styling 
+// //                             //         var innerText = chosenEvent[Object.keys(chosenEvent)[i]];
+// //                             //         if (i === 0) {
+// //                             //             var formattedDates = shorternDates(innerText)
+// //                             //             td.innerText = formattedDates; // Set the value as the text of the table cell
+// //                             //         } else {
+// //                             //             td.innerText = innerText; // Set the value as the text of the table cell
+// //                             //         }
+// //                             //         tr.appendChild(td); // Append the table cell to the table row
+// //                             //     }
+// //                             //     tbody.appendChild(tr); // Append the table row to the table
+// //                         }
+// //                         cell.appendChild(icon)
+// //                     }
+// //                 })
 
-                row.appendChild(cell);
-                date++;
-            }
-        }
+// //                 row.appendChild(cell);
+// //                 date++;
+// //             }
+// //         }
 
-        tbl.appendChild(row); // appending each row into calendar body.
-    }
+// //         tbl.appendChild(row); // appending each row into calendar body.
+// //     }
 
-}
+// // }
 
-// note expects month to be zero indexed e.g. January = 0
-function getEventsForMonth(month, year) {
-    var events = []
+// // note expects month to be zero indexed e.g. January = 0
+// function getEventsForMonth(month, year) {
+//     var events = []
 
-    // colour code events
-    var colours = ['#0b3954', '#bfd7ea', '#ff6663', '#cbdf90', '#FFC100', '#353531', '#EC4E20', '#FF9505', '#016FB9', '#000000']
-    var currentColour = 0
+//     // colour code events
+//     var colours = ['#0b3954', '#bfd7ea', '#ff6663', '#cbdf90', '#FFC100', '#353531', '#EC4E20', '#FF9505', '#016FB9', '#000000']
+//     var currentColour = 0
 
-    allData.forEach((entry) => {
-        // get colour for event or go back to beginning of list
-        if (!colours[currentColour]) {
-            currentColour = 0
-        }
+//     allData.forEach((entry) => {
+//         // get colour for event or go back to beginning of list
+//         if (!colours[currentColour]) {
+//             currentColour = 0
+//         }
 
-        var dates = entry.datesformatted.split(',')
+//         var dates = entry.datesformatted.split(',')
 
-        for (let index = 0; index < dates.length; index++) {
-            var date = new Date(dates[index])
+//         for (let index = 0; index < dates.length; index++) {
+//             var date = new Date(dates[index])
 
-            if (date.getFullYear() === year && date.getMonth() === month) {
+//             if (date.getFullYear() === year && date.getMonth() === month) {
 
-                var obj = {}
-                entry['colour'] = colours[currentColour]
-                obj[date] = entry
-                events.push(obj)
-            }
-        }
-        // take next colour for next event
-        currentColour += 1
-    })
+//                 var obj = {}
+//                 entry['colour'] = colours[currentColour]
+//                 obj[date] = entry
+//                 events.push(obj)
+//             }
+//         }
+//         // take next colour for next event
+//         currentColour += 1
+//     })
 
-    return events
-}
+//     return events
+// }
 
 function nextTablePage() {
     //add next rows if there are them
@@ -720,7 +721,7 @@ function searchIfEnter(e) {
 
 function searchDisplayedData() {
     let searchFor = document.getElementById('searchInput').value.toLowerCase()
-    displayedData = allData
+    // displayedData = allData
 
     // reset to displaying everything?
 
@@ -730,9 +731,10 @@ function searchDisplayedData() {
     if (searchFor && searchFor.length > 0) {
         // search title, writers, composers, company, director and cast columns
         displayedData.forEach((entry) => {
-            var searchText = (entry['Title'] + entry['Writers'] + entry['Composers'] + entry['Company'] + entry['Director'] + entry['Cast'] + entry['Production Team']).toString().toLowerCase()
+            var searchText = (entry['Author Surname'] + entry['Author First Name'] + entry['Full Title'] + entry['Language'] + entry['Translator Surname'] + entry['Translator First Name'] + entry['Publisher'] + entry['Place of Publication'] + entry['Year of Publication']).toString().toLowerCase()
 
             if (searchText.includes(searchFor)) {
+                
                 results.push(entry)
             }
         })
