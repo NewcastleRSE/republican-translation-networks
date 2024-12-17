@@ -17,13 +17,12 @@ $('#dataTable').hide()
 
 
 $(window).on('load', function () {
-
-    const key = 
-
-    https://docs.google.com/spreadsheets/d/1xylPWSG2CSaEi_-TBdBTaiNUYhVEKTNLj3MyYKc65hs/edit?usp=sharing
+    const key = 'AIzaSyCv-S8EVA4SDGODRacwtNB1TjGIYb-q1nA'
+    const spreadID = '1atlVZx6zTu7hU323a2m8-ZymrdeaPlIn8bsfE7Vw5Ak'
 
     //    Get data from sheets
     $.getJSON(
+        
         "https://sheets.googleapis.com/v4/spreadsheets/1atlVZx6zTu7hU323a2m8-ZymrdeaPlIn8bsfE7Vw5Ak/values/Sheet1?key=" + key,
 
         (data) => {
@@ -33,16 +32,19 @@ $(window).on('load', function () {
 
             // data processing
             parsedData = assignIDs(parsedData)
-            allData = standardiseTypeCol(parsedData)
-            allData = standardiseDataCol(allData)
-            displayedData = allData
-
+            // allData = standardiseTypeCol(parsedData)
+            // allData = standardiseDataCol(allData)
+            // displayedData = allData
+            displayedData = parsedData
+            allData = parsedData
+           //  console.log(displayedData)
             // create radio buttons for genre
-            createGenreRadios()
-
+            // createGenreRadios()
+            
             // create table
-            createTable(allData)
-            createCalendar(currentMonth, currentYear);
+            //createTable(allData)
+            createTable(displayedData)
+            // createCalendar(currentMonth, currentYear);
         }
     )
 })
@@ -61,6 +63,10 @@ function createTable(dataToDisplay) {
     let container = document.getElementById("showData");
     container.replaceChildren()
 
+
+    // additional info to exlude from main display
+    let indexesToHide = []
+
     // reset pages
     allRowsIntoPages = []
 
@@ -72,8 +78,8 @@ function createTable(dataToDisplay) {
         table.classList.add('table')
         table.classList.add('table-hover')
 
-        // Get the keys (column names) of the first object in the JSON data
-        cols = Object.keys(dataToDisplay[0]);
+        // Get the keys (column names) of an object with all keys present
+        cols = Object.keys(dataToDisplay[193]);
 
         // Create the header element
         let thead = document.createElement("thead");
@@ -81,15 +87,17 @@ function createTable(dataToDisplay) {
 
         // Loop through the column names and create header cells
         cols.forEach((item) => {
-            // ignore ID and checked by columns
-            if (item != 'ID' && !item.startsWith('Checked by?') && item != 'datesformatted') {
+            // ignore ID  columns
+            if (item != 'ID') {
                 let th = document.createElement("th");
                 th.setAttribute('scope', 'col')
                 th.innerText = item; // Set the column name as the text of the header cell
-                // hide all cols except date and title
-
-                if (item !== 'Date' && item !== 'Title') {
-                    th.style.display = 'none'
+                
+                // exclude some additional info cells
+                if (item === 'Printer' || item === 'ID' || item === 'Latitude' || item === 'Longitude' || item === 'Format' || item === 'Additional Information' || item === 'Available at' || item === 'ESTC' || item === 'Additional authors') {    
+                    th.style.display = 'none'  
+                    console.log(item)
+                    indexesToHide.push(cols.indexOf(item))       
                 }
 
                 tr.appendChild(th); // Append the header cell to the header row
@@ -110,19 +118,25 @@ function createTable(dataToDisplay) {
             // Get the values of the current object in the JSON data
             let vals = Object.values(item);
 
-            // Loop through the values and create table cells other than the final ID column
-            for (let i = 0; i < vals.length - 4; i++) {
+
+            // get indexes of the columns to hide (excuded above from header)
+
+
+            // Loop through the values and create table cells other than the excluded columns
+            for (let i = 0; i < vals.length; i++) {
+                
                 let td = document.createElement("td");
                 // first column is date and needs styling 
-                if (i === 0) {
-                    var formattedDates = shorternDates(vals[i])
-                    td.innerText = formattedDates.substring(0, 11) + '...' // Set the value as the text of the table cell
-                } else {
+                // if (i === 0) {
+                //     var formattedDates = shorternDates(vals[i])
+                //     td.innerText = formattedDates.substring(0, 11) + '...' // Set the value as the text of the table cell
+                // } else {
                     td.innerText = vals[i]; // Set the value as the text of the table cell
-                }
-
+                //}
+                // console.log(item)
                 // hide everything but date and title
-                if (i !== 0 && i !== 1) {
+                if (indexesToHide.includes(i)) {
+                   
                     td.style.display = 'none'
                 }
 
@@ -135,7 +149,8 @@ function createTable(dataToDisplay) {
             }
 
             allHtmlRows.push(tr)
-            //tbody.appendChild(tr); // Append the table row to the table
+           
+            // tbody.appendChild(tr); // Append the table row to the table
         });
 
         // divide rows into pages
@@ -151,8 +166,14 @@ function createTable(dataToDisplay) {
             tbody.appendChild(tr)
         })
 
+        // allHtmlRows.forEach((tr) => {
+        //     tbody.appendChild(tr)
+        // })
+
         table.appendChild(tbody)
         container.appendChild(table) // Append the table to the container element
+
+        document.getElementById("dataTable").style.display = "inline"
     }
 }
 
@@ -182,7 +203,7 @@ function displayEvent(id) {
     Object.keys(item).forEach((key) => {
 
         // ignore ID and checked by columns
-        if (key != 'ID' && !key.startsWith('Checked by?') && key != 'datesformatted' && key !== 'colour') {
+        if (key != 'ID' ) {
             // row per object key
             let tr = document.createElement("tr");
             // header is key
@@ -191,13 +212,14 @@ function displayEvent(id) {
             th.innerText = key; // Set the column name as the text of the header cell
             // contents of next cell is value
             let td = document.createElement("td");
+            td.style.textAlign = 'left'
             // first column is date and needs styling 
-            if (key === 'Date') {
-                var formattedDates = shorternDates(item[key])
-                td.innerText = formattedDates// Set the value as the text of the table cell
-            } else {
+            // if (key === 'Date') {
+            //     var formattedDates = shorternDates(item[key])
+            //     td.innerText = formattedDates// Set the value as the text of the table cell
+            // } else {
                 td.innerText = item[key]; // Set the value as the text of the table cell
-            }
+            //}
             tr.appendChild(th); // Append the header cell to the header row
             tr.appendChild(td)
             tbody.appendChild(tr)
