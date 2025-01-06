@@ -20,3 +20,6 @@ The map is built using [Leaflet](https://leafletjs.com/).
 The site gets API keys from an Azure Function to connect to Google Sheets and use tiles from [Thunderforest](https://www.thunderforest.com/tutorials/leaflet/). 
 
 To enable Google Drive API for Sheets follow these [instructions](https://developers.google.com/drive/api/v3/enable-drive-api).
+
+## Running locally
+`bundle exec jekyll serve`
