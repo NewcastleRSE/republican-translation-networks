@@ -4,9 +4,10 @@
 
 var allData;
 var displayedData
+
 let today = new Date();
 let cols;
-let numberOfCols = 22;
+let numberOfCols = 24;
 
 var itemToGetColsFrom = {}
 
@@ -34,12 +35,41 @@ $(window).on('load', function () {
         (data) => {
             // parse data from Sheets API into JSON
             var parsedData = Papa.parse(Papa.unparse(data['values']), { header: true }).data
+            const modelObj = {
+                "Type of Text": "",
+                "Author Surname": "",   
+                "Author First Name": "",
+                "Short Title": "",
+                "Language": "",
+                "Translator Surname": "",
+                "Translator First Name": "",
+                "Place of Publication": "",
+                "Publisher": "",
+                "Printer": "",
+                "Latititude": "",
+                "Longitude": "",
+                "Year of Publication": "",
+                "Imprint": "",
+                "Format": "",
+                "Full Title": "",
+                "Edition": "",
+                "Volumes": "",
+                "Pages": "",
+                "Plates": "",
+                "Library Holdings": "",
+                "STC": "",
+                "Additional information"    : ""
+            }
 
+            const outputArray = parsedData.map((item) => {
+                return { ...modelObj, ...item }
+            })
+            console.log(outputArray)
 
             // data processing
-            parsedData = assignIDs(parsedData)
-            displayedData = parsedData
-            allData = parsedData
+           // parsedData = assignIDs(parsedData)
+            // displayedData = parsedData
+            allData = outputArray
            //  console.log(displayedData)
         setupFilters()
             
@@ -48,7 +78,7 @@ $(window).on('load', function () {
         itemToGetColsFrom = allData[allData.findIndex((entry) => Object.keys(entry).length === numberOfCols)]
 
             // create table
-            createTable(displayedData)
+            createTable(outputArray)
         }
     )
     document.getElementById('browse').style.display = 'inline'

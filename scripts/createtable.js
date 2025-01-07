@@ -40,6 +40,7 @@ function createTable(dataToDisplay) {
 
         // Loop through the column names and create header cells
         cols.forEach((item) => {
+           
              // ignore ID  columns
             item = item.trim()
             if (item != 'ID') {
@@ -48,11 +49,12 @@ function createTable(dataToDisplay) {
                 th.innerText = item; // Set the column name as the text of the header cell
                 
                 // exclude some additional info cells
-                if (item === 'Printer' || item === 'ID' || item === 'Latitude' || item === 'Longitude' || item === 'Format' || item === 'Additional information' || item === 'Available at' || item === 'ESTC' || item === 'Additional authors' || item === 'Full Title' || item === 'Library Holdings' || item === 'Pages' || item === 'Volumes') {    
+                if (item === 'Latititude' || item === 'Edition' || item === 'Plates' || item === 'STC' || item === 'Printer' || item === 'ID' || item === 'Latitude' || item === 'Longitude' || item === 'Format' || item === 'Additional information' || item === 'Available at' || item === 'ESTC' || item === 'Additional authors' || item === 'Full Title' || item === 'Library Holdings' || item === 'Pages' || item === 'Volumes') {    
                     th.style.display = 'none'  
                     
                     indexesToHide.push(cols.indexOf(item))       
                 }
+               
 
                 tr.appendChild(th); // Append the header cell to the header row
             }
@@ -66,6 +68,7 @@ function createTable(dataToDisplay) {
 
         // Loop through the JSON data and create table rows
         let allHtmlRows = []
+        
         dataToDisplay.forEach((item) => {
             let tr = document.createElement("tr");
 
