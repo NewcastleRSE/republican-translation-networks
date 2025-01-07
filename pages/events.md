@@ -7,7 +7,7 @@ title: Events
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
-  <summary class="postTitle">26 February 2025, 4pm, Prof. Dr. Susanne Lachenicht (Bayreuth University), 'Refugee History and Subaltern Studies', Modern European History Seminar, Newcastle University, Armstrong Building, Room tbc<br>
+  <summary class="postTitle">26 February 2025, 3-5pm, Workshop 'Exile, Migration, Translation' with Prof. Dr. Susanne Lachenicht (Bayreuth University), Newcastle University, Armstrong Building, ARMB 1.05<br>
   </summary>
 
 </details>
