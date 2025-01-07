@@ -38,41 +38,88 @@
         {% endfor %}
     </ul>
 </nav> -->
+
+
 <script defer src="../assets/solid.js"></script>
 <script defer src="../assets/fontawesome.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 <link rel="stylesheet" type="text/css" href="../style.css">
 
-<div class="topnav" id="myTopnav">
-    <a href="/" >Home</a>
-    <a href="/pages/about.html">About Gaby Mahlberg</a>
-    <a href="/pages/updates.html">Research Updates</a>
-    <a href="/pages/map.html">Map</a>
-    <a href="/pages/search.html">Browse Data</a>
-   
-    <div class="dropdown">
-      <button class="dropbtn">Visuals
-        
-        <i class="fa fa-caret-down"></i>
-      </button>
-      <div class="dropdown-content">
-        <a href="/pages/eruditorum.html">The Acta Eruditorium</a>
-        <a href="/pages/lastpaper.html">Sidney's Last paper</a>
-        <a href="/pages/defensio.html">Milton's Defensio</a>
-        <a href="/pages/commonwealth.html">Nedham's True State of the Case of the Commonwealth</a>
-      </div>
+
+
+
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+      aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+         
+            <a class="nav-link" href="/" >Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/pages/about.html">About Gaby Mahlberg</a>
+        </li>
+        <li class="nav-item">
+           <a class="nav-link" href="/pages/updates.html">Research Updates</a>
+        </li>
+        <li class="nav-item">
+           <a class="nav-link" href="/pages/map.html">Map</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/pages/search.html">Browse Data</a>
+
+        </li>
+        <div class="dropdown">
+          <li class="nav-link">Visuals
+            <i class="fa fa-caret-down"></i>
+          </li>
+          <div class="dropdown-content">
+            <li class="nav-item"><a class="nav-link" href="/pages/eruditorum.html">The Acta Eruditorium</a></li>
+            <li class="nav-item"><a class="nav-link " href="/pages/lastpaper.html">Sidney's Last paper</a></li>
+            <li class="nav-item"><a class="nav-link " href="/pages/defensio.html">Milton's Defensio</a></li>
+         <li  class="nav-item"><a class="nav-link" href="/pages/commonwealth.html">Nedham's True State of the Case of the Commonwealth</a></li>
+          </div>
+        </div> 
+        <!-- <li class="nav-item dropdown">
+          <a class="nav-link " href="#" role="button"  aria-expanded="false">
+            Visuals
+          </a>
+          <ul class="dropdown-menu-2">
+            <li><a class="dropdown-item" href="/pages/eruditorum.html">The Acta Eruditorium</a></li>
+            <li><a class="dropdown-item" href="/pages/lastpaper.html">Sidney's Last paper</a></li>
+            <li><a class="dropdown-item" href="/pages/defensio.html">Milton's Defensio</a></li>
+         <li><a class="dropdown-item" href="/pages/commonwealth.html">Nedham's True State of the Case of the Commonwealth</a></li>
+          </ul>
+        </li> -->
+    <li class="nav-item">
+      <a class="nav-link" href="/pages/events.html">Events</a>
+    </li>
+
+      </ul>
     </div>
-    <a href="javascript:void(0);" class="icon" onclick="toggledropdown()">&#9776;</a>
-    <a href="/pages/events.html">Events</a>
+
+
+    
+    
+    
   </div>
-  
-  <script>  
-    /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
-function toggledropdown() {
-  var x = document.getElementById("myTopnav");
-  if (x.className === "topnav") {
-    x.className += " responsive";
-  } else {
-    x.className = "topnav";
+</nav>
+
+
+
+<script>
+ 
+  function toggleDropdown() {
+    var x = document.getElementsByClassName("dropdown-menu-2")[0];
+    console.log(x)
+    x.classList.toggle("show");
+    x.classList.toggle("hide");
   }
-}
-  </script>
+</script>
