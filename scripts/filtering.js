@@ -14,12 +14,19 @@ for (i = 0; i < acc.length; i++) {
     createTable(allData)
     // set all accordions to 'all' radio button
     setRadiosToAll()
+    // get filter type to determine which panel to show
+    var filterType = this.id
+    var panelId = filterType + 'Panel'
+console.log(this.id)
+    // switch chevrons
+    switchChevrons(this)
 
     // if clicked panel is active, hide it
     if (this.classList.contains('active')) {
         this.classList.remove('active')
-        var panel = this.nextElementSibling;
+        var panel = document.getElementById(panelId)
         panel.style.display = 'none'
+        
 
     } else {
 
@@ -30,27 +37,42 @@ for (i = 0; i < acc.length; i++) {
      
     for(let j = 0; j < active.length; j++){
       active[j].classList.remove("active");
-      var panel = active[j].nextElementSibling;
+    //   var panel = active[j].nextElementSibling;
      
-      panel.style.display = "none";
+    //   panel.style.display = "none";
     }
-    
+    togglePanelVisibility(panelId)
     /* Toggle between adding and removing the "active" class,
     to highlight the button that controls the panel */
     this.classList.add("active");
 
     /* Toggle between hiding and showing the active panel */
-    var panel = this.nextElementSibling;
-    // if (panel.style.display === "block") {
-    //   panel.style.display = "none";
-    // } else {
-      panel.style.display = "block";
+    // var panel = this.nextElementSibling;
+    // // if (panel.style.display === "block") {
+    // //   panel.style.display = "none";
+    // // } else {
+    //   panel.style.display = "block";
     //}
   
 }
   });
 
 }
+}
+
+function togglePanelVisibility(panelToShow) {
+    // hide all panels
+    var panels = document.getElementsByClassName('panel')
+    for (var i = 0; i < panels.length; i++) {
+        panels[i].style.display = 'none'
+    }
+    // show panel to show
+    document.getElementById(panelToShow).style.display = 'block'
+}
+
+function switchChevrons(element) {
+    element.getElementsByTagName('svg')[0].classList.toggle('fa-chevron-down')
+    element.getElementsByTagName('svg')[0].classList.toggle('fa-chevron-up')
 }
 
 function createRadios(field, containerID) {

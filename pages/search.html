@@ -6,6 +6,7 @@ title: Browse the data
 <!DOCTYPE html>
 
 <html>
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,7 +16,7 @@ title: Browse the data
 
     <!-- jQuery-->
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-   
+
 
     <!-- PapaParse -->
     <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
@@ -24,7 +25,7 @@ title: Browse the data
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.1/css/all.min.css">
     <script src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.1/js/fontawesome.min.js"></script>
 
-   
+
 
     <!-- jQuery-CSV -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.11/jquery.csv.min.js"></script>
@@ -42,16 +43,17 @@ title: Browse the data
     <script src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js"></script>
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.22/css/jquery.dataTables.min.css" />
 
-<!--    lodash -->
+    <!--    lodash -->
     <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.10/lodash.min.js"></script>
 
-<!--    font awesome-->
+    <!--    font awesome-->
     <script src="https://use.fontawesome.com/999bbc64b1.js"></script>
 
 </head>
 <style>
 
 </style>
+
 <body>
 
 
@@ -59,78 +61,83 @@ title: Browse the data
 
     <div class="container mt-5">
 
-        <!-- <div class="text-center">
-            <button class="btn btn-light" onclick="browseAll()">Browse by type</button>
-            <button class="btn btn-light" onclick="showSearch()">Search performances</button>
-            <button class="btn btn-light" onclick="showCalendar()">Calendar view</button>
-        </div> -->
-        <!-- Info text -->
 
         <div id="welcomeText" class="container-lg mt-5 text-center">
             <div class="card-body">
-             
+
             </div>
         </div>
 
-        
 
 
-     
+
+
         <div id="browse">
 
-            <button class="filtersaccordion">Search</button>
-            <div class="panel">
-<!-- Search box -->
-        <div id="searchBox" class="input-group mb-3" style="width:300px;">
-            <input onkeyup="searchIfEnter(event)" id="searchInput" type="text" class="form-control" placeholder="Search">
-            <div class="input-group-append">
-                <button onclick="searchDisplayedData()" class="btn btn-outline-secondary" type="button"><i
-                        class="fa fa-magnifying-glass"></i></button>
-                <button onclick="clearSearch()" class="btn btn-outline-secondary" type="button">Reset</button>
-            </div>
+            <button id="search" class="filtersaccordion">Search<i class="fa fa-chevron-down chevron"></i></button>
+            
+
+            <button id="author" class="filtersaccordion">Filter by author<i
+                    class="fa fa-chevron-down chevron"></i></button>
+
+
+            <button id="language" class="filtersaccordion">Filter by language<i
+                    class="fa fa-chevron-down chevron"></i></button>
+
+
+            <button id="publisher" class="filtersaccordion">Filter by publisher<i
+                    class="fa fa-chevron-down chevron"></i></button>
 
         </div>
+
+        <!-- panels -->
+        <div id="searchPanel" class="panel">
+            <!-- Search box -->
+            <div id="searchBox" class=" mb-3" style="width:300px;">
+                <input onkeyup="searchIfEnter(event)" id="searchInput" type="text" class="form-control"
+                    placeholder="Search">
+                <div class="input-group-append">
+                    <button onclick="searchDisplayedData()" class="btn btn-outline-secondary" type="button"><i
+                            class="fa fa-magnifying-glass"></i></button>
+                    <button onclick="clearSearch()" class="btn btn-outline-secondary" type="button">Reset</button>
                 </div>
 
-            <button class="filtersaccordion">Filter by author</button>
-            <div class="panel">
-            <form id="authorBtns" class="">
-                            <div class="form-check ml-4">
-                                <input class="form-check-input" onclick="filterRadio('all', 'Author Surname')" type="radio" name="author" id="all">
-                                <label class="form-check-label" for="all">All</label>
-                            </div>
-                        </form>
             </div>
-           
-            <button class="filtersaccordion">Filter by language</button>
-            <div class="panel">
+        </div>
+        <div id="authorPanel" class="panel">
+            <form id="authorBtns" class="">
+                <div class="form-check ml-4">
+                    <input class="form-check-input" onclick="filterRadio('all', 'Author Surname')" type="radio"
+                        name="author" id="all">
+                    <label class="form-check-label" for="all">All</label>
+                </div>
+            </form>
+        </div>
+
+        <div id="languagePanel" class="panel">
             <form id="languageBtns" class="">
                 <div class="form-check ml-4">
-                    <input class="form-check-input" onclick="filterRadio('all', 'Language')" type="radio" name="language" id="all">
+                    <input class="form-check-input" onclick="filterRadio('all', 'Language')" type="radio"
+                        name="language" id="all">
                     <label class="form-check-label" for="all">All</label>
                 </div>
             </form>
-            </div>
-
-            <button class="filtersaccordion">Filter by publisher</button>
-            <div class="panel">
-            <form id="publisherBtns" class="">
-                <div class="form-check ml-4">
-                    <input class="form-check-input" onclick="filterRadio('all', 'Publisher')" type="radio" name="publisher" id="all">
-                    <label class="form-check-label" for="all">All</label>
-                </div>
-            </form>
-</div>
         </div>
 
-       
-        
+        <div id="publisherPanel" class="panel">
+            <form id="publisherBtns" class="">
+                <div class="form-check ml-4">
+                    <input class="form-check-input" onclick="filterRadio('all', 'Publisher')" type="radio"
+                        name="publisher" id="all">
+                    <label class="form-check-label" for="all">All</label>
+                </div>
+            </form>
+        </div>
 
         <!-- Table to display selected result -->
         <div class="card p-3 mt-4 mb-4" id="resultsCard">
             <button id="resultsCardClose " onclick="closeResultsCard()" type="button" class="btn-close "
-                aria-label="Close"><i
-                            class="fa fa-xmark"></i></button>
+                aria-label="Close"><i class="fa fa-xmark"></i></button>
 
             <div class="table-responsive" id="clickedEntry">
 
@@ -146,7 +153,8 @@ title: Browse the data
 
                     <button type="button" class="btn " id="next" onclick="nextTablePage()"><i
                             class="fa fa-arrow-right"></i></button>
-                            <button type="button" class="btn " id="pages" ><span class="currentPage"></span>/<span class="totalPages"></span></button>
+                    <button type="button" class="btn " id="pages"><span class="currentPage"></span>/<span
+                            class="totalPages"></span></button>
                 </div>
             </div>
             <div class="table-responsive" id="showData">
@@ -163,14 +171,15 @@ title: Browse the data
 
                     <button type="button" class="btn " id="next" onclick="nextTablePage()"><i
                             class="fa fa-arrow-right"></i></button>
-                            <button type="button" class="btn " id="pages" ><span class="currentPage"></span>/<span class="totalPages"></span></button>
+                    <button type="button" class="btn " id="pages"><span class="currentPage"></span>/<span
+                            class="totalPages"></span></button>
                 </div>
             </div>
 
 
         </div>
 
-       
+
 
 
 
@@ -181,4 +190,5 @@ title: Browse the data
     </div>
 
 </body>
+
 </html>
