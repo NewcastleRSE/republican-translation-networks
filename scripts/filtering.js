@@ -9,11 +9,18 @@ var i;
 
 for (i = 0; i < acc.length; i++) {
  acc[i].addEventListener("click", function() {
+
+    // reset displayed data to all data
+    createTable(allData)
+    // set all accordions to 'all' radio button
+    setRadiosToAll()
+
     // if clicked panel is active, hide it
     if (this.classList.contains('active')) {
         this.classList.remove('active')
         var panel = this.nextElementSibling;
         panel.style.display = 'none'
+
     } else {
 
     // else hide others and show clicked panel
@@ -85,6 +92,18 @@ function createRadios(field, containerID) {
     })
 }
 
+function setRadiosToAll() {
+    var radios = document.getElementsByTagName('input')
+    for (var i = 0, length = radios.length; i < length; i++) {
+        if (radios[i].checked && radios[i].id !== 'all') {
+            radios[i].checked = false;
+        } else if (radios[i].id === 'all') {
+            radios[i].checked = true;
+        }
+    }
+
+}
+
 
 
 //  ----- filtering data
@@ -92,11 +111,34 @@ function filterRadio(type, filter) {
 
     var container = document.getElementById('showData')
     container.replaceChildren()
-
+        var section = 'authorBtns'
+        if (filter === 'Language') {
+            section = 'languageBtns'
+        } 
+        else if (filter === 'Publisher') {
+            section = 'publisherBtns'
+        }
     if (type === 'all') {
         createTable(allData)
+        // remove any other radio buttons selected
+        
+        var radios = document.getElementById(section).getElementsByTagName('input')
+        
+        for (var i = 0, length = radios.length; i < length; i++) {
+            if (radios[i].checked && radios[i].id !== 'all') {
+                radios[i].checked = false;
+            } 
+        }
     } else {
-console.log()
+        // clear radio button 'all' if checked
+        var radios = document.getElementById(section).getElementsByTagName('input')
+        
+        for (var i = 0, length = radios.length; i < length; i++) {
+            if (radios[i].id === 'all') {
+                radios[i].checked = false;
+            } 
+        }
+
         // select only entries where type is correct
         var filteredData = _.filter(allData, function (o) {
             if (o[filter]) {
@@ -104,7 +146,7 @@ console.log()
             }
         });
         
-        console.log(filteredData)
+   
         createTable(filteredData)
     }
 }
