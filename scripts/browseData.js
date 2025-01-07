@@ -64,7 +64,7 @@ $(window).on('load', function () {
             const outputArray = parsedData.map((item) => {
                 return { ...modelObj, ...item }
             })
-            console.log(outputArray)
+           
 
             // data processing
            // parsedData = assignIDs(parsedData)

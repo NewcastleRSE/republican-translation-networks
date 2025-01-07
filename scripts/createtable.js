@@ -123,6 +123,16 @@ function createTable(dataToDisplay) {
             tbody.appendChild(tr)
         })
 
+        setCurrentPage(1)
+
+        // set total page number
+       
+        const els = document.getElementsByClassName('totalPages')
+        for (let i = 0; i < els.length; i++) {
+            els[i].innerText = allRowsIntoPages.length
+        }
+        
+
         // allHtmlRows.forEach((tr) => {
         //     tbody.appendChild(tr)
         // })
@@ -134,6 +144,13 @@ function createTable(dataToDisplay) {
     }
 }
 
+function setCurrentPage(num) {
+    const els = document.getElementsByClassName('currentPage')
+    for (let i = 0; i < els.length; i++) {
+        els[i].innerText = num
+    }  
+   
+}
 
 
 // display single event above table view
@@ -202,6 +219,7 @@ function nextTablePage() {
         var tbody = document.getElementById('tBodyBrowse')
         tbody.replaceChildren()
         currentPage++
+        setCurrentPage(currentPage + 1)
         allRowsIntoPages[currentPage].forEach((tr) => {
             tbody.appendChild(tr)
         })
@@ -215,6 +233,7 @@ function previousTablePage() {
         var tbody = document.getElementById('tBodyBrowse')
         tbody.replaceChildren()
         currentPage--
+        setCurrentPage(currentPage + 1)
         allRowsIntoPages[currentPage].forEach((tr) => {
             tbody.appendChild(tr)
         })
