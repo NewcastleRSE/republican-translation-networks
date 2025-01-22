@@ -7,8 +7,34 @@ title: Events
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
-  <summary class="postTitle">26 February 2025, 3-5pm, Workshop 'Exile, Migration, Translation' with Prof. Dr. Susanne Lachenicht (Bayreuth University), Newcastle University, Armstrong Building, ARMB 1.05<br>
+  <summary class="postTitle">26 February 2025, Workshop 'Exile, Migration, Translation', Newcastle University<br>
   </summary>
+
+**Workshop: ‘Exile, Migration, Translation’**
+
+Date: 26 February 2025, 3.00pm-5.30pm, Newcastle University, Armstrong Building, Room: ARMB 1.05
+
+This workshop explores histories of exile, migration and translation in Europe and America from the early modern period to the present. It looks at narratives of exile, refuge and migration across the centuries, and it will address among others the contributions made by political exiles, persecuted religious communities and migrants more generally to the social, political, intellectual and cultural landscape both of their host countries and their countries of origin. Particular attention will be paid to the role of language and translation as a means of communication as well as knowledge transfer and to the role of multilingual individuals and communities as cultural mediators.
+
+**Provisional Programme**
+
+**3.00pm Welcome and Introduction, Gaby Mahlberg (Newcastle)**
+
+**3.15pm-4.15pm Round of lightning talks**
+
+Mark Hutchinson (Gloucestershire), ‘(Mis)translating political terminology in English and German exchanges during the Thirty Years' War’ 
+
+Katalin Straner (Newcastle), ‘Evolution in Exile: The Priest, the Revolutionary, and the Wise Man in London, 1850-1866’
+
+Markian Prokopovych (Durham), ‘Urban networks and mediators of oversees migration in nineteenth-century cities of Central Europe’
+
+Daniel Siemens (Newcastle), ‘The German language is “just our blood. We can't get over it.” German-Jewish exiles in New York after 1945 and the problem of language and translation’
+
+**4.15-4.30pm Tea & Coffee**
+
+4.30-5.30pm Susanne Lachenicht (Bayreuth), ‘Refugee History and Subaltern Studies’, chair: Gaby Mahlberg (Newcastle) 
+
+**Everyone welcome! Contact: Gaby.Mahlberg@newcastle.ac.uk** 
 
 </details>
 
