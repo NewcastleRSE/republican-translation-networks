@@ -35,8 +35,8 @@ Each chapter follows the ideas to the environments from which they arose and in 
 
 **
 
-**‘David de Boer, The Early Modern Dutch Press in an Age of Religious Persecution: The Making of Humanitarianism (Oxford: Oxford University Press, 2023, 224pp, ISBN: 9780198876809)’, BMGN – Low Countries Historical Review (forthcoming).**
-(https://bmgn-lchr.nl/article/view/22325)
+**‘David de Boer, The Early Modern Dutch Press in an Age of Religious Persecution: The Making of Humanitarianism (Oxford: Oxford University Press, 2023, 224pp, ISBN: 9780198876809)’, BMGN – Low Countries Historical Review, 140 (2025), Open Access.**
+You can download a PDF [here](https://bmgn-lchr.nl/article/view/22325)
 
 ‘This book […] is a contribution to the growing literature on religious persecution and migration in early modern Europe […]. Unlike its predecessors, however, De Boer’s book does not focus so much on the refugees themselves, but on the way in which a relatively free Dutch press was employed by persecuted “religious minorities and their advocates” [across Europe] to appeal to a wider public in an attempt “to raise transnational solidarity” and, at times, to get foreign governments to intervene on their behalf (3). In doing so, De Boer argues, writers used an “inclusive language of compassion” which went beyond mere support for their own “oppressed brethren in the faith” (8), but instead employed a universalism which stressed the “common humanity” (5) of all victims of persecution.
   
