@@ -16,7 +16,7 @@ title: Research Updates
 You can follow the link to access the full text:
 
 **‘Markku Peltonen, The Political Thought of the English Free State, 1649-1653 (Cambridge: Cambridge University Press, 2023), 270pp. £75.00 (hardback) ISBN: 9781009212045’, History of Political Thought, 45:1 (2024), pp. 200-203.**
-https://www.ingentaconnect.com/contentone/imp/hpt/2024/00000045/00000001/art00008 
+You can find the full text [here](https://www.ingentaconnect.com/contentone/imp/hpt/2024/00000045/00000001/art00008) 
 
 ‘Markku Peltonen’s starting point […] is the relative neglect of the ideas of the period from the regicide of Charles I to Oliver Cromwell’s expulsion of the Rump Parliament. It was during this time that England’s rulers abolished the office of kingship and the House of Lords and turned England into a ‘Commonwealth and Free State’. The prevailing historiography, Peltonen contends, has focused too much on the de-facto-arguments raised during the Engagement controversy in defence of the non-monarchical state which had emerged from the fallout of the Civil Wars, and not enough on contemporary anti-monarchism or even principled defences of the new republic for its own sake. Peltonen here refers to earlier scholars such as Perez Zagorin or Margaret Judson. His main target, however, is the highly influential work of Blair Worden, who has defined English republicanism largely as a post-facto phenomenon, arguing that the victorious Parliamentarians had first cut off the King’s head and only started to think about the precise form of the country’s government afterwards. In this line of thought, the new kingless state was generally not considered too popular, while any meaningful republican theories only emerged much later in response to the government of the Rump rather than in unison with it. 
 
@@ -25,7 +25,7 @@ Peltonen, in contrast, shows that already ‘in the early days of the free state
 **
  
 **‘The hidden origins of the German Enlightenment. By Martin Mulsow (trans. H.C. Erik Midelfort). Pp. viii + 403 incl. 7 figs. Cambridge: Cambridge University Press, 2023. £100.00. 978 1 009 24115 1’, The Journal of Ecclesiastical History, 75:3 (2024), pp. 597-599.**
-https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/hidden-origins-of-the-german-enlightenment-by-martin-mulsow-trans-h-c-erik-midelfort-ideas-in-context-pp-viii-403-incl-7-figs-cambridgenew-york-cambridge-university-press-2023-100-978-1-009-24115-1/3E85613342377FE58DEB6E75E3A318E0 
+You can find the full text [here](https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/hidden-origins-of-the-german-enlightenment-by-martin-mulsow-trans-h-c-erik-midelfort-ideas-in-context-pp-viii-403-incl-7-figs-cambridgenew-york-cambridge-university-press-2023-100-978-1-009-24115-1/3E85613342377FE58DEB6E75E3A318E0) 
 
 ‘[This] is the second part of Martin Mulsow’s influential study Radikale Frühaufklärung in Deutschland, 1680-1720, 2 vols (Wallstein, 2018) in an English translation by H.C. Erik Midelford. Following on from Enlightenment Underground: Radical Germany, 1680-1720 (University of Virginia Press, 2015), Mulsow continues his exploration of heterodox ideas and their circulation in the German lands around the turn of the eighteenth century challenging and revising the long-established view of the German Enlightenment as a fundamentally moderate and cautious affair.
 
