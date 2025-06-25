@@ -8,7 +8,7 @@ title: Research Updates
 
 <details>
   <summary class="postTitle">Sidney in Germany and a History of Rights<br>
-    <span class="postSubtitle">After reviewing a number of books for various journals over the past year, I am pleased to announce a few upcoming publications of my own. Both of them had been some time in the making. </span>
+    <span class="postSubtitle">After reviewing a number of books for various journals over the past year, I am pleased to announce two upcoming publications of my own. Both of them had been some time in the making. </span>
   </summary>
 
 The first is a chapter on "The reception of Algernon Sidney in the German Enlightenment" which started as a paper for a workshop on Sidney's political thought in Caen. Gilles Olivo (Caen), Christopher Hamel (Rouen) and Tom Ashby (then EUI, now Tokyo) had organised two workshops on Sidney at Rouen and Caen universities in France ahead of the 400th anniversary of the republican's birth in 2023. I attended the Caen workshop in November 2022 which engaged with the longer term impact of Sidney's ideas in England, France and Germany.
