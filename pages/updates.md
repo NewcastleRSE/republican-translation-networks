@@ -30,7 +30,7 @@ The chapter traces rights of asylum in early modern Europe. While the term 'refu
 
 'The reception of Algernon Sidney in the German Enlightenment', in: Thomas Ashby and Christopher Hamel (eds), *Le Republicanisme d'Algernon Sidney* (Paris: Classiques Garnier, 2025 forthcoming), pp. 261-280.
 
-'The Rights of Asylum', in: Andrew Fitzmaurice and Rachel Hammersley (eds), *The Cambridge History of Rights, Volume III: The Sixteenth and Seventeenth Centuries* (Cambridge: Cambridge University Press, 2025 forhcoming), pp. 558-582. [here](https://www.cambridge.org/core/books/cambridge-history-of-rights/795F8DE1C089E43E0FCCC5E928FCC96A)
+'The Rights of Asylum', in: Andrew Fitzmaurice and Rachel Hammersley (eds), *The Cambridge History of Rights, Volume III: The Sixteenth and Seventeenth Centuries* (Cambridge: Cambridge University Press, 2025 forthcoming), pp. 558-582. [here](https://www.cambridge.org/core/books/cambridge-history-of-rights/795F8DE1C089E43E0FCCC5E928FCC96A)
 
 25/06/2025
 
