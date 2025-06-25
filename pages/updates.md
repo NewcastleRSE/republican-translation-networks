@@ -7,6 +7,25 @@ title: Research Updates
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
+  <summary class="postTitle">Sidney in Germany and a History of Rights<br>
+    <span class="postSubtitle">After reviewing a number of books for various journals over the past year, I am pleased to announce a few upcoming publications of my own. Both of them had been some time in the making. </span>
+  </summary>
+
+The first is a chapter on "The reception of Algernon Sidney in the German Enlightenment" which started as a paper for a workshop on Sidney's political thought at Caen. Gilles Olivo (Caen), Christopher Hamel (Rouen) and Tom Ashby (then EUI, now Tokyo) had organised two workshops on Sidney in Rouen and Caen in France ahead of the 400th anniversary of the republican's birth in 2023. I attended the Caen workshop in .... 2022 which engaged with... 
+
+My own paper explored the German reception of Sidney's work from the publication of his 1683 Scaffold Speech to the translation of his *Discourses* (1698) at the time of the French
+
+The seecond is a chapter on "The Rights of Asylum" in the seventeenth century for volume XXX of The Cambridge History of Rights, edited by Andrew Fitzmaurice (QMUL) and Rachel Hammersley (Newcastle). 
+
+This chapter examines the reception of Sidney’s Discourses in Enlightenment Germany, highlighting its transformation from a radical republican into a moderate constitutionalist work. Two German translations from the 1790s in particular reframed Sidney’s ideas to counter French Revolutionary radicalism, emphasizing reform within monarchical structures. Tracing Sidney’s early reception via his scaffold speech and Huguenot networks, the chapter explores how translations shaped his influence, making Discourses a key text in German natural law and political thought.
+
+25/06/2025
+
+gm
+
+</details>  
+
+<details>
   <summary class="postTitle">Short Reviews<br>
     <span class="postSubtitle">England - Germany - The United Provinces</span>
   </summary>
