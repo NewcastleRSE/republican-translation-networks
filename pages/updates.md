@@ -26,7 +26,10 @@ The seecond chapter due out later this year deals with "The Rights of Asylum" in
 The chapter traces rights of asylum in early modern Europe. While the term 'refugee' had its origins in the mass exodus of religious fugitives from France in the sixteenth and seventeenth century, my chapter argues that the figure of the political refugee was becoming increasingly more important over the course of the seventeenth century as the English Civil Wars led to various waves of migration - first of royalists, then of republicans - to the Continent and further afield. My chapter also shows that while formal processes and structured provisions for the reception of refugees were few and far between, the seventeenth century played an important role for the development of rights of asylum both in theory and practice as emerging states had to negotiate and define the legal status of those on the move.
 
 **
+
+
 'The reception of Algernon Sidney in the German Enlightenment', in: Thomas Ashby and Christopher Hamel (eds), *Le Republicanisme d'Algernon Sidney* (Paris: Classiques Garnier, 2025 forthcoming), pp. 261-280.
+
 'The Rights of Asylum', in: Andrew Fitzmaurice and Rachel Hammersley (eds), *The Cambridge History of Rights, Volume III: The Sixteenth and Seventeenth Centuries* (Cambridge: Cambridge University Press, 2025 forhcoming), pp. 558-582.
 
 25/06/2025
