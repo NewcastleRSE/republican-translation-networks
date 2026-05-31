@@ -7,6 +7,24 @@ title: Events
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
+  <summary class="postTitle">10 September 2026: Workshop 'Exile, Migration, Translation', GHIL<br>
+  </summary>
+
+**Workshop: Translating Political Thought between Britain and Germany, c1618-1848'**
+
+Date: 10 September 2026, 2-6pm, German Historical Institute, London (GHIL)
+
+This workshop will address issues relating to the translation of political thought between Britain and Germany in the early modern period. We will discuss both the ideas which travelled between the two countries in translation and the mechanics and material history behind this ideas transfer and cultural exchange. Who translated and published the texts concerned and why? How did these translations reach their readers? And how were they received? We will also discuss how we as intellectual historians analyse translations in our research and what insights might be gained from our different approaches.
+
+Confirmed speakers include: Elias Buchetmann (Rostock), Mark Hutchinson (Gloucestershire), Giovanni Lista (Halle/ CEU, Vienna), Kati Straner (Newcastle/ York St John), Peter Schroeder (UCL/ Paris).
+
+There are still a few spaces available if you are working on a relevant topic and happen to be in London on that date.
+
+For more details, please contact Gaby.Mahlberg@newcastle.ac.uk
+
+</details>
+
+<details>
   <summary class="postTitle">26 February 2025, Workshop 'Exile, Migration, Translation', Newcastle University<br>
   </summary>
 
