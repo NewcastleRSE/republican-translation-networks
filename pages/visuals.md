@@ -359,7 +359,7 @@ END OF REVIEW
 19/10/2023
 
 Update:
-I have now published an article on this, entitled 'Toland’s Milton, the Acta Eruditorum, and the Reception of English Republican Ideas in the German Enlightenment', *Milton Studies* 68:1 (2026) 68, pp. 113–132. <https://doi.org/10.5325/miltonstudies.68.1.0113>
+I have now published an article related to some of this, entitled 'Toland’s Milton, the Acta Eruditorum, and the Reception of English Republican Ideas in the German Enlightenment', *Milton Studies* 68:1 (2026) 68, pp. 113–132. <https://doi.org/10.5325/miltonstudies.68.1.0113>
 
 31/05/2026
 
