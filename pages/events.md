@@ -7,7 +7,7 @@ title: Events
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
-  <summary class="postTitle">10 September 2026: Workshop 'Exile, Migration, Translation', GHIL<br>
+  <summary class="postTitle">10 September 2026, Workshop: 'Exile, Migration, Translation', GHIL<br>
   </summary>
 
 **Workshop: Translating Political Thought between Britain and Germany, c1618-1848'**
