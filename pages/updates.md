@@ -7,6 +7,21 @@ title: Research Updates
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
+  <summary class="postTitle">The home stretch<br>
+    <span class="postSubtitle">Here's what I've been up to, and what comes next.</span>
+  </summary>
+
+I realise it's been almost a year since I've last updated this page. Time really flies, even though my progress on the project seems slow. However, I've been working on my book project and completed my chapters on Milton, Nedham, Ludlow/Sidney and Molesworth with the final chapter on Toland still in progress. I've been talking to a publisher and I've also got a working title for my book now, but will keep this under wraps until I know I'll go ahead with it. So I can see the finish line, but I'm not quite there yet. 
+
+In any case, the funded part of my project will come to an end by 29 September 2026, so I'm aiming to get the bulk of the work done by then. I'll be updating this website in the coming weeks and months, hoping to make my database of translations available to you all. I'm also planning a final workshop, titled 'Translating Political Thought between Britain and Germany, c1618-1848' for 10 September 2026 at the German Historical Institute in London (GHIL). But more on that soon! 
+
+31/05/2025
+
+gm
+
+</details>  
+
+<details>
   <summary class="postTitle">Sidney in Germany and a History of Rights<br>
     <span class="postSubtitle">After reviewing a number of books for various journals over the past year, I am pleased to announce two upcoming publications of my own. Both of them had been some time in the making. </span>
   </summary>
