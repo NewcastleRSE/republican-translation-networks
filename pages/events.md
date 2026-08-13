@@ -10,6 +10,8 @@ title: Events
   <summary class="postTitle">10 September 2026, Workshop: 'Translating Political Thought between Britain and Germany, c1618-1848', German Historical Institute London (GHIL)<br>
   </summary>
 
+**Date: 10 September 2026, Venue: German Historical Institute London (GHIL), Bloomsbury Square, Time: 2-6pm**
+
 From the confessional conflicts of the seventeenth century through the constitutional revolutions of the late eighteenth century and the liberal movements culminating in 1848, translation played a central role in the circulation of political ideas between Britain and the German-speaking lands. Translating political thought between the two countries and languages was, however, no easy task. The two countries’ constitutions and political systems were very different from each other. 
 
 Over the course of two seventeenth-century revolutions, Britain had developed a constitutional monarchy in which Parliament and the rule of law placed increasingly effective constraints on royal authority. It also saw the emergence of an increasingly vibrant civil society and political public. Many German territories, in contrast, retained estate-based political structures well into the eighteenth century, and constitutional representative government developed along a different trajectory than in Britain. The institutional structure of the Holy Roman Empire – with its emperor, imperial estates, and highly decentralised political order – preserved older constitutional arrangements for much longer than Britain did.
