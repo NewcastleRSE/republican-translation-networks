@@ -14,9 +14,46 @@ title: Events
 
 Date: 10 September 2026, 2-6pm, German Historical Institute, London (GHIL)
 
-This workshop will address issues relating to the translation of political thought between Britain and Germany in the early modern period. We will discuss both the ideas which travelled between the two countries in translation and the mechanics and material history behind this ideas transfer and cultural exchange. Who translated and published the texts concerned and why? How did these translations reach their readers? And how were they received? We will also discuss how we as intellectual historians analyse translations in our research and what insights might be gained from our different approaches.
+From the confessional conflicts of the seventeenth century through the constitutional revolutions of the late eighteenth century and the liberal movements culminating in 1848, translation played a central role in the circulation of political ideas between Britain and the German-speaking lands. Translating political thought between the two countries and languages was, however, no easy task. The two countries’ constitutions and political systems were very different from each other. 
 
-Confirmed speakers include: Elias Buchetmann (Rostock), Mark Hutchinson (Gloucestershire), Giovanni Lista (Halle/ CEU, Vienna), Kati Straner (Newcastle/ York St John), Peter Schroeder (UCL/ Paris).
+Over the course of two seventeenth-century revolutions, Britain had developed a constitutional monarchy in which Parliament and the rule of law placed increasingly effective constraints on royal authority. It also saw the emergence of an increasingly vibrant civil society and political public. Many German territories, in contrast, retained estate-based political structures well into the eighteenth century, and constitutional representative government developed along a different trajectory than in Britain. The institutional structure of the Holy Roman Empire – with its emperor, imperial estates, and highly decentralised political order – preserved older constitutional arrangements for much longer than Britain did.
+
+From the early eighteenth century onwards, reform-minded German thinkers therefore often looked to Britain for inspiration, and translations of English political works became increasingly popular. Many German intellectuals also expressed enthusiastic support for the cause of the American colonies. The French Revolution, meanwhile, raised the question of how far Germans were willing to go to achieve political change in their own country. As events turned increasingly violent in France, Britain – and in particular the conventionally ‘bloodless’ Revolution of 1688 – became a counter-model, representing gradual and peaceful reform rather than rapid and violent change. 
+
+While revolutionary France attracted the most radical minds, Britain now became the model for more moderate liberal and conservative thinkers. These and other developments can be traced in translations of political texts between the two countries and languages across the period. As they discussed different political models at home and abroad, however, translators on both sides confronted many linguistic challenges. As they grappled with unfamiliar political concepts and terminologies and adapted works for different audiences, translations could thus become conversations about political ideas and values as well as debating grounds about ways to implement and achieve political change. 
+
+The history of translation has come a long way over the past two decades, not least thanks to intellectual historians who have absorbed and adapted methods of translation studies and other disciplines and subdisciplines to the analysis of the transfer of ideas between linguistic communities and cultures. It is therefore fitting that scholars have identified a recent ‘translational turn’ to follow on from earlier ‘linguistic’ and ‘cultural’ turns. In particular an approach via ‘cultural translation’ has proved fruitful, addressing the way in which translators adapted and changed an original text for a new context to meet the needs of new recipient audiences and target cultures. 
+
+This workshop will address issues surrounding the translation of political thought between Britain and Germany in the early modern period and up to 1848. We will discuss both the political ideas that travelled between the two countries through translation and the mechanisms and material practices that enabled their circulation. Who translated and published the texts concerned and why? How did these translations reach their readers? And how were they received? We will also discuss how intellectual historians analyse translations and what insights different approaches can offer. 
+
+**Draft programme**
+
+**2.00 Welcome and Introduction, Gaby Mahlberg (Newcastle)**
+
+**2.15-3.45 Panel I**
+
+Mark Hutchinson (Gloucestershire),
+‘German and English (mis)translations of Stände and estates in the seventeenth century’
+
+Felix Waldmann (Cambridge), ‘Ephraim Gerhard and Locke’s Two Treatises’
+
+Peter Schroeder (UCL), ‘Translating Filmer and Hobbes’
+
+
+**3.45-4.15 Coffe break**
+
+
+**4.15-5.45 Panel II**
+
+Kati Straner (Newcastle/ York St John), tbc
+
+Giovanni Lista (CEU, Vienna), ‘Translating Political Thought through Historiography: 
+Robert Watson’s History of Philip II in German (1778-1782)’
+
+Elias Buchetmann (Rostock/ Humboldt, Berlin), 
+‘Interpreting the English Constitution for a German Audience: Translation as Political Practice in Early Nineteenth-Century Kiel’
+
+**5.45-6.00 Closing Discussion**
 
 There are still a few spaces available if you are working on a relevant topic and happen to be in London on that date.
 
