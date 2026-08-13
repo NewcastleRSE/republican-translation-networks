@@ -7,10 +7,8 @@ title: Events
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 <details>
-  <summary class="postTitle">10 September 2026, Workshop: 'Translating Political Thought between Britain and Germany, c1618-1848', GHIL<br>
+  <summary class="postTitle">10 September 2026, Workshop: 'Translating Political Thought between Britain and Germany, c1618-1848', German Historical Institute London (GHIL)<br>
   </summary>
-
-Date: 10 September 2026, 2-6pm, German Historical Institute, London (GHIL)
 
 From the confessional conflicts of the seventeenth century through the constitutional revolutions of the late eighteenth century and the liberal movements culminating in 1848, translation played a central role in the circulation of political ideas between Britain and the German-speaking lands. Translating political thought between the two countries and languages was, however, no easy task. The two countries’ constitutions and political systems were very different from each other. 
 
