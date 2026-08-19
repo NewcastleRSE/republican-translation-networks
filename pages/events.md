@@ -43,13 +43,13 @@ Peter Schroeder (UCL), ‘Translating Filmer and Hobbes’
 
 **4.15-5.45 Panel II**
 
-Kati Straner (Newcastle/ York St John), tbc
-
 Giovanni Lista (CEU, Vienna), ‘Translating Political Thought through Historiography: 
 Robert Watson’s History of Philip II in German (1778-1782)’
 
 Elias Buchetmann (Rostock/ Humboldt, Berlin), 
 ‘Interpreting the English Constitution for a German Audience: Translation as Political Practice in Early Nineteenth-Century Kiel’
+
+Katalin Straner (Newcastle/ York St John), ’Authorship, agency, adaptation? Hungarian translators of English scientific literature and the role of German, 1850s-1870s’
 
 **5.45-6.00 Closing Discussion**
 
