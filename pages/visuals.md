@@ -367,16 +367,5 @@ gm
   
 </details>
 
-<details>
-  <summary class="postTitle">Algernon Sidney's Scaffold Paper<br>  
-    <span class="postSubtitle">Dutch and German translations and editions</span>  
-  </summary>
 
-  xxx
-
-  26/08/2026
-
-gm
-  
-</details>
 
